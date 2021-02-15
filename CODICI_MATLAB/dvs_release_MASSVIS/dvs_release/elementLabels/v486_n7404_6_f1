@@ -1,0 +1,47 @@
+1, data (grid/matrix), 106, 594
+1, data (grid/matrix), 108, 16
+1, data (grid/matrix), 719, 16
+1, data (grid/matrix), 720, 592
+2, data, 101, 599
+2, data, 105, 11
+2, data, 723, 12
+2, data, 719, 596
+3, annotation, 279, 592
+3, annotation, 280, 12
+3, annotation, 297, 15
+3, annotation, 294, 594
+4, axis, 116, 603
+4, axis, 68, 603
+4, axis, 55, 98
+4, axis, 63, 87
+4, axis, 96, 8
+4, axis, 122, 8
+5, axis, 78, 635
+5, axis, 80, 594
+5, axis, 733, 589
+5, axis, 735, 629
+6, axis, 756, 603
+6, axis, 708, 602
+6, axis, 699, 6
+6, axis, 701, 1
+6, axis, 760, 0
+7, text (axis label), 5, 393
+7, text (axis label), 5, 247
+7, text (axis label), 49, 249
+7, text (axis label), 49, 398
+8, text (axis label), 336, 671
+8, text (axis label), 336, 632
+8, text (axis label), 507, 633
+8, text (axis label), 500, 671
+9, text (axis label), 763, 434
+9, text (axis label), 765, 174
+9, text (axis label), 802, 176
+9, text (axis label), 800, 433
+10, legend, 839, 600
+10, legend, 837, 2
+10, legend, 998, 0
+10, legend, 998, 595
+11, text (label), 964, 373
+11, text (label), 966, 237
+11, text (label), 998, 239
+11, text (label), 998, 376

@@ -1,0 +1,309 @@
+1, text (title), 20, 65
+1, text (title), 394, 66
+1, text (title), 400, 7
+1, text (title), 17, 7
+2, text (paragraph), 17, 92
+2, text (paragraph), 16, 130
+2, text (paragraph), 138, 128
+2, text (paragraph), 148, 93
+3, text (paragraph), 262, 92
+3, text (paragraph), 262, 120
+3, text (paragraph), 376, 120
+3, text (paragraph), 387, 92
+6, text (source), 214, 996
+6, text (source), 411, 996
+6, text (source), 403, 981
+6, text (source), 218, 973
+8, graphical element, 20, 84
+8, graphical element, 20, 75
+8, graphical element, 86, 71
+8, graphical element, 145, 76
+8, graphical element, 144, 84
+8, graphical element, 84, 87
+9, graphical element, 265, 75
+9, graphical element, 327, 71
+9, graphical element, 386, 75
+9, graphical element, 386, 84
+9, graphical element, 327, 87
+9, graphical element, 264, 84
+10, object (pictogram - twitter logo bird), 190, 97
+10, object (pictogram - twitter logo bird), 190, 73
+10, object (pictogram - twitter logo bird), 227, 74
+10, object (pictogram - twitter logo bird), 224, 99
+11, text (label), 176, 160
+11, text (label), 177, 121
+11, text (label), 239, 122
+11, text (label), 236, 162
+12, text (label), 166, 409
+12, text (label), 256, 407
+12, text (label), 256, 432
+12, text (label), 164, 434
+13, text (label), 70, 731
+13, text (label), 154, 730
+13, text (label), 152, 766
+13, text (label), 67, 766
+14, text (label), 19, 831
+14, text (label), 98, 830
+14, text (label), 96, 865
+14, text (label), 21, 864
+15, text (label), 145, 838
+15, text (label), 232, 840
+15, text (label), 226, 860
+15, text (label), 209, 874
+15, text (label), 164, 874
+15, text (label), 146, 857
+16, text (label), 309, 890
+16, text (label), 393, 891
+16, text (label), 392, 910
+16, text (label), 381, 924
+16, text (label), 319, 923
+16, text (label), 307, 910
+17, text, 80, 196
+17, text, 80, 184
+17, text, 121, 184
+17, text, 122, 199
+18, text, 297, 195
+18, text, 297, 184
+18, text, 334, 183
+18, text, 334, 196
+19, text (paragraph), 161, 212
+19, text (paragraph), 256, 213
+19, text (paragraph), 257, 224
+19, text (paragraph), 229, 235
+19, text (paragraph), 185, 234
+19, text (paragraph), 159, 225
+20, text (paragraph), 13, 253
+20, text (paragraph), 28, 238
+20, text (paragraph), 98, 238
+20, text (paragraph), 111, 253
+20, text (paragraph), 89, 271
+20, text (paragraph), 33, 268
+21, text (paragraph), 306, 253
+21, text (paragraph), 315, 237
+21, text (paragraph), 392, 237
+21, text (paragraph), 400, 253
+21, text (paragraph), 392, 271
+21, text (paragraph), 315, 271
+22, text (paragraph), 198, 286
+22, text (paragraph), 222, 289
+22, text (paragraph), 238, 302
+22, text (paragraph), 239, 322
+22, text (paragraph), 238, 334
+22, text (paragraph), 225, 343
+22, text (paragraph), 193, 345
+22, text (paragraph), 179, 331
+22, text (paragraph), 179, 313
+22, text (paragraph), 184, 299
+23, text (paragraph), 307, 353
+23, text (paragraph), 316, 330
+23, text (paragraph), 342, 332
+23, text (paragraph), 355, 357
+23, text (paragraph), 343, 375
+23, text (paragraph), 317, 375
+23, text (paragraph), 308, 363
+24, text (paragraph), 64, 365
+24, text (paragraph), 113, 364
+24, text (paragraph), 114, 375
+24, text (paragraph), 108, 388
+24, text (paragraph), 70, 388
+24, text (paragraph), 64, 375
+25, text (paragraph), 24, 420
+25, text (paragraph), 118, 420
+25, text (paragraph), 120, 438
+25, text (paragraph), 87, 451
+25, text (paragraph), 52, 452
+25, text (paragraph), 24, 441
+26, text (paragraph), 302, 452
+26, text (paragraph), 400, 452
+26, text (paragraph), 402, 471
+26, text (paragraph), 380, 492
+26, text (paragraph), 328, 492
+26, text (paragraph), 306, 469
+27, text (paragraph), 218, 513
+27, text (paragraph), 264, 513
+27, text (paragraph), 258, 550
+27, text (paragraph), 224, 547
+28, text (paragraph), 87, 537
+28, text (paragraph), 171, 535
+28, text (paragraph), 164, 568
+28, text (paragraph), 92, 568
+29, text (paragraph), 268, 581
+29, text (paragraph), 348, 581
+29, text (paragraph), 346, 592
+29, text (paragraph), 264, 594
+30, text (paragraph), 176, 615
+30, text (paragraph), 217, 614
+30, text (paragraph), 218, 658
+30, text (paragraph), 174, 660
+31, text (paragraph), 30, 647
+31, text (paragraph), 65, 646
+31, text (paragraph), 64, 670
+31, text (paragraph), 25, 669
+32, text (paragraph), 246, 678
+32, text (paragraph), 338, 678
+32, text (paragraph), 339, 711
+32, text (paragraph), 244, 712
+33, text (paragraph), 257, 738
+33, text (paragraph), 253, 776
+33, text (paragraph), 204, 776
+33, text (paragraph), 195, 753
+33, text (paragraph), 219, 735
+34, text (paragraph), 281, 738
+34, text (paragraph), 337, 737
+34, text (paragraph), 337, 774
+34, text (paragraph), 296, 774
+34, text (paragraph), 275, 754
+35, text (paragraph), 272, 804
+35, text (paragraph), 368, 804
+35, text (paragraph), 357, 829
+35, text (paragraph), 340, 839
+35, text (paragraph), 296, 834
+35, text (paragraph), 278, 825
+36, text (paragraph), 138, 884
+36, text (paragraph), 224, 887
+36, text (paragraph), 222, 926
+36, text (paragraph), 147, 927
+36, text (paragraph), 137, 909
+37, text (paragraph), 12, 295
+37, text (paragraph), 122, 294
+37, text (paragraph), 113, 332
+37, text (paragraph), 96, 341
+37, text (paragraph), 70, 342
+37, text (paragraph), 52, 334
+37, text (paragraph), 11, 334
+38, text (paragraph), 313, 297
+38, text (paragraph), 402, 296
+38, text (paragraph), 402, 316
+38, text (paragraph), 308, 316
+39, text (paragraph), 164, 267
+39, text (paragraph), 164, 253
+39, text (paragraph), 261, 254
+39, text (paragraph), 261, 267
+40, text, 173, 366
+40, text, 245, 365
+40, text, 245, 379
+40, text, 171, 379
+41, text (paragraph), 10, 473
+41, text (paragraph), 58, 475
+41, text (paragraph), 58, 521
+41, text (paragraph), 24, 521
+41, text (paragraph), 10, 495
+42, text (paragraph), 82, 475
+42, text (paragraph), 131, 475
+42, text (paragraph), 105, 504
+42, text (paragraph), 84, 504
+43, text (paragraph), 361, 508
+43, text (paragraph), 400, 509
+43, text (paragraph), 410, 525
+43, text (paragraph), 384, 548
+43, text (paragraph), 361, 549
+44, text (paragraph), 79, 595
+44, text (paragraph), 165, 597
+44, text (paragraph), 165, 609
+44, text (paragraph), 119, 609
+44, text (paragraph), 119, 624
+44, text (paragraph), 70, 626
+44, text (paragraph), 70, 614
+45, text, 242, 627
+45, text, 355, 628
+45, text, 355, 647
+45, text, 246, 647
+46, text, 260, 303
+46, text, 277, 304
+46, text, 277, 317
+46, text, 262, 316
+47, text, 132, 365
+47, text, 146, 365
+47, text, 146, 374
+47, text, 129, 374
+48, text, 271, 363
+48, text, 283, 365
+48, text, 287, 374
+48, text, 271, 375
+49, text, 321, 412
+49, text, 337, 413
+49, text, 338, 421
+49, text, 320, 422
+50, text, 123, 402
+50, text, 123, 392
+50, text, 139, 392
+50, text, 139, 402
+51, text (paragraph), 199, 464
+51, text (paragraph), 246, 465
+51, text (paragraph), 246, 486
+51, text (paragraph), 198, 485
+52, text, 333, 524
+52, text, 333, 513
+52, text, 346, 512
+52, text, 347, 522
+53, text, 235, 585
+53, text, 235, 576
+53, text, 249, 575
+53, text, 249, 584
+54, text, 83, 665
+54, text, 84, 652
+54, text, 97, 653
+54, text, 97, 665
+55, text, 38, 707
+55, text, 54, 707
+55, text, 54, 717
+55, text, 38, 717
+56, text, 176, 684
+56, text, 191, 684
+56, text, 191, 694
+56, text, 176, 694
+57, text, 205, 696
+57, text, 203, 686
+57, text, 219, 687
+57, text, 218, 696
+58, text, 130, 805
+58, text, 177, 806
+58, text, 176, 816
+58, text, 132, 817
+59, text, 89, 914
+59, text, 89, 902
+59, text, 104, 902
+59, text, 104, 913
+60, text, 174, 950
+60, text, 173, 938
+60, text, 185, 939
+60, text, 187, 948
+61, text, 234, 802
+61, text, 234, 793
+61, text, 247, 791
+61, text, 248, 802
+62, text, 269, 864
+62, text, 269, 852
+62, text, 288, 852
+62, text, 286, 864
+63, text, 338, 860
+63, text, 338, 851
+63, text, 352, 851
+63, text, 353, 862
+64, data (diagram), 0, 175
+64, data (diagram), 152, 169
+64, data (diagram), 157, 143
+64, data (diagram), 169, 112
+64, data (diagram), 183, 100
+64, data (diagram), 219, 102
+64, data (diagram), 235, 103
+64, data (diagram), 255, 126
+64, data (diagram), 261, 152
+64, data (diagram), 266, 165
+64, data (diagram), 416, 163
+64, data (diagram), 416, 960
+64, data (diagram), 1, 959
+65, data, 0, 172
+65, data, 153, 169
+65, data, 153, 152
+65, data, 159, 134
+65, data, 166, 114
+65, data, 180, 99
+65, data, 230, 100
+65, data, 247, 114
+65, data, 253, 129
+65, data, 259, 143
+65, data, 269, 163
+65, data, 415, 163
+65, data, 416, 959
+65, data, 1, 957

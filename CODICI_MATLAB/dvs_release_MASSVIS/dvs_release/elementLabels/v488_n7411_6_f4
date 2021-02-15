@@ -1,0 +1,88 @@
+1, text (label), 379, 77
+1, text (label), 382, 50
+1, text (label), 465, 61
+1, text (label), 460, 82
+2, legend, 645, 116
+2, legend, 645, 40
+2, legend, 870, 42
+2, legend, 867, 122
+3, text (label), 390, 228
+3, text (label), 431, 167
+3, text (label), 437, 162
+3, text (label), 457, 176
+3, text (label), 422, 244
+4, text (label), 414, 398
+4, text (label), 449, 414
+4, text (label), 534, 440
+4, text (label), 596, 448
+4, text (label), 603, 454
+4, text (label), 594, 483
+4, text (label), 478, 469
+4, text (label), 426, 448
+4, text (label), 397, 425
+4, text (label), 396, 419
+5, data (line), 238, 484
+5, data (line), 289, 476
+5, data (line), 292, 98
+5, data (line), 366, 69
+5, data (line), 383, 80
+5, data (line), 460, 84
+5, data (line), 552, 80
+5, data (line), 621, 112
+5, data (line), 688, 190
+5, data (line), 802, 441
+5, data (line), 887, 453
+5, data (line), 888, 543
+5, data (line), 722, 539
+5, data (line), 693, 468
+5, data (line), 601, 449
+5, data (line), 488, 429
+5, data (line), 412, 398
+5, data (line), 387, 395
+5, data (line), 355, 519
+5, data (line), 322, 534
+5, data (line), 238, 535
+6, axis, 242, 568
+6, axis, 242, 16
+6, axis, 173, 19
+6, axis, 182, 562
+7, axis (time), 227, 608
+7, axis (time), 238, 558
+7, axis (time), 909, 558
+7, axis (time), 908, 610
+8, axis, 953, 573
+8, axis, 882, 575
+8, axis, 882, 0
+8, axis, 956, 3
+9, text (axis label), 534, 617
+9, text (axis label), 667, 616
+9, text (axis label), 665, 645
+9, text (axis label), 531, 645
+10, text (axis label), 970, 55
+10, text (axis label), 999, 53
+10, text (axis label), 998, 529
+10, text (axis label), 963, 530
+11, text (axis label), 140, 451
+11, text (axis label), 133, 124
+11, text (axis label), 171, 125
+11, text (axis label), 175, 453
+12, axis, 107, 569
+12, axis, 109, 13
+12, axis, 51, 13
+12, axis, 67, 247
+12, axis, 70, 566
+13, text (axis label), 0, 516
+13, text (axis label), 0, 107
+13, text (axis label), 57, 107
+13, text (axis label), 62, 284
+13, text (axis label), 67, 506
+14, data, 888, 17
+14, data, 888, 562
+14, data, 238, 562
+14, data, 238, 18
+16, text (label), 722, 115
+16, text (label), 724, 43
+16, text (label), 871, 47
+16, text (label), 869, 73
+16, text (label), 811, 72
+16, text (label), 808, 117

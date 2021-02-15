@@ -1,0 +1,187 @@
+1, data (bars), 57, 975
+1, data (bars), 49, 867
+1, data (bars), 82, 732
+1, data (bars), 146, 730
+1, data (bars), 199, 730
+1, data (bars), 242, 754
+1, data (bars), 252, 773
+1, data (bars), 244, 816
+1, data (bars), 246, 865
+1, data (bars), 283, 920
+1, data (bars), 346, 928
+1, data (bars), 367, 920
+1, data (bars), 393, 920
+1, data (bars), 426, 924
+1, data (bars), 457, 934
+1, data (bars), 479, 967
+1, data (bars), 516, 967
+1, data (bars), 527, 867
+1, data (bars), 543, 844
+1, data (bars), 549, 746
+1, data (bars), 543, 629
+1, data (bars), 531, 486
+1, data (bars), 578, 473
+1, data (bars), 602, 473
+1, data (bars), 660, 471
+1, data (bars), 707, 480
+1, data (bars), 730, 516
+1, data (bars), 756, 713
+1, data (bars), 705, 814
+1, data (bars), 699, 855
+1, data (bars), 711, 883
+1, data (bars), 719, 912
+1, data (bars), 721, 959
+1, data (bars), 781, 965
+1, data (bars), 789, 939
+1, data (bars), 811, 928
+1, data (bars), 869, 930
+1, data (bars), 906, 936
+1, data (bars), 938, 951
+1, data (bars), 936, 969
+1, data (bars), 928, 975
+2, text (title), 498, 174
+2, text (title), 125, 180
+2, text (title), 121, 137
+2, text (title), 31, 125
+2, text (title), 31, 80
+2, text (title), 64, 76
+2, text (title), 61, 27
+2, text (title), 500, 35
+3, text (source), 549, 998
+3, text (source), 549, 977
+3, text (source), 998, 977
+3, text (source), 998, 998
+4, text (label), 20, 615
+4, text (label), 297, 615
+4, text (label), 297, 662
+4, text (label), 270, 689
+4, text (label), 70, 689
+4, text (label), 20, 654
+5, text (label), 389, 818
+5, text (label), 396, 857
+5, text (label), 494, 863
+5, text (label), 488, 887
+5, text (label), 295, 891
+5, text (label), 248, 859
+5, text (label), 248, 816
+6, text (label), 480, 357
+6, text (label), 711, 361
+6, text (label), 762, 377
+6, text (label), 758, 410
+6, text (label), 734, 430
+6, text (label), 525, 430
+6, text (label), 482, 395
+7, text (label), 838, 818
+7, text (label), 848, 857
+7, text (label), 936, 861
+7, text (label), 934, 887
+7, text (label), 746, 885
+7, text (label), 697, 854
+7, text (label), 697, 814
+8, annotation, 781, 350
+8, annotation, 781, 408
+8, annotation, 660, 473
+8, annotation, 607, 473
+8, annotation, 596, 475
+8, annotation, 479, 406
+8, annotation, 480, 348
+9, annotation, 322, 604
+9, annotation, 324, 660
+9, annotation, 205, 730
+9, annotation, 184, 732
+9, annotation, 152, 729
+9, annotation, 133, 729
+9, annotation, 20, 664
+9, annotation, 20, 604
+10, annotation, 529, 813
+10, annotation, 529, 863
+10, annotation, 434, 926
+10, annotation, 420, 922
+10, annotation, 389, 918
+10, annotation, 369, 922
+10, annotation, 352, 926
+10, annotation, 246, 863
+10, annotation, 244, 811
+11, annotation, 986, 811
+11, annotation, 986, 859
+11, annotation, 867, 928
+11, annotation, 854, 928
+11, annotation, 828, 930
+11, annotation, 816, 932
+11, annotation, 697, 857
+11, annotation, 699, 811
+12, annotation, 516, 256
+12, annotation, 516, 973
+12, annotation, 498, 973
+12, annotation, 502, 252
+13, graphical element, 510, 189
+13, graphical element, 0, 291
+13, graphical element, 4, 23
+13, graphical element, 510, 23
+14, text, 660, 45
+14, text, 824, 49
+14, text, 824, 84
+14, text, 660, 88
+15, text, 965, 104
+15, text, 973, 307
+15, text, 695, 303
+15, text, 697, 264
+15, text, 811, 262
+15, text, 809, 207
+15, text, 836, 203
+15, text, 834, 104
+16, object (pictogram - map of india), 949, 88
+16, object (pictogram - map of india), 926, 117
+16, object (pictogram - map of india), 889, 139
+16, object (pictogram - map of india), 857, 156
+16, object (pictogram - map of india), 848, 172
+16, object (pictogram - map of india), 834, 195
+16, object (pictogram - map of india), 824, 225
+16, object (pictogram - map of india), 809, 227
+16, object (pictogram - map of india), 795, 203
+16, object (pictogram - map of india), 787, 180
+16, object (pictogram - map of india), 777, 156
+16, object (pictogram - map of india), 766, 141
+16, object (pictogram - map of india), 748, 111
+16, object (pictogram - map of india), 762, 88
+16, object (pictogram - map of india), 781, 74
+16, object (pictogram - map of india), 787, 51
+16, object (pictogram - map of india), 789, 31
+16, object (pictogram - map of india), 816, 29
+16, object (pictogram - map of india), 836, 51
+16, object (pictogram - map of india), 836, 78
+16, object (pictogram - map of india), 854, 84
+16, object (pictogram - map of india), 873, 88
+16, object (pictogram - map of india), 893, 82
+16, object (pictogram - map of india), 912, 78
+16, object (pictogram - map of india), 934, 72
+17, object (pictogram - people), 703, 133
+17, object (pictogram - people), 715, 162
+17, object (pictogram - people), 727, 164
+17, object (pictogram - people), 738, 154
+17, object (pictogram - people), 742, 143
+17, object (pictogram - people), 762, 143
+17, object (pictogram - people), 768, 168
+17, object (pictogram - people), 773, 195
+17, object (pictogram - people), 771, 227
+17, object (pictogram - people), 764, 260
+17, object (pictogram - people), 688, 262
+17, object (pictogram - people), 678, 248
+17, object (pictogram - people), 676, 227
+17, object (pictogram - people), 666, 211
+17, object (pictogram - people), 666, 182
+17, object (pictogram - people), 680, 152
+18, graphical element, 998, 23
+18, graphical element, 639, 23
+18, graphical element, 639, 316
+18, graphical element, 998, 465
+19, data, 4, 973
+19, data, 4, 578
+19, data, 486, 244
+19, data, 529, 248
+19, data, 631, 314
+19, data, 711, 350
+19, data, 783, 350
+19, data, 787, 391
+19, data, 998, 469
+19, data, 998, 969

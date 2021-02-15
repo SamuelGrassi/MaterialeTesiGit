@@ -1,0 +1,49 @@
+1, data (tree/network), 2, 0
+1, data (tree/network), 662, 1
+1, data (tree/network), 670, 382
+1, data (tree/network), 669, 660
+1, data (tree/network), 0, 659
+2, text (label), 442, 383
+2, text (label), 442, 2
+2, text (label), 664, 2
+2, text (label), 671, 377
+2, text (label), 666, 658
+2, text (label), 443, 660
+3, text (label), 698, 397
+3, text (label), 812, 281
+3, text (label), 830, 300
+3, text (label), 719, 428
+4, text (label), 700, 617
+4, text (label), 833, 478
+4, text (label), 853, 496
+4, text (label), 721, 644
+5, text (label), 924, 385
+5, text (label), 924, 501
+5, text (label), 897, 504
+5, text (label), 896, 382
+6, text (label), 969, 567
+6, text (label), 970, 279
+6, text (label), 999, 279
+6, text (label), 997, 569
+7, annotation, 677, 199
+7, annotation, 704, 198
+7, annotation, 705, 559
+7, annotation, 678, 562
+8, annotation, 678, 571
+8, annotation, 705, 572
+8, annotation, 701, 660
+8, annotation, 675, 660
+9, annotation, 881, 201
+9, annotation, 900, 200
+9, annotation, 899, 660
+9, annotation, 879, 660
+10, annotation, 951, 143
+10, annotation, 969, 143
+10, annotation, 968, 660
+10, annotation, 949, 660
+11, data, 671, 0
+11, data, 686, 118
+11, data, 999, 133
+11, data, 999, 660
+11, data, 0, 660
+11, data, 0, 1

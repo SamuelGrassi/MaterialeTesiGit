@@ -1,0 +1,66 @@
+1, text (paragraph), 12, 5
+1, text (paragraph), 981, 8
+1, text (paragraph), 976, 51
+1, text (paragraph), 432, 51
+1, text (paragraph), 432, 95
+1, text (paragraph), 7, 93
+2, text (title), 40, 480
+2, text (title), 949, 479
+2, text (title), 949, 518
+2, text (title), 603, 517
+2, text (title), 603, 560
+2, text (title), 40, 554
+3, text (source), 48, 560
+3, text (source), 367, 559
+3, text (source), 359, 595
+3, text (source), 43, 589
+4, legend, 559, 249
+4, legend, 559, 346
+4, legend, 752, 344
+4, legend, 752, 307
+4, legend, 649, 304
+4, legend, 649, 246
+5, data (circle), 323, 168
+5, data (circle), 256, 189
+5, data (circle), 222, 225
+5, data (circle), 194, 281
+5, data (circle), 195, 342
+5, data (circle), 214, 390
+5, data (circle), 246, 424
+5, data (circle), 295, 448
+5, data (circle), 353, 450
+5, data (circle), 401, 440
+5, data (circle), 443, 412
+5, data (circle), 469, 369
+5, data (circle), 487, 297
+5, data (circle), 471, 241
+5, data (circle), 447, 214
+5, data (circle), 421, 186
+5, data (circle), 382, 170
+5, data (circle), 343, 161
+6, text (label), 169, 174
+6, text (label), 230, 173
+6, text (label), 225, 213
+6, text (label), 165, 217
+7, text (label), 222, 309
+7, text (label), 287, 296
+7, text (label), 291, 334
+7, text (label), 234, 344
+8, text (label), 378, 264
+8, text (label), 448, 264
+8, text (label), 443, 308
+8, text (label), 371, 315
+10, data, 30, 475
+10, data, 552, 480
+10, data, 557, 153
+10, data, 39, 152
+11, annotation, 233, 190
+11, annotation, 244, 203
+11, annotation, 243, 210
+11, annotation, 223, 203
+12, text (label), 582, 258
+12, text (label), 643, 258
+12, text (label), 643, 313
+12, text (label), 733, 316
+12, text (label), 733, 343
+12, text (label), 582, 344

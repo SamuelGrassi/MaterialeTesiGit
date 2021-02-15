@@ -1,0 +1,32 @@
+1, text (paragraph), 0, 60
+1, text (paragraph), 0, 0
+1, text (paragraph), 651, 0
+1, text (paragraph), 651, 54
+2, text (source), 0, 991
+2, text (source), 77, 992
+2, text (source), 75, 999
+2, text (source), 0, 999
+3, text, 0, 987
+3, text, 0, 977
+3, text, 262, 978
+3, text, 261, 989
+4, text (source), 558, 993
+4, text (source), 650, 991
+4, text (source), 651, 999
+4, text (source), 556, 999
+5, text (label), 214, 475
+5, text (label), 425, 471
+5, text (label), 420, 542
+5, text (label), 211, 543
+6, text (label), 266, 558
+6, text (label), 375, 559
+6, text (label), 373, 600
+6, text (label), 260, 598
+7, data (tree/network), 0, 64
+7, data (tree/network), 651, 61
+7, data (tree/network), 650, 969
+7, data (tree/network), 0, 971
+8, data, 651, 970
+8, data, 0, 969
+8, data, 2, 60
+8, data, 651, 63

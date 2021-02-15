@@ -1,0 +1,989 @@
+1, text (title), 159, 75
+1, text (title), 159, 26
+1, text (title), 600, 28
+1, text (title), 600, 73
+2, graphical element, 158, 11
+2, graphical element, 600, 11
+2, graphical element, 600, 24
+2, graphical element, 156, 23
+3, graphical element, 157, 90
+3, graphical element, 157, 78
+3, graphical element, 600, 78
+3, graphical element, 600, 92
+4, text (label), 4, 118
+4, text (label), 52, 118
+4, text (label), 55, 144
+4, text (label), 3, 142
+5, text (source), 573, 856
+5, text (source), 688, 857
+5, text (source), 688, 878
+5, text (source), 572, 877
+6, text (label), 563, 883
+6, text (label), 703, 883
+6, text (label), 706, 904
+6, text (label), 560, 903
+7, graphical element, 560, 910
+7, graphical element, 560, 904
+7, graphical element, 706, 903
+7, graphical element, 705, 912
+8, text (label), 608, 913
+8, text (label), 652, 913
+8, text (label), 652, 925
+8, text (label), 637, 943
+8, text (label), 628, 960
+8, text (label), 607, 960
+9, legend, 555, 965
+9, legend, 555, 878
+9, legend, 708, 880
+9, legend, 710, 964
+10, text (source), 570, 987
+10, text (source), 570, 967
+10, text (source), 693, 966
+10, text (source), 693, 986
+11, text (label), 400, 973
+11, text (label), 441, 973
+11, text (label), 439, 996
+11, text (label), 399, 994
+12, object (pictogram - car), 277, 140
+12, object (pictogram - car), 277, 123
+12, object (pictogram - car), 316, 119
+12, object (pictogram - car), 319, 140
+13, object (pictogram - car), 133, 226
+13, object (pictogram - car), 149, 221
+13, object (pictogram - car), 175, 229
+13, object (pictogram - car), 174, 241
+13, object (pictogram - car), 145, 248
+13, object (pictogram - car), 136, 240
+14, object (pictogram - car), 460, 368
+14, object (pictogram - car), 473, 360
+14, object (pictogram - car), 492, 368
+14, object (pictogram - car), 493, 379
+14, object (pictogram - car), 458, 380
+15, object (pictogram - car), 587, 345
+15, object (pictogram - car), 586, 326
+15, object (pictogram - car), 621, 322
+15, object (pictogram - car), 630, 337
+15, object (pictogram - car), 622, 348
+15, object (pictogram - car), 605, 348
+16, object (pictogram - car), 684, 365
+16, object (pictogram - car), 697, 364
+16, object (pictogram - car), 702, 385
+16, object (pictogram - car), 691, 404
+16, object (pictogram - car), 686, 392
+17, object (pictogram - car), 732, 363
+17, object (pictogram - car), 743, 361
+17, object (pictogram - car), 747, 385
+17, object (pictogram - car), 746, 403
+17, object (pictogram - car), 736, 403
+17, object (pictogram - car), 730, 393
+18, object (pictogram - car), 745, 438
+18, object (pictogram - car), 687, 441
+18, object (pictogram - car), 688, 427
+18, object (pictogram - car), 708, 418
+18, object (pictogram - car), 737, 420
+19, object (pictogram - car), 512, 565
+19, object (pictogram - car), 511, 554
+19, object (pictogram - car), 528, 547
+19, object (pictogram - car), 541, 555
+19, object (pictogram - car), 540, 565
+19, object (pictogram - car), 525, 569
+20, object (pictogram - car), 668, 555
+20, object (pictogram - car), 684, 548
+20, object (pictogram - car), 702, 554
+20, object (pictogram - car), 700, 567
+20, object (pictogram - car), 679, 567
+21, object (pictogram - car), 390, 645
+21, object (pictogram - car), 385, 654
+21, object (pictogram - car), 367, 661
+21, object (pictogram - car), 358, 650
+21, object (pictogram - car), 365, 640
+22, object (pictogram - car), 203, 742
+22, object (pictogram - car), 205, 725
+22, object (pictogram - car), 227, 721
+22, object (pictogram - car), 245, 728
+22, object (pictogram - car), 246, 743
+23, object (pictogram - car), 546, 670
+23, object (pictogram - car), 546, 657
+23, object (pictogram - car), 575, 657
+23, object (pictogram - car), 574, 671
+24, object (pictogram - car), 587, 799
+24, object (pictogram - car), 589, 783
+24, object (pictogram - car), 611, 784
+24, object (pictogram - car), 617, 799
+25, object (pictogram - motorcycle), 301, 936
+25, object (pictogram - motorcycle), 303, 919
+25, object (pictogram - motorcycle), 329, 913
+25, object (pictogram - motorcycle), 344, 923
+25, object (pictogram - motorcycle), 344, 936
+26, object (pictogram - motorcycle), 297, 810
+26, object (pictogram - motorcycle), 297, 793
+26, object (pictogram - motorcycle), 308, 783
+26, object (pictogram - motorcycle), 322, 783
+26, object (pictogram - motorcycle), 336, 793
+26, object (pictogram - motorcycle), 336, 807
+27, object (pictogram - building), 402, 142
+27, object (pictogram - building), 402, 122
+27, object (pictogram - building), 410, 118
+27, object (pictogram - building), 435, 118
+27, object (pictogram - building), 434, 143
+28, object (pictogram - building), 166, 351
+28, object (pictogram - building), 166, 332
+28, object (pictogram - building), 185, 332
+28, object (pictogram - building), 199, 336
+28, object (pictogram - building), 199, 351
+29, object (pictogram - building), 615, 504
+29, object (pictogram - building), 615, 492
+29, object (pictogram - building), 638, 493
+29, object (pictogram - building), 638, 506
+30, object (pictogram - car), 667, 504
+30, object (pictogram - car), 665, 492
+30, object (pictogram - car), 691, 494
+30, object (pictogram - car), 691, 506
+31, object (pictogram - building), 347, 509
+31, object (pictogram - building), 347, 499
+31, object (pictogram - building), 370, 499
+31, object (pictogram - building), 370, 511
+32, object (pictogram - peace sign), 72, 391
+32, object (pictogram - peace sign), 77, 374
+32, object (pictogram - peace sign), 88, 376
+32, object (pictogram - peace sign), 89, 390
+32, object (pictogram - peace sign), 84, 393
+33, object (pictogram - building), 133, 488
+33, object (pictogram - building), 163, 488
+33, object (pictogram - building), 163, 504
+33, object (pictogram - building), 132, 504
+34, object (pictogram - building), 415, 545
+34, object (pictogram - building), 415, 530
+34, object (pictogram - building), 448, 528
+34, object (pictogram - building), 448, 544
+35, object (pictogram - building), 550, 535
+35, object (pictogram - building), 585, 535
+35, object (pictogram - building), 587, 555
+35, object (pictogram - building), 554, 555
+36, object (pictogram - building), 703, 612
+36, object (pictogram - building), 703, 588
+36, object (pictogram - building), 743, 588
+36, object (pictogram - building), 743, 610
+37, object (pictogram - building), 530, 618
+37, object (pictogram - building), 530, 600
+37, object (pictogram - building), 562, 600
+37, object (pictogram - building), 562, 617
+38, object (pictogram - building), 336, 700
+38, object (pictogram - building), 336, 683
+38, object (pictogram - building), 382, 682
+38, object (pictogram - building), 380, 700
+39, object (pictogram - building), 163, 628
+39, object (pictogram - building), 163, 608
+39, object (pictogram - building), 196, 613
+39, object (pictogram - building), 195, 627
+40, object (pictogram - building), 470, 830
+40, object (pictogram - building), 470, 810
+40, object (pictogram - building), 498, 810
+40, object (pictogram - building), 497, 828
+41, object (pictogram - building), 406, 937
+41, object (pictogram - building), 407, 911
+41, object (pictogram - building), 439, 911
+41, object (pictogram - building), 439, 936
+42, object (pictogram - briefcase), 651, 207
+42, object (pictogram - briefcase), 680, 217
+42, object (pictogram - briefcase), 682, 244
+42, object (pictogram - briefcase), 650, 236
+43, object (pictogram - wings), 201, 199
+43, object (pictogram - wings), 250, 199
+43, object (pictogram - wings), 249, 217
+43, object (pictogram - wings), 199, 218
+44, object (pictogram - phone), 130, 330
+44, object (pictogram - phone), 132, 320
+44, object (pictogram - phone), 143, 320
+44, object (pictogram - phone), 143, 330
+45, object (pictogram - phone), 364, 351
+45, object (pictogram - phone), 378, 351
+45, object (pictogram - phone), 377, 362
+45, object (pictogram - phone), 361, 359
+46, object (pictogram - phone), 400, 392
+46, object (pictogram - phone), 412, 392
+46, object (pictogram - phone), 412, 406
+46, object (pictogram - phone), 400, 407
+47, object (pictogram - clothing)_, 700, 298
+47, object (pictogram - clothing)_, 724, 299
+47, object (pictogram - clothing)_, 724, 358
+47, object (pictogram - clothing)_, 700, 358
+48, object (pictogram - wings), 546, 465
+48, object (pictogram - wings), 594, 466
+48, object (pictogram - wings), 593, 480
+48, object (pictogram - wings), 545, 480
+49, object (pictogram - briefcase), 218, 419
+49, object (pictogram - briefcase), 233, 418
+49, object (pictogram - briefcase), 233, 433
+49, object (pictogram - briefcase), 220, 433
+50, object (pictogram - briefcase), 175, 557
+50, object (pictogram - briefcase), 189, 557
+50, object (pictogram - briefcase), 189, 574
+50, object (pictogram - briefcase), 176, 572
+51, object (pictogram - food), 630, 596
+51, object (pictogram - food), 630, 575
+51, object (pictogram - food), 646, 575
+51, object (pictogram - food), 646, 600
+52, object (pictogram - people), 590, 592
+52, object (pictogram - people), 612, 591
+52, object (pictogram - people), 610, 609
+52, object (pictogram - people), 588, 609
+53, object (pictogram - phone), 369, 628
+53, object (pictogram - phone), 383, 630
+53, object (pictogram - phone), 383, 642
+53, object (pictogram - phone), 369, 640
+54, object (pictogram - watch), 48, 594
+54, object (pictogram - watch), 85, 593
+54, object (pictogram - watch), 85, 609
+54, object (pictogram - watch), 50, 609
+55, object (pictogram - boxers), 10, 703
+55, object (pictogram - boxers), 44, 655
+55, object (pictogram - boxers), 85, 654
+55, object (pictogram - boxers), 85, 681
+55, object (pictogram - boxers), 73, 703
+56, object (pictogram - boxing ring), 207, 705
+56, object (pictogram - boxing ring), 231, 700
+56, object (pictogram - boxing ring), 248, 708
+56, object (pictogram - boxing ring), 233, 723
+56, object (pictogram - boxing ring), 212, 723
+57, object (pictogram - phone), 248, 726
+57, object (pictogram - phone), 260, 726
+57, object (pictogram - phone), 260, 738
+57, object (pictogram - phone), 248, 738
+58, object (pictogram - building), 336, 715
+58, object (pictogram - building), 369, 717
+58, object (pictogram - building), 369, 742
+58, object (pictogram - building), 335, 742
+59, object (pictogram - building), 598, 674
+59, object (pictogram - building), 599, 648
+59, object (pictogram - building), 632, 648
+59, object (pictogram - building), 628, 673
+60, object (pictogram - watch), 671, 649
+60, object (pictogram - watch), 678, 649
+60, object (pictogram - watch), 682, 673
+60, object (pictogram - watch), 672, 674
+61, object (pictogram - gun), 710, 657
+61, object (pictogram - gun), 729, 657
+61, object (pictogram - gun), 729, 673
+61, object (pictogram - gun), 706, 673
+62, object (pictogram - car), 578, 723
+62, object (pictogram - car), 590, 723
+62, object (pictogram - car), 589, 752
+62, object (pictogram - car), 578, 752
+63, object (pictogram - people), 426, 787
+63, object (pictogram - people), 460, 790
+63, object (pictogram - people), 461, 813
+63, object (pictogram - people), 423, 810
+64, object (pictogram - confederate flag), 430, 826
+64, object (pictogram - confederate flag), 459, 826
+64, object (pictogram - confederate flag), 457, 844
+64, object (pictogram - confederate flag), 429, 845
+65, object (pictogram - cage), 158, 788
+65, object (pictogram - cage), 173, 779
+65, object (pictogram - cage), 200, 782
+65, object (pictogram - cage), 196, 807
+65, object (pictogram - cage), 183, 818
+65, object (pictogram - cage), 159, 814
+66, object (pictogram - man), 61, 877
+66, object (pictogram - man), 70, 859
+66, object (pictogram - man), 86, 864
+66, object (pictogram - man), 85, 881
+67, object (pictogram - man), 139, 871
+67, object (pictogram - man), 143, 853
+67, object (pictogram - man), 165, 866
+67, object (pictogram - man), 164, 873
+68, text, 75, 149
+68, text, 78, 111
+68, text, 118, 106
+68, text, 118, 153
+69, text (label), 145, 95
+69, text (label), 215, 97
+69, text (label), 222, 120
+69, text (label), 221, 144
+69, text (label), 214, 163
+69, text (label), 158, 171
+69, text (label), 138, 166
+69, text (label), 130, 143
+69, text (label), 131, 118
+70, text, 298, 113
+70, text, 300, 92
+70, text, 384, 93
+70, text, 386, 108
+70, text, 617, 111
+70, text, 698, 108
+70, text, 699, 147
+70, text, 384, 150
+70, text, 380, 168
+70, text, 301, 170
+70, text, 277, 152
+70, text, 259, 151
+70, text, 259, 107
+71, text (label), 683, 205
+71, text (label), 685, 162
+71, text (label), 708, 165
+71, text (label), 709, 205
+72, text, 679, 258
+72, text, 628, 256
+72, text, 630, 211
+72, text, 645, 212
+72, text, 651, 233
+72, text, 676, 243
+73, text, 540, 253
+73, text, 541, 212
+73, text, 565, 194
+73, text, 586, 195
+73, text, 578, 218
+73, text, 563, 218
+73, text, 558, 257
+74, text, 516, 221
+74, text, 520, 196
+74, text, 463, 198
+74, text, 463, 217
+75, text, 494, 272
+75, text, 490, 254
+75, text, 441, 256
+75, text, 447, 212
+75, text, 429, 212
+75, text, 428, 248
+75, text, 359, 248
+75, text, 353, 213
+75, text, 332, 213
+75, text, 333, 247
+75, text, 305, 245
+75, text, 303, 265
+75, text, 279, 269
+75, text, 279, 285
+75, text, 320, 286
+75, text, 336, 260
+75, text, 411, 263
+75, text, 452, 268
+76, text, 281, 254
+76, text, 262, 253
+76, text, 262, 240
+76, text, 193, 238
+76, text, 189, 251
+76, text, 173, 250
+76, text, 173, 213
+76, text, 189, 213
+76, text, 194, 226
+76, text, 261, 228
+76, text, 266, 212
+76, text, 281, 213
+77, text, 129, 254
+77, text, 52, 254
+77, text, 52, 212
+77, text, 134, 212
+77, text, 134, 223
+77, text, 68, 223
+77, text, 68, 245
+77, text, 129, 244
+78, text, 32, 297
+78, text, 78, 298
+78, text, 78, 318
+78, text, 29, 317
+79, text, 4, 360
+79, text, 4, 350
+79, text, 79, 350
+79, text, 80, 323
+79, text, 92, 323
+79, text, 98, 309
+79, text, 127, 309
+79, text, 128, 287
+79, text, 150, 288
+79, text, 147, 318
+79, text, 133, 320
+79, text, 130, 330
+79, text, 96, 331
+79, text, 96, 360
+80, text, 171, 319
+80, text, 216, 318
+80, text, 216, 359
+80, text, 200, 359
+80, text, 200, 334
+80, text, 171, 333
+81, text, 259, 323
+81, text, 351, 321
+81, text, 356, 304
+81, text, 392, 305
+81, text, 392, 317
+81, text, 424, 318
+81, text, 428, 313
+81, text, 490, 314
+81, text, 501, 317
+81, text, 513, 317
+81, text, 520, 305
+81, text, 568, 305
+81, text, 572, 317
+81, text, 586, 317
+81, text, 586, 348
+81, text, 625, 348
+81, text, 631, 337
+81, text, 630, 318
+81, text, 643, 314
+81, text, 648, 299
+81, text, 697, 299
+81, text, 700, 323
+81, text, 644, 322
+81, text, 646, 358
+81, text, 620, 366
+81, text, 594, 364
+81, text, 570, 356
+81, text, 570, 323
+81, text, 514, 322
+81, text, 513, 358
+81, text, 495, 358
+81, text, 497, 323
+81, text, 412, 324
+81, text, 409, 360
+81, text, 393, 360
+81, text, 392, 323
+81, text, 354, 324
+81, text, 352, 362
+81, text, 335, 359
+81, text, 335, 349
+81, text, 261, 348
+81, text, 258, 328
+82, text, 356, 360
+82, text, 384, 359
+82, text, 386, 380
+82, text, 398, 383
+82, text, 399, 416
+82, text, 351, 416
+82, text, 347, 396
+82, text, 349, 383
+83, text, 410, 378
+83, text, 438, 378
+83, text, 439, 395
+83, text, 455, 391
+83, text, 458, 407
+83, text, 436, 408
+83, text, 436, 418
+83, text, 411, 417
+84, text, 455, 385
+84, text, 458, 377
+84, text, 504, 378
+84, text, 505, 386
+85, text, 742, 317
+85, text, 743, 359
+85, text, 728, 360
+85, text, 728, 319
+86, text, 670, 362
+86, text, 687, 362
+86, text, 690, 430
+86, text, 677, 433
+86, text, 678, 457
+86, text, 664, 457
+86, text, 657, 448
+86, text, 661, 429
+86, text, 669, 396
+87, text, 745, 447
+87, text, 686, 447
+87, text, 690, 437
+87, text, 743, 436
+88, text, 730, 509
+88, text, 690, 508
+88, text, 692, 485
+88, text, 731, 485
+89, text, 665, 505
+89, text, 665, 489
+89, text, 638, 489
+89, text, 639, 507
+90, text, 615, 513
+90, text, 615, 475
+90, text, 596, 476
+90, text, 594, 480
+90, text, 541, 480
+90, text, 531, 474
+90, text, 520, 476
+90, text, 475, 479
+90, text, 476, 492
+90, text, 521, 487
+90, text, 522, 516
+90, text, 540, 516
+90, text, 540, 503
+90, text, 599, 503
+90, text, 599, 515
+91, text, 572, 444
+91, text, 574, 433
+91, text, 607, 433
+91, text, 607, 405
+91, text, 644, 404
+91, text, 644, 484
+91, text, 632, 484
+91, text, 632, 443
+92, text, 534, 425
+92, text, 533, 403
+92, text, 572, 403
+92, text, 572, 425
+93, text, 498, 448
+93, text, 385, 449
+93, text, 386, 437
+93, text, 501, 438
+94, text, 471, 484
+94, text, 430, 485
+94, text, 379, 482
+94, text, 382, 464
+94, text, 473, 463
+95, text, 348, 445
+95, text, 350, 510
+95, text, 379, 509
+95, text, 378, 526
+95, text, 341, 525
+95, text, 339, 508
+95, text, 341, 445
+96, text, 328, 509
+96, text, 320, 509
+96, text, 322, 433
+96, text, 328, 435
+97, text, 283, 507
+97, text, 270, 507
+97, text, 260, 500
+97, text, 255, 470
+97, text, 294, 470
+97, text, 293, 500
+98, text, 329, 423
+98, text, 244, 423
+98, text, 246, 405
+98, text, 215, 405
+98, text, 221, 378
+98, text, 252, 378
+98, text, 256, 391
+98, text, 256, 406
+98, text, 281, 407
+98, text, 291, 395
+98, text, 330, 394
+98, text, 332, 409
+99, text, 230, 440
+99, text, 233, 429
+99, text, 274, 429
+99, text, 273, 435
+99, text, 260, 442
+100, text, 195, 433
+100, text, 154, 435
+100, text, 154, 424
+100, text, 74, 427
+100, text, 58, 423
+100, text, 57, 406
+100, text, 33, 406
+100, text, 33, 387
+100, text, 103, 390
+100, text, 108, 408
+100, text, 153, 408
+100, text, 153, 398
+100, text, 198, 398
+101, text, 34, 456
+101, text, 34, 431
+101, text, 57, 432
+101, text, 57, 455
+102, annotation (arrow), 15, 479
+102, annotation (arrow), 5, 470
+102, annotation (arrow), 13, 455
+102, annotation (arrow), 23, 455
+102, annotation (arrow), 23, 470
+103, text, 32, 470
+103, text, 214, 471
+103, text, 210, 518
+103, text, 190, 541
+103, text, 153, 539
+103, text, 152, 524
+103, text, 131, 519
+103, text, 134, 504
+103, text, 167, 505
+103, text, 165, 488
+103, text, 131, 487
+103, text, 56, 488
+103, text, 60, 498
+103, text, 31, 494
+104, text, 32, 524
+104, text, 33, 502
+104, text, 108, 502
+104, text, 105, 524
+105, text, 3, 543
+105, text, 125, 541
+105, text, 122, 574
+105, text, 3, 576
+106, text, 202, 599
+106, text, 202, 573
+106, text, 233, 573
+106, text, 234, 532
+106, text, 225, 532
+106, text, 225, 521
+106, text, 234, 521
+106, text, 247, 530
+106, text, 245, 566
+106, text, 280, 568
+106, text, 280, 575
+106, text, 237, 574
+106, text, 240, 598
+107, text, 272, 584
+107, text, 272, 577
+107, text, 308, 577
+107, text, 328, 548
+107, text, 359, 547
+107, text, 358, 557
+107, text, 344, 565
+107, text, 341, 591
+107, text, 310, 590
+107, text, 302, 586
+108, text, 360, 581
+108, text, 357, 560
+108, text, 396, 559
+108, text, 394, 580
+109, text, 437, 580
+109, text, 437, 544
+109, text, 451, 544
+109, text, 450, 527
+109, text, 407, 527
+109, text, 414, 512
+109, text, 453, 515
+109, text, 457, 530
+109, text, 486, 531
+109, text, 489, 539
+109, text, 553, 538
+109, text, 553, 546
+109, text, 495, 544
+109, text, 496, 565
+109, text, 482, 575
+109, text, 454, 576
+109, text, 454, 580
+110, text, 546, 575
+110, text, 551, 552
+110, text, 588, 553
+110, text, 592, 575
+111, text, 588, 538
+111, text, 586, 528
+111, text, 665, 530
+111, text, 665, 526
+111, text, 703, 526
+111, text, 704, 535
+111, text, 743, 535
+111, text, 742, 565
+111, text, 705, 564
+111, text, 703, 538
+111, text, 668, 538
+111, text, 668, 547
+111, text, 635, 549
+111, text, 635, 538
+112, text, 665, 603
+112, text, 654, 589
+112, text, 646, 576
+112, text, 607, 577
+112, text, 608, 562
+112, text, 657, 561
+112, text, 656, 579
+112, text, 688, 580
+112, text, 690, 589
+112, text, 661, 590
+112, text, 665, 595
+112, text, 705, 596
+112, text, 705, 604
+112, text, 738, 606
+112, text, 738, 614
+112, text, 708, 614
+112, text, 702, 606
+113, text, 630, 631
+113, text, 524, 631
+113, text, 523, 615
+113, text, 591, 615
+113, text, 591, 609
+113, text, 624, 608
+113, text, 631, 618
+114, text, 524, 591
+114, text, 570, 592
+114, text, 567, 601
+114, text, 524, 601
+115, text, 509, 613
+115, text, 448, 613
+115, text, 448, 645
+115, text, 439, 642
+115, text, 434, 635
+115, text, 434, 592
+115, text, 496, 592
+115, text, 493, 605
+115, text, 512, 604
+115, text, 511, 610
+116, text, 507, 627
+116, text, 507, 641
+116, text, 473, 641
+116, text, 473, 630
+116, text, 482, 627
+117, text, 439, 656
+117, text, 500, 657
+117, text, 500, 673
+117, text, 481, 673
+117, text, 476, 687
+117, text, 436, 687
+118, text, 429, 661
+118, text, 389, 662
+118, text, 389, 655
+118, text, 431, 654
+119, text, 389, 620
+119, text, 389, 603
+119, text, 416, 604
+119, text, 408, 618
+120, text, 365, 608
+120, text, 373, 608
+120, text, 373, 621
+120, text, 365, 621
+121, text, 333, 626
+121, text, 366, 624
+121, text, 360, 640
+121, text, 340, 640
+122, text, 332, 666
+122, text, 369, 666
+122, text, 369, 683
+122, text, 331, 684
+123, text, 320, 609
+123, text, 315, 653
+123, text, 289, 653
+123, text, 283, 627
+123, text, 280, 609
+124, text, 279, 673
+124, text, 246, 675
+124, text, 245, 658
+124, text, 282, 658
+125, text, 223, 649
+125, text, 226, 639
+125, text, 253, 639
+125, text, 251, 646
+126, text, 129, 612
+126, text, 163, 613
+126, text, 163, 629
+126, text, 197, 628
+126, text, 197, 618
+126, text, 253, 615
+126, text, 252, 625
+126, text, 202, 627
+126, text, 195, 649
+126, text, 162, 650
+126, text, 160, 635
+126, text, 127, 634
+127, text, 14, 593
+127, text, 46, 593
+127, text, 50, 609
+127, text, 111, 612
+127, text, 112, 656
+127, text, 15, 655
+128, text, 73, 706
+128, text, 74, 685
+128, text, 135, 688
+128, text, 135, 696
+128, text, 121, 704
+129, text, 158, 668
+129, text, 168, 668
+129, text, 167, 720
+129, text, 156, 721
+130, text, 176, 708
+130, text, 203, 708
+130, text, 203, 726
+130, text, 178, 724
+131, text, 200, 663
+131, text, 232, 667
+131, text, 232, 677
+131, text, 255, 680
+131, text, 253, 695
+131, text, 214, 699
+131, text, 197, 700
+132, text, 248, 758
+132, text, 248, 740
+132, text, 261, 738
+132, text, 260, 721
+132, text, 293, 722
+132, text, 284, 759
+133, text, 367, 753
+133, text, 337, 756
+133, text, 338, 739
+133, text, 419, 740
+133, text, 421, 722
+133, text, 456, 722
+133, text, 455, 729
+133, text, 439, 736
+133, text, 423, 738
+133, text, 416, 748
+133, text, 393, 748
+133, text, 390, 755
+134, text, 371, 710
+134, text, 400, 711
+134, text, 400, 725
+134, text, 371, 724
+135, text, 455, 757
+135, text, 455, 737
+135, text, 497, 737
+135, text, 498, 720
+135, text, 540, 721
+135, text, 540, 742
+135, text, 493, 743
+135, text, 488, 753
+135, text, 467, 760
+136, text, 509, 684
+136, text, 547, 683
+136, text, 547, 702
+136, text, 511, 702
+137, text, 530, 650
+137, text, 595, 649
+137, text, 595, 660
+137, text, 528, 658
+138, text, 628, 678
+138, text, 634, 650
+138, text, 672, 652
+138, text, 673, 680
+138, text, 625, 681
+139, text, 680, 645
+139, text, 726, 646
+139, text, 727, 655
+139, text, 708, 662
+139, text, 681, 661
+140, text, 746, 659
+140, text, 748, 683
+140, text, 738, 693
+140, text, 733, 706
+140, text, 702, 707
+140, text, 703, 693
+140, text, 733, 692
+140, text, 730, 661
+141, text, 692, 699
+141, text, 673, 698
+141, text, 676, 683
+141, text, 691, 683
+142, text, 612, 708
+142, text, 613, 684
+142, text, 649, 685
+142, text, 649, 710
+143, text, 579, 685
+143, text, 577, 752
+143, text, 570, 750
+143, text, 571, 685
+144, text, 690, 763
+144, text, 589, 763
+144, text, 589, 755
+144, text, 690, 757
+145, text, 581, 769
+145, text, 580, 798
+145, text, 531, 795
+145, text, 531, 784
+145, text, 545, 769
+146, text, 588, 823
+146, text, 549, 824
+146, text, 555, 808
+146, text, 589, 809
+147, text, 523, 821
+147, text, 520, 836
+147, text, 498, 861
+147, text, 484, 862
+147, text, 484, 845
+147, text, 465, 841
+147, text, 466, 828
+147, text, 500, 829
+147, text, 502, 821
+148, text, 474, 851
+148, text, 473, 858
+148, text, 458, 865
+148, text, 404, 866
+148, text, 404, 851
+149, text, 425, 811
+149, text, 464, 810
+149, text, 465, 825
+149, text, 425, 825
+150, text, 423, 782
+150, text, 420, 807
+150, text, 358, 809
+150, text, 355, 814
+150, text, 340, 814
+150, text, 337, 794
+150, text, 342, 785
+150, text, 361, 782
+151, text, 297, 791
+151, text, 297, 806
+151, text, 260, 806
+151, text, 201, 805
+151, text, 202, 789
+151, text, 261, 789
+151, text, 260, 783
+151, text, 288, 783
+152, text, 201, 815
+152, text, 256, 817
+152, text, 256, 825
+152, text, 245, 831
+152, text, 202, 830
+153, text, 134, 783
+153, text, 159, 785
+153, text, 159, 814
+153, text, 92, 813
+153, text, 92, 801
+153, text, 134, 802
+154, text, 139, 731
+154, text, 140, 742
+154, text, 130, 751
+154, text, 96, 762
+154, text, 90, 780
+154, text, 50, 779
+154, text, 50, 733
+155, text, 31, 751
+155, text, 45, 752
+155, text, 44, 879
+155, text, 33, 879
+156, text, 79, 838
+156, text, 121, 838
+156, text, 125, 860
+156, text, 77, 861
+157, text, 123, 873
+157, text, 176, 874
+157, text, 187, 907
+157, text, 112, 905
+158, text, 132, 921
+158, text, 131, 906
+158, text, 169, 907
+158, text, 169, 920
+159, text, 200, 834
+159, text, 275, 834
+159, text, 275, 845
+159, text, 298, 846
+159, text, 298, 867
+159, text, 242, 864
+159, text, 198, 861
+160, text, 284, 838
+160, text, 284, 823
+160, text, 340, 824
+160, text, 338, 838
+161, text, 301, 887
+161, text, 348, 889
+161, text, 347, 914
+161, text, 300, 913
+162, text, 303, 952
+162, text, 303, 936
+162, text, 341, 936
+162, text, 341, 952
+163, text, 404, 885
+163, text, 482, 887
+163, text, 481, 901
+163, text, 442, 900
+163, text, 442, 908
+163, text, 402, 909
+164, data (diagram), 1, 98
+164, data (diagram), 155, 90
+164, data (diagram), 601, 95
+164, data (diagram), 748, 98
+164, data (diagram), 747, 768
+164, data (diagram), 694, 773
+164, data (diagram), 627, 804
+164, data (diagram), 594, 830
+164, data (diagram), 515, 869
+164, data (diagram), 487, 911
+164, data (diagram), 451, 998
+164, data (diagram), 359, 999
+164, data (diagram), 353, 964
+164, data (diagram), 15, 939
+164, data (diagram), 0, 764
+165, data, 1, 90
+165, data, 159, 92
+165, data, 608, 93
+165, data, 748, 94
+165, data, 748, 773
+165, data, 623, 809
+165, data, 517, 871
+165, data, 482, 918
+165, data, 455, 998
+165, data, 357, 998
+165, data, 352, 968
+165, data, 13, 940
+165, data, 1, 767

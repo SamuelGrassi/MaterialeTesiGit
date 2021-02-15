@@ -1,0 +1,162 @@
+1, text (title), 145, 15
+1, text (title), 146, 67
+1, text (title), 146, 67
+1, text (title), 148, 69
+1, text (title), 614, 73
+1, text (title), 613, 7
+2, text (paragraph), 38, 90
+2, text (paragraph), 36, 249
+2, text (paragraph), 712, 245
+2, text (paragraph), 710, 94
+3, data (bars), 702, 725
+3, data (bars), 656, 725
+3, data (bars), 650, 677
+3, data (bars), 590, 667
+3, data (bars), 558, 623
+3, data (bars), 536, 623
+3, data (bars), 498, 621
+3, data (bars), 469, 621
+3, data (bars), 448, 625
+3, data (bars), 440, 715
+3, data (bars), 397, 721
+3, data (bars), 390, 571
+3, data (bars), 352, 557
+3, data (bars), 311, 480
+3, data (bars), 272, 480
+3, data (bars), 233, 439
+3, data (bars), 204, 441
+3, data (bars), 153, 444
+3, data (bars), 139, 428
+3, data (bars), 130, 428
+3, data (bars), 118, 712
+3, data (bars), 74, 721
+3, data (bars), 66, 698
+3, data (bars), 70, 338
+3, data (bars), 70, 318
+3, data (bars), 79, 299
+3, data (bars), 108, 307
+3, data (bars), 145, 326
+3, data (bars), 180, 334
+3, data (bars), 205, 353
+3, data (bars), 234, 370
+3, data (bars), 265, 384
+3, data (bars), 274, 413
+3, data (bars), 288, 424
+3, data (bars), 311, 430
+3, data (bars), 344, 451
+3, data (bars), 365, 455
+3, data (bars), 399, 471
+3, data (bars), 419, 477
+3, data (bars), 446, 480
+3, data (bars), 486, 492
+3, data (bars), 507, 526
+3, data (bars), 519, 526
+3, data (bars), 538, 547
+3, data (bars), 560, 559
+3, data (bars), 590, 569
+3, data (bars), 625, 584
+3, data (bars), 645, 596
+3, data (bars), 658, 621
+3, data (bars), 670, 634
+3, data (bars), 687, 642
+3, data (bars), 702, 654
+4, text (label), 69, 297
+4, text (label), 73, 322
+4, text (label), 108, 320
+4, text (label), 108, 293
+5, text (label), 137, 385
+5, text (label), 137, 405
+5, text (label), 170, 403
+5, text (label), 170, 383
+6, text (label), 202, 451
+6, text (label), 202, 468
+6, text (label), 239, 465
+6, text (label), 239, 443
+7, text (label), 268, 488
+7, text (label), 272, 508
+7, text (label), 311, 507
+7, text (label), 309, 486
+8, text (label), 324, 516
+8, text (label), 369, 516
+8, text (label), 376, 547
+8, text (label), 324, 549
+9, text (label), 403, 459
+9, text (label), 401, 493
+9, text (label), 428, 493
+9, text (label), 434, 461
+10, text (label), 463, 588
+10, text (label), 463, 617
+10, text (label), 499, 615
+10, text (label), 499, 588
+11, text (label), 530, 597
+11, text (label), 530, 617
+11, text (label), 555, 618
+11, text (label), 561, 593
+12, text (label), 596, 674
+12, text (label), 625, 680
+12, text (label), 629, 647
+12, text (label), 594, 649
+13, text (label), 660, 595
+13, text (label), 660, 620
+13, text (label), 698, 620
+13, text (label), 696, 591
+14, annotation, 479, 414
+14, annotation, 478, 371
+14, annotation, 482, 273
+14, annotation, 357, 275
+14, annotation, 354, 416
+14, annotation, 421, 415
+16, axis, 58, 696
+16, axis, 56, 774
+16, axis, 50, 805
+16, axis, 723, 807
+16, axis, 725, 698
+17, axis, 25, 709
+17, axis, 58, 715
+17, axis, 69, 277
+17, axis, 21, 273
+18, text (axis label), 7, 551
+18, text (axis label), 25, 555
+18, text (axis label), 29, 443
+18, text (axis label), 2, 445
+19, text (paragraph), 35, 842
+19, text (paragraph), 33, 915
+19, text (paragraph), 717, 913
+19, text (paragraph), 714, 836
+20, text (source), 33, 933
+20, text (source), 31, 985
+20, text (source), 723, 987
+20, text (source), 721, 923
+21, data, 62, 277
+21, data, 723, 285
+21, data, 719, 694
+21, data, 62, 694
+22, graphical element, 28, 77
+22, graphical element, 31, 7
+22, graphical element, 730, 7
+22, graphical element, 729, 74
+23, text (label), 362, 396
+23, text (label), 361, 287
+23, text (label), 477, 290
+23, text (label), 472, 392
+24, annotation (arrow), 432, 439
+24, annotation (arrow), 438, 451
+24, annotation (arrow), 415, 467
+24, annotation (arrow), 408, 449
+24, annotation (arrow), 409, 412
+24, annotation (arrow), 434, 411
+25, annotation, 607, 385
+25, annotation, 733, 388
+25, annotation, 730, 546
+25, annotation, 614, 542
+26, annotation (arrow), 694, 582
+26, annotation (arrow), 682, 599
+26, annotation (arrow), 663, 584
+26, annotation (arrow), 672, 549
+26, annotation (arrow), 689, 545
+27, text (label), 631, 519
+27, text (label), 620, 445
+27, text (label), 644, 396
+27, text (label), 706, 393
+27, text (label), 723, 452
+27, text (label), 716, 513

@@ -1,0 +1,84 @@
+1, graphical element (economist red square), 3, 49
+1, graphical element (economist red square), 20, 45
+1, graphical element (economist red square), 20, 2
+1, graphical element (economist red square), 3, 2
+2, text (title), 32, 22
+2, text (title), 116, 20
+2, text (title), 114, 57
+2, text (title), 30, 52
+3, text (paragraph), 32, 59
+3, text (paragraph), 412, 59
+3, text (paragraph), 402, 86
+3, text (paragraph), 30, 84
+4, text (header row), 20, 92
+4, text (header row), 378, 91
+4, text (header row), 376, 136
+4, text (header row), 22, 141
+5, data (table), 25, 170
+5, data (table), 108, 170
+5, data (table), 106, 946
+5, data (table), 27, 941
+6, text (source), 30, 946
+6, text (source), 366, 945
+6, text (source), 361, 972
+6, text (source), 27, 973
+7, axis, 109, 170
+7, axis, 235, 173
+7, axis, 229, 943
+7, axis, 106, 943
+7, axis, 106, 185
+8, text, 734, 945
+8, text, 983, 946
+8, text, 980, 978
+8, text, 734, 975
+9, legend, 681, 89
+9, legend, 985, 94
+9, legend, 983, 138
+9, legend, 684, 133
+10, axis, 222, 140
+10, axis, 993, 136
+10, axis, 993, 168
+10, axis, 220, 166
+11, data (bars), 373, 943
+11, data (bars), 541, 941
+11, data (bars), 571, 913
+11, data (bars), 573, 820
+11, data (bars), 565, 738
+11, data (bars), 573, 677
+11, data (bars), 588, 612
+11, data (bars), 649, 565
+11, data (bars), 696, 523
+11, data (bars), 785, 464
+11, data (bars), 852, 403
+11, data (bars), 914, 313
+11, data (bars), 948, 237
+11, data (bars), 939, 170
+11, data (bars), 936, 165
+11, data (bars), 835, 165
+11, data (bars), 487, 165
+11, data (bars), 466, 213
+11, data (bars), 445, 311
+11, data (bars), 445, 395
+11, data (bars), 452, 501
+11, data (bars), 447, 588
+11, data (bars), 434, 669
+11, data (bars), 403, 718
+11, data (bars), 348, 758
+11, data (bars), 329, 800
+11, data (bars), 299, 832
+11, data (bars), 242, 859
+11, data (bars), 232, 888
+11, data (bars), 235, 914
+11, data (bars), 254, 941
+12, data, 239, 170
+12, data, 988, 171
+12, data, 973, 943
+12, data, 234, 941
+13, text (label), 731, 99
+13, text (label), 807, 106
+13, text (label), 803, 123
+13, text (label), 731, 126
+14, text (label), 861, 101
+14, text (label), 973, 103
+14, text (label), 970, 126
+14, text (label), 861, 126

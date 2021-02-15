@@ -1,0 +1,301 @@
+1, text (title), 203, 63
+1, text (title), 203, 25
+1, text (title), 357, 25
+1, text (title), 355, 64
+2, graphical element, 12, 76
+2, graphical element, 12, 61
+2, graphical element, 133, 61
+2, graphical element, 131, 74
+3, graphical element, 146, 72
+3, graphical element, 148, 63
+3, graphical element, 418, 61
+3, graphical element, 418, 76
+4, text (paragraph), 367, 105
+4, text (paragraph), 197, 105
+4, text (paragraph), 166, 96
+4, text (paragraph), 162, 74
+4, text (paragraph), 404, 74
+4, text (paragraph), 404, 86
+4, text (paragraph), 396, 96
+5, graphical element, 133, 115
+5, graphical element, 135, 16
+5, graphical element, 429, 16
+5, graphical element, 428, 115
+6, text (label), 139, 180
+6, text (label), 137, 150
+6, text (label), 162, 152
+6, text (label), 162, 182
+7, text (label), 312, 219
+7, text (label), 312, 191
+7, text (label), 338, 191
+7, text (label), 338, 221
+8, text (label), 25, 383
+8, text (label), 25, 357
+8, text (label), 55, 355
+8, text (label), 51, 383
+9, text (label), 262, 434
+9, text (label), 258, 408
+9, text (label), 285, 408
+9, text (label), 283, 434
+10, text (label), 23, 533
+10, text (label), 25, 506
+10, text (label), 55, 506
+10, text (label), 51, 533
+11, text (title), 152, 664
+11, text (title), 152, 646
+11, text (title), 297, 646
+11, text (title), 297, 664
+12, graphical element, 144, 672
+12, graphical element, 144, 662
+12, graphical element, 306, 660
+12, graphical element, 306, 674
+13, text (paragraph), 176, 691
+13, text (paragraph), 160, 684
+13, text (paragraph), 160, 672
+13, text (paragraph), 299, 674
+13, text (paragraph), 299, 684
+13, text (paragraph), 281, 695
+14, graphical element, 12, 676
+14, graphical element, 12, 660
+14, graphical element, 131, 662
+14, graphical element, 133, 676
+15, graphical element, 431, 660
+15, graphical element, 433, 674
+15, graphical element, 314, 674
+15, graphical element, 314, 662
+16, graphical element, 137, 701
+16, graphical element, 137, 639
+16, graphical element, 312, 639
+16, graphical element, 310, 703
+17, text (source), 12, 975
+17, text (source), 433, 975
+17, text (source), 433, 986
+17, text (source), 12, 984
+18, text (paragraph), 12, 711
+18, text (paragraph), 12, 781
+18, text (paragraph), 57, 781
+18, text (paragraph), 96, 764
+18, text (paragraph), 94, 730
+18, text (paragraph), 82, 713
+19, graphical element, 14, 789
+19, graphical element, 16, 781
+19, graphical element, 55, 779
+19, graphical element, 55, 789
+20, graphical element, 14, 867
+20, graphical element, 12, 857
+20, graphical element, 84, 857
+20, graphical element, 84, 865
+21, graphical element, 14, 938
+21, graphical element, 16, 928
+21, graphical element, 92, 928
+21, graphical element, 92, 936
+22, graphical element, 351, 766
+22, graphical element, 351, 756
+22, graphical element, 433, 756
+22, graphical element, 433, 766
+23, graphical element, 351, 854
+23, graphical element, 349, 844
+23, graphical element, 431, 844
+23, graphical element, 431, 852
+24, graphical element, 351, 926
+24, graphical element, 351, 916
+24, graphical element, 429, 918
+24, graphical element, 429, 926
+25, annotation (arrow), 90, 709
+25, annotation (arrow), 123, 705
+25, annotation (arrow), 144, 711
+25, annotation (arrow), 162, 725
+25, annotation (arrow), 172, 736
+25, annotation (arrow), 170, 746
+25, annotation (arrow), 154, 744
+25, annotation (arrow), 154, 732
+25, annotation (arrow), 143, 723
+25, annotation (arrow), 121, 719
+25, annotation (arrow), 98, 719
+25, annotation (arrow), 86, 721
+25, annotation (arrow), 82, 713
+26, annotation (arrow), 96, 820
+26, annotation (arrow), 94, 809
+26, annotation (arrow), 103, 801
+26, annotation (arrow), 133, 797
+26, annotation (arrow), 146, 799
+26, annotation (arrow), 143, 811
+26, annotation (arrow), 127, 813
+26, annotation (arrow), 115, 811
+26, annotation (arrow), 109, 816
+27, annotation (arrow), 90, 896
+27, annotation (arrow), 107, 887
+27, annotation (arrow), 123, 883
+27, annotation (arrow), 137, 883
+27, annotation (arrow), 146, 885
+27, annotation (arrow), 143, 896
+27, annotation (arrow), 131, 896
+27, annotation (arrow), 113, 896
+27, annotation (arrow), 103, 902
+27, annotation (arrow), 92, 908
+28, annotation (arrow), 312, 807
+28, annotation (arrow), 318, 799
+28, annotation (arrow), 326, 799
+28, annotation (arrow), 338, 791
+28, annotation (arrow), 346, 781
+28, annotation (arrow), 349, 771
+28, annotation (arrow), 351, 766
+28, annotation (arrow), 363, 766
+28, annotation (arrow), 359, 777
+28, annotation (arrow), 351, 791
+28, annotation (arrow), 344, 801
+28, annotation (arrow), 332, 809
+28, annotation (arrow), 318, 813
+29, annotation (arrow), 320, 861
+29, annotation (arrow), 334, 861
+29, annotation (arrow), 346, 859
+29, annotation (arrow), 353, 854
+29, annotation (arrow), 363, 855
+29, annotation (arrow), 355, 861
+29, annotation (arrow), 349, 869
+29, annotation (arrow), 340, 873
+29, annotation (arrow), 326, 875
+29, annotation (arrow), 316, 871
+30, annotation (arrow), 291, 916
+30, annotation (arrow), 291, 906
+30, annotation (arrow), 303, 896
+30, annotation (arrow), 310, 891
+30, annotation (arrow), 322, 887
+30, annotation (arrow), 336, 887
+30, annotation (arrow), 347, 887
+30, annotation (arrow), 353, 893
+30, annotation (arrow), 353, 902
+30, annotation (arrow), 342, 902
+30, annotation (arrow), 332, 896
+30, annotation (arrow), 316, 898
+30, annotation (arrow), 305, 906
+30, annotation (arrow), 297, 912
+31, text (paragraph), 14, 797
+31, text (paragraph), 94, 799
+31, text (paragraph), 96, 828
+31, text (paragraph), 86, 854
+31, text (paragraph), 14, 854
+32, text (paragraph), 12, 881
+32, text (paragraph), 88, 885
+32, text (paragraph), 92, 928
+32, text (paragraph), 14, 928
+33, text (paragraph), 349, 711
+33, text (paragraph), 422, 709
+33, text (paragraph), 435, 727
+33, text (paragraph), 431, 756
+33, text (paragraph), 347, 758
+34, text (paragraph), 351, 811
+34, text (paragraph), 429, 811
+34, text (paragraph), 429, 842
+34, text (paragraph), 349, 846
+35, text (paragraph), 353, 885
+35, text (paragraph), 416, 885
+35, text (paragraph), 433, 895
+35, text (paragraph), 429, 916
+35, text (paragraph), 349, 918
+36, data (diagram), 105, 951
+36, data (diagram), 4, 951
+36, data (diagram), 0, 699
+36, data (diagram), 131, 699
+36, data (diagram), 135, 705
+36, data (diagram), 314, 707
+36, data (diagram), 424, 705
+36, data (diagram), 437, 703
+36, data (diagram), 437, 951
+36, data (diagram), 332, 955
+37, graphical element, 164, 250
+37, graphical element, 164, 236
+37, graphical element, 248, 236
+37, graphical element, 248, 248
+38, graphical element, 340, 279
+38, graphical element, 340, 268
+38, graphical element, 416, 268
+38, graphical element, 416, 277
+39, graphical element, 55, 408
+39, graphical element, 55, 400
+39, graphical element, 184, 400
+39, graphical element, 185, 408
+40, graphical element, 287, 461
+40, graphical element, 287, 449
+40, graphical element, 406, 449
+40, graphical element, 404, 459
+41, graphical element, 57, 594
+41, graphical element, 57, 584
+41, graphical element, 119, 582
+41, graphical element, 119, 590
+42, text (paragraph), 164, 162
+42, text (paragraph), 225, 160
+42, text (paragraph), 244, 178
+42, text (paragraph), 250, 232
+42, text (paragraph), 166, 238
+43, text (paragraph), 342, 199
+43, text (paragraph), 420, 197
+43, text (paragraph), 412, 268
+43, text (paragraph), 340, 270
+44, text (paragraph), 57, 365
+44, text (paragraph), 185, 365
+44, text (paragraph), 185, 398
+44, text (paragraph), 53, 400
+45, text (paragraph), 287, 414
+45, text (paragraph), 394, 414
+45, text (paragraph), 410, 432
+45, text (paragraph), 406, 451
+45, text (paragraph), 287, 451
+46, text (paragraph), 59, 516
+46, text (paragraph), 143, 514
+46, text (paragraph), 133, 564
+46, text (paragraph), 117, 580
+46, text (paragraph), 55, 584
+47, object (pictogram - closet), 29, 123
+47, object (pictogram - closet), 131, 125
+47, object (pictogram - closet), 141, 283
+47, object (pictogram - closet), 185, 309
+47, object (pictogram - closet), 182, 332
+47, object (pictogram - closet), 137, 338
+47, object (pictogram - closet), 100, 340
+47, object (pictogram - closet), 14, 320
+48, object (pictogram - clothing piles), 207, 367
+48, object (pictogram - clothing piles), 201, 348
+48, object (pictogram - clothing piles), 219, 285
+48, object (pictogram - clothing piles), 283, 287
+48, object (pictogram - clothing piles), 367, 287
+48, object (pictogram - clothing piles), 408, 283
+48, object (pictogram - clothing piles), 429, 291
+48, object (pictogram - clothing piles), 431, 363
+48, object (pictogram - clothing piles), 363, 367
+48, object (pictogram - clothing piles), 246, 363
+49, object (pictogram - clothing hangers), 31, 484
+49, object (pictogram - clothing hangers), 39, 416
+49, object (pictogram - clothing hangers), 232, 416
+49, object (pictogram - clothing hangers), 238, 484
+50, object (pictogram - luggage), 260, 586
+50, object (pictogram - luggage), 303, 527
+50, object (pictogram - luggage), 316, 500
+50, object (pictogram - luggage), 349, 463
+50, object (pictogram - luggage), 420, 463
+50, object (pictogram - luggage), 433, 590
+51, object (pictogram - smart phone), 127, 611
+51, object (pictogram - smart phone), 154, 496
+51, object (pictogram - smart phone), 219, 512
+51, object (pictogram - smart phone), 191, 625
+52, object (pictogram - closet), 102, 957
+52, object (pictogram - closet), 98, 932
+52, object (pictogram - closet), 107, 723
+52, object (pictogram - closet), 340, 725
+52, object (pictogram - closet), 347, 926
+52, object (pictogram - closet), 369, 932
+52, object (pictogram - closet), 367, 941
+52, object (pictogram - closet), 338, 955
+53, data (table), 0, 121
+53, data (table), 447, 113
+53, data (table), 447, 623
+53, data (table), 189, 629
+53, data (table), 0, 625
+54, data, 447, 629
+54, data, 4, 629
+54, data, 0, 119
+54, data, 447, 117
+55, data, 4, 695
+55, data, 447, 699
+55, data, 445, 959
+55, data, 4, 959

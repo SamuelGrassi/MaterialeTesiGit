@@ -1,0 +1,239 @@
+1, text (title), 502, 92
+1, text (title), 468, 66
+1, text (title), 466, 31
+1, text (title), 509, 41
+1, text (title), 833, 41
+1, text (title), 833, 86
+2, text (paragraph), 492, 143
+2, text (paragraph), 492, 94
+2, text (paragraph), 773, 94
+2, text (paragraph), 757, 145
+3, data (area), 324, 193
+3, data (area), 599, 193
+3, data (area), 603, 422
+3, data (area), 595, 488
+3, data (area), 609, 533
+3, data (area), 595, 576
+3, data (area), 597, 609
+3, data (area), 595, 645
+3, data (area), 597, 770
+3, data (area), 582, 783
+3, data (area), 601, 869
+3, data (area), 425, 879
+3, data (area), 392, 854
+3, data (area), 392, 818
+3, data (area), 392, 783
+3, data (area), 349, 764
+3, data (area), 340, 555
+3, data (area), 326, 539
+3, data (area), 324, 473
+3, data (area), 320, 422
+3, data (area), 328, 205
+4, text (label), 638, 342
+4, text (label), 874, 350
+4, text (label), 868, 408
+4, text (label), 636, 402
+5, text (label), 697, 516
+5, text (label), 777, 510
+5, text (label), 892, 506
+5, text (label), 880, 559
+5, text (label), 699, 561
+6, text (label), 685, 627
+6, text (label), 874, 623
+6, text (label), 868, 684
+6, text (label), 788, 682
+6, text (label), 681, 680
+7, text (label), 720, 773
+7, text (label), 777, 760
+7, text (label), 882, 766
+7, text (label), 874, 809
+7, text (label), 722, 809
+8, text (label), 78, 422
+8, text (label), 115, 408
+8, text (label), 158, 416
+8, text (label), 267, 414
+8, text (label), 263, 469
+8, text (label), 158, 463
+8, text (label), 107, 467
+8, text (label), 76, 467
+9, text (label), 68, 592
+9, text (label), 100, 584
+9, text (label), 127, 582
+9, text (label), 238, 592
+9, text (label), 248, 604
+9, text (label), 242, 633
+9, text (label), 123, 639
+9, text (label), 59, 641
+10, text (label), 84, 791
+10, text (label), 88, 752
+10, text (label), 164, 740
+10, text (label), 254, 740
+10, text (label), 256, 787
+11, annotation, 62, 494
+11, annotation, 62, 473
+11, annotation, 205, 469
+11, annotation, 271, 467
+11, annotation, 375, 473
+11, annotation, 382, 486
+11, annotation, 373, 500
+11, annotation, 345, 488
+11, annotation, 252, 482
+11, annotation, 152, 482
+12, annotation, 64, 664
+12, annotation, 64, 646
+12, annotation, 164, 635
+12, annotation, 275, 639
+12, annotation, 363, 646
+12, annotation, 379, 639
+12, annotation, 398, 648
+12, annotation, 388, 672
+12, annotation, 365, 672
+12, annotation, 355, 660
+12, annotation, 291, 654
+12, annotation, 189, 654
+12, annotation, 94, 656
+13, annotation, 72, 813
+13, annotation, 72, 797
+13, annotation, 129, 789
+13, annotation, 217, 789
+13, annotation, 277, 787
+13, annotation, 402, 791
+13, annotation, 433, 789
+13, annotation, 437, 805
+13, annotation, 433, 820
+13, annotation, 420, 824
+13, annotation, 408, 816
+13, annotation, 347, 807
+13, annotation, 244, 801
+13, annotation, 148, 805
+14, annotation, 546, 426
+14, annotation, 550, 408
+14, annotation, 572, 404
+14, annotation, 585, 412
+14, annotation, 624, 408
+14, annotation, 722, 402
+14, annotation, 814, 404
+14, annotation, 878, 406
+14, annotation, 874, 430
+14, annotation, 863, 430
+14, annotation, 847, 422
+14, annotation, 745, 414
+14, annotation, 673, 420
+14, annotation, 597, 426
+14, annotation, 556, 441
+15, annotation, 562, 559
+15, annotation, 593, 564
+15, annotation, 617, 564
+15, annotation, 697, 553
+15, annotation, 790, 559
+15, annotation, 876, 561
+15, annotation, 876, 574
+15, annotation, 870, 582
+15, annotation, 849, 578
+15, annotation, 708, 574
+15, annotation, 622, 578
+15, annotation, 580, 582
+15, annotation, 570, 594
+15, annotation, 546, 586
+15, annotation, 546, 564
+16, annotation, 548, 680
+16, annotation, 574, 689
+16, annotation, 601, 686
+16, annotation, 681, 682
+16, annotation, 730, 680
+16, annotation, 868, 686
+16, annotation, 868, 703
+16, annotation, 851, 703
+16, annotation, 786, 693
+16, annotation, 697, 693
+16, annotation, 578, 703
+16, annotation, 570, 711
+16, annotation, 548, 717
+16, annotation, 535, 707
+16, annotation, 537, 688
+17, annotation, 558, 803
+17, annotation, 580, 811
+17, annotation, 609, 807
+17, annotation, 720, 803
+17, annotation, 843, 805
+17, annotation, 878, 807
+17, annotation, 876, 828
+17, annotation, 857, 826
+17, annotation, 769, 816
+17, annotation, 630, 820
+17, annotation, 583, 826
+17, annotation, 574, 836
+17, annotation, 558, 838
+17, annotation, 548, 826
+17, annotation, 546, 811
+18, text (paragraph), 60, 537
+18, text (paragraph), 66, 490
+18, text (paragraph), 162, 484
+18, text (paragraph), 328, 492
+18, text (paragraph), 324, 549
+18, text (paragraph), 260, 541
+18, text (paragraph), 131, 541
+19, text (paragraph), 64, 703
+19, text (paragraph), 64, 662
+19, text (paragraph), 160, 654
+19, text (paragraph), 256, 658
+19, text (paragraph), 334, 658
+19, text (paragraph), 349, 703
+19, text (paragraph), 340, 709
+19, text (paragraph), 248, 707
+19, text (paragraph), 135, 705
+20, text (paragraph), 74, 820
+20, text (paragraph), 158, 816
+20, text (paragraph), 267, 818
+20, text (paragraph), 355, 811
+20, text (paragraph), 369, 852
+20, text (paragraph), 363, 902
+20, text (paragraph), 115, 910
+20, text (paragraph), 74, 889
+21, text (paragraph), 874, 479
+21, text (paragraph), 595, 490
+21, text (paragraph), 593, 432
+21, text (paragraph), 642, 426
+21, text (paragraph), 777, 426
+21, text (paragraph), 874, 426
+22, text (paragraph), 900, 627
+22, text (paragraph), 861, 629
+22, text (paragraph), 654, 633
+22, text (paragraph), 589, 631
+22, text (paragraph), 591, 598
+22, text (paragraph), 621, 580
+22, text (paragraph), 697, 576
+22, text (paragraph), 806, 572
+22, text (paragraph), 892, 576
+23, text (paragraph), 878, 707
+23, text (paragraph), 892, 752
+23, text (paragraph), 788, 752
+23, text (paragraph), 777, 758
+23, text (paragraph), 745, 752
+23, text (paragraph), 599, 756
+23, text (paragraph), 595, 705
+23, text (paragraph), 689, 701
+23, text (paragraph), 765, 699
+24, text (paragraph), 714, 879
+24, text (paragraph), 714, 848
+24, text (paragraph), 601, 857
+24, text (paragraph), 599, 830
+24, text (paragraph), 714, 822
+24, text (paragraph), 802, 824
+24, text (paragraph), 872, 824
+24, text (paragraph), 868, 883
+25, data, 609, 184
+25, data, 613, 334
+25, data, 892, 340
+25, data, 896, 758
+25, data, 878, 895
+25, data, 601, 873
+25, data, 414, 885
+25, data, 361, 914
+25, data, 113, 916
+25, data, 62, 895
+25, data, 49, 645
+25, data, 57, 469
+25, data, 80, 400
+25, data, 312, 406
+25, data, 314, 184

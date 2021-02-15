@@ -1,0 +1,40 @@
+1, text (header row), 209, 58
+1, text (header row), 211, 87
+1, text (header row), 988, 86
+1, text (header row), 983, 59
+2, data (table), 206, 59
+2, data (table), 208, 267
+2, data (table), 979, 267
+2, data (table), 980, 57
+3, text (paragraph), 186, 200
+3, text (paragraph), 15, 206
+3, text (paragraph), 12, 54
+3, text (paragraph), 171, 57
+4, text (title), 207, 20
+4, text (title), 206, 48
+4, text (title), 585, 41
+4, text (title), 580, 16
+5, data, 199, 57
+5, data, 202, 268
+5, data, 987, 269
+5, data, 984, 57
+6, text (label), 921, 26
+6, text (label), 920, 42
+6, text (label), 987, 41
+6, text (label), 989, 28
+7, text, 585, 26
+7, text, 585, 42
+7, text, 698, 41
+7, text, 697, 26
+8, annotation, 214, 109
+8, annotation, 211, 89
+8, annotation, 993, 89
+8, annotation, 990, 114
+9, annotation, 210, 220
+9, annotation, 987, 221
+9, annotation, 987, 246
+9, annotation, 207, 245
+10, graphical element, 998, 53
+10, graphical element, 208, 52
+10, graphical element, 209, 41
+10, graphical element, 999, 41

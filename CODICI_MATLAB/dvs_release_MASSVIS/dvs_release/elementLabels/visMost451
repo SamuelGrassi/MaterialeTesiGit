@@ -1,0 +1,80 @@
+1, object (pictogram - apple logo), 0, 44
+1, object (pictogram - apple logo), 1, 0
+1, object (pictogram - apple logo), 37, 1
+1, object (pictogram - apple logo), 36, 46
+2, text (title), 43, 42
+2, text (title), 37, 1
+2, text (title), 602, 1
+2, text (title), 601, 43
+3, text (source), 615, 42
+3, text (source), 615, 14
+3, text (source), 712, 14
+3, text (source), 712, 42
+4, text (source), 616, 974
+4, text (source), 711, 971
+4, text (source), 711, 996
+4, text (source), 616, 999
+5, object (pictogram - iphones), 85, 258
+5, object (pictogram - iphones), 85, 48
+5, object (pictogram - iphones), 706, 50
+5, object (pictogram - iphones), 703, 263
+6, text (header row), 85, 289
+6, text (header row), 80, 252
+6, text (header row), 708, 255
+6, text (header row), 711, 295
+7, object (pictogram - apple logo), 477, 345
+7, object (pictogram - apple logo), 477, 300
+7, object (pictogram - apple logo), 520, 300
+7, object (pictogram - apple logo), 518, 339
+8, object (pictogram - apple logo), 605, 300
+8, object (pictogram - apple logo), 646, 299
+8, object (pictogram - apple logo), 645, 333
+8, object (pictogram - apple logo), 612, 335
+9, object (pictogram - logos), 87, 298
+9, object (pictogram - logos), 91, 996
+9, object (pictogram - logos), 0, 993
+9, object (pictogram - logos), 3, 295
+10, object (pictogram - wifi and bluetooth logos), 93, 518
+10, object (pictogram - wifi and bluetooth logos), 712, 524
+10, object (pictogram - wifi and bluetooth logos), 714, 561
+10, object (pictogram - wifi and bluetooth logos), 97, 564
+11, object (pictogram - logo), 459, 722
+11, object (pictogram - logo), 457, 641
+11, object (pictogram - logo), 91, 643
+11, object (pictogram - logo), 94, 817
+11, object (pictogram - logo), 206, 816
+11, object (pictogram - logo), 202, 725
+12, object (pictogram - logo), 96, 897
+12, object (pictogram - logo), 199, 900
+12, object (pictogram - logo), 200, 990
+12, object (pictogram - logo), 94, 990
+13, object (pictogram - map), 210, 811
+13, object (pictogram - map), 207, 724
+13, object (pictogram - map), 714, 724
+13, object (pictogram - map), 712, 810
+14, object (pictogram - camera icon), 463, 638
+14, object (pictogram - camera icon), 712, 640
+14, object (pictogram - camera icon), 714, 721
+14, object (pictogram - camera icon), 463, 721
+15, object (pictogram - arrow), 563, 615
+15, object (pictogram - arrow), 553, 589
+15, object (pictogram - arrow), 558, 569
+15, object (pictogram - arrow), 585, 569
+15, object (pictogram - arrow), 586, 614
+16, object (pictogram - arrow), 686, 569
+16, object (pictogram - arrow), 712, 571
+16, object (pictogram - arrow), 712, 618
+16, object (pictogram - arrow), 689, 617
+16, object (pictogram - arrow), 679, 591
+17, data (table), 712, 46
+17, data (table), 711, 999
+17, data (table), 0, 996
+17, data (table), 1, 43
+18, data, 4, 43
+18, data, 711, 42
+18, data, 712, 997
+18, data, 0, 993
+19, text, 52, 280
+19, text, 11, 280
+19, text, 9, 55
+19, text, 51, 53

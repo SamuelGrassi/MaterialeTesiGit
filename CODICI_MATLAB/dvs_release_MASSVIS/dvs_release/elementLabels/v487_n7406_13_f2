@@ -1,0 +1,235 @@
+1, data (points), 626, 495
+1, data (points), 504, 674
+1, data (points), 328, 397
+1, data (points), 254, 330
+1, data (points), 236, 262
+1, data (points), 217, 111
+1, data (points), 313, 134
+1, data (points), 474, 169
+1, data (points), 517, 154
+1, data (points), 626, 180
+1, data (points), 716, 170
+1, data (points), 743, 194
+1, data (points), 745, 221
+1, data (points), 748, 261
+1, data (points), 814, 300
+1, data (points), 812, 345
+2, annotation, 599, 500
+2, annotation, 501, 647
+2, annotation, 508, 657
+2, annotation, 609, 508
+3, annotation, 793, 319
+3, annotation, 798, 306
+3, annotation, 749, 272
+3, annotation, 741, 283
+4, annotation, 252, 282
+4, annotation, 259, 274
+4, annotation, 315, 311
+4, annotation, 325, 332
+4, annotation, 317, 342
+4, annotation, 307, 343
+4, annotation, 300, 314
+4, annotation, 252, 292
+5, annotation, 255, 223
+5, annotation, 262, 208
+5, annotation, 402, 320
+5, annotation, 386, 331
+6, annotation, 503, 363
+6, annotation, 506, 354
+6, annotation, 349, 276
+6, annotation, 345, 284
+7, object (pictogram - dinosaur), 471, 257
+7, object (pictogram - dinosaur), 516, 258
+7, object (pictogram - dinosaur), 518, 312
+7, object (pictogram - dinosaur), 475, 306
+8, object (pictogram - dinosaur), 222, 405
+8, object (pictogram - dinosaur), 215, 380
+8, object (pictogram - dinosaur), 247, 371
+8, object (pictogram - dinosaur), 290, 386
+8, object (pictogram - dinosaur), 337, 395
+8, object (pictogram - dinosaur), 369, 400
+8, object (pictogram - dinosaur), 369, 424
+8, object (pictogram - dinosaur), 318, 420
+8, object (pictogram - dinosaur), 299, 446
+8, object (pictogram - dinosaur), 275, 444
+9, annotation, 371, 434
+9, annotation, 386, 280
+9, annotation, 303, 157
+9, annotation, 222, 127
+9, annotation, 272, 332
+10, object (pictogram - bird), 555, 295
+10, object (pictogram - bird), 560, 284
+10, object (pictogram - bird), 577, 276
+10, object (pictogram - bird), 653, 303
+10, object (pictogram - bird), 646, 323
+10, object (pictogram - bird), 577, 325
+11, object (pictogram - bird), 522, 88
+11, object (pictogram - bird), 550, 158
+11, object (pictogram - bird), 517, 161
+11, object (pictogram - bird), 475, 168
+11, object (pictogram - bird), 452, 120
+11, object (pictogram - bird), 477, 94
+12, object (pictogram - bird), 756, 201
+12, object (pictogram - bird), 804, 205
+12, object (pictogram - bird), 818, 216
+12, object (pictogram - bird), 804, 239
+12, object (pictogram - bird), 767, 262
+12, object (pictogram - bird), 738, 259
+12, object (pictogram - bird), 735, 214
+12, object (pictogram - bird), 741, 200
+13, annotation, 727, 174
+13, annotation, 762, 245
+13, annotation, 771, 283
+13, annotation, 737, 278
+13, annotation, 689, 220
+13, annotation, 716, 187
+14, annotation, 720, 212
+14, annotation, 718, 189
+14, annotation, 740, 194
+14, annotation, 735, 210
+15, annotation, 578, 344
+15, annotation, 580, 330
+15, annotation, 419, 279
+15, annotation, 388, 285
+15, annotation, 408, 303
+15, annotation, 418, 299
+16, annotation, 514, 344
+16, annotation, 523, 336
+16, annotation, 337, 187
+16, annotation, 311, 186
+16, annotation, 323, 206
+16, annotation, 333, 211
+17, annotation, 484, 252
+17, annotation, 486, 244
+17, annotation, 323, 151
+17, annotation, 299, 151
+17, annotation, 312, 170
+18, annotation, 538, 232
+18, annotation, 515, 204
+18, annotation, 489, 204
+18, annotation, 497, 222
+19, annotation, 586, 241
+19, annotation, 543, 177
+19, annotation, 520, 170
+19, annotation, 527, 191
+20, annotation, 512, 366
+20, annotation, 580, 342
+20, annotation, 589, 245
+20, annotation, 544, 173
+20, annotation, 519, 168
+20, annotation, 485, 203
+21, text (label), 191, 334
+21, text (label), 192, 304
+21, text (label), 275, 311
+21, text (label), 286, 312
+21, text (label), 285, 336
+22, text (label), 393, 184
+22, text (label), 393, 163
+22, text (label), 496, 162
+22, text (label), 496, 182
+23, text (label), 685, 250
+23, text (label), 685, 267
+23, text (label), 575, 267
+23, text (label), 576, 248
+24, text (label), 268, 274
+24, text (label), 271, 251
+24, text (label), 286, 251
+24, text (label), 289, 272
+25, text (axis label), 192, 297
+25, text (axis label), 192, 277
+25, text (axis label), 238, 277
+25, text (axis label), 237, 299
+26, text (label), 524, 273
+26, text (label), 524, 254
+26, text (label), 542, 256
+26, text (label), 542, 273
+27, axis, 818, 267
+27, axis, 816, 302
+27, axis, 188, 296
+27, axis, 191, 267
+28, text (axis label), 452, 80
+28, text (axis label), 490, 79
+28, text (axis label), 489, 97
+28, text (axis label), 455, 97
+29, axis, 460, 685
+29, axis, 460, 78
+29, axis, 408, 79
+29, axis, 407, 649
+30, text (label), 677, 574
+30, text (label), 677, 592
+30, text (label), 566, 593
+30, text (label), 566, 577
+31, data (diagram), 7, 325
+31, data (diagram), 0, 243
+31, data (diagram), 96, 239
+31, data (diagram), 155, 235
+31, data (diagram), 184, 266
+31, data (diagram), 199, 324
+32, data (diagram), 346, 91
+32, data (diagram), 369, 23
+32, data (diagram), 471, 0
+32, data (diagram), 564, 0
+32, data (diagram), 533, 69
+32, data (diagram), 447, 80
+33, data (diagram), 369, 620
+33, data (diagram), 494, 676
+33, data (diagram), 524, 698
+33, data (diagram), 544, 766
+33, data (diagram), 480, 759
+33, data (diagram), 400, 759
+34, data (diagram), 817, 339
+34, data (diagram), 825, 229
+34, data (diagram), 957, 225
+34, data (diagram), 999, 241
+34, data (diagram), 957, 322
+35, object (pictogram - skull), 18, 282
+35, object (pictogram - skull), 150, 239
+35, object (pictogram - skull), 173, 261
+35, object (pictogram - skull), 182, 299
+35, object (pictogram - skull), 116, 304
+35, object (pictogram - skull), 8, 317
+35, object (pictogram - skull), 5, 294
+36, object (pictogram - skull), 392, 49
+36, object (pictogram - skull), 466, 15
+36, object (pictogram - skull), 523, 0
+36, object (pictogram - skull), 551, 7
+36, object (pictogram - skull), 531, 60
+36, object (pictogram - skull), 376, 83
+36, object (pictogram - skull), 348, 85
+37, object (pictogram - skull), 870, 259
+37, object (pictogram - skull), 953, 229
+37, object (pictogram - skull), 988, 248
+37, object (pictogram - skull), 974, 285
+37, object (pictogram - skull), 953, 311
+37, object (pictogram - skull), 884, 314
+37, object (pictogram - skull), 817, 336
+37, object (pictogram - skull), 823, 307
+38, object (pictogram - skull), 399, 692
+38, object (pictogram - skull), 453, 679
+38, object (pictogram - skull), 479, 676
+38, object (pictogram - skull), 499, 679
+38, object (pictogram - skull), 516, 697
+38, object (pictogram - skull), 529, 737
+38, object (pictogram - skull), 471, 740
+38, object (pictogram - skull), 405, 748
+39, legend, 6, 616
+39, legend, 6, 505
+39, legend, 362, 509
+39, legend, 366, 591
+39, legend, 187, 616
+40, data, 0, 492
+40, data, 0, 0
+40, data, 997, 0
+40, data, 999, 1
+40, data, 998, 766
+40, data, 348, 766
+40, data, 356, 609
+40, data, 379, 591
+40, data, 367, 500
+41, text (label), 33, 609
+41, text (label), 33, 512
+41, text (label), 302, 516
+41, text (label), 364, 577
+41, text (label), 358, 588
+41, text (label), 184, 595
+41, text (label), 170, 616

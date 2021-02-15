@@ -1,0 +1,21 @@
+1, text (title), 363, 33
+1, text (title), 361, 63
+1, text (title), 963, 63
+1, text (title), 963, 31
+2, text (header row), 30, 64
+2, text (header row), 30, 93
+2, text (header row), 967, 93
+2, text (header row), 967, 62
+3, data, 29, 61
+3, data, 37, 363
+3, data, 971, 364
+3, data, 968, 63
+3, data, 39, 62
+4, data (table), 41, 359
+4, data (table), 30, 63
+4, data (table), 963, 66
+4, data (table), 969, 360
+5, graphical element, 29, 26
+5, graphical element, 967, 27
+5, graphical element, 966, 40
+5, graphical element, 28, 42

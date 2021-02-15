@@ -1,0 +1,771 @@
+1, text (paragraph), 48, 154
+1, text (paragraph), 47, 140
+1, text (paragraph), 61, 111
+1, text (paragraph), 270, 110
+1, text (paragraph), 277, 127
+1, text (paragraph), 281, 153
+2, text (source), 35, 179
+2, text (source), 205, 177
+2, text (source), 213, 200
+2, text (source), 165, 208
+2, text (source), 32, 208
+3, text (title), 50, 103
+3, text (title), 52, 74
+3, text (title), 105, 71
+3, text (title), 104, 53
+3, text (title), 223, 51
+3, text (title), 228, 72
+3, text (title), 275, 72
+3, text (title), 278, 100
+4, graphical element, 34, 170
+4, graphical element, 31, 34
+4, graphical element, 293, 31
+4, graphical element, 294, 167
+5, text (source), 16, 878
+5, text (source), 29, 877
+5, text (source), 30, 961
+5, text (source), 16, 959
+6, text (label), 230, 889
+6, text (label), 326, 888
+6, text (label), 327, 901
+6, text (label), 276, 902
+6, text (label), 280, 929
+6, text (label), 269, 958
+6, text (label), 229, 960
+7, legend, 217, 964
+7, legend, 214, 882
+7, legend, 329, 882
+7, legend, 330, 906
+7, legend, 286, 908
+7, legend, 285, 928
+7, legend, 272, 964
+7, legend, 220, 968
+8, text (label), 83, 959
+8, text (label), 81, 875
+8, text (label), 161, 874
+8, text (label), 170, 899
+8, text (label), 127, 915
+8, text (label), 126, 930
+8, text (label), 208, 932
+8, text (label), 209, 945
+8, text (label), 164, 948
+8, text (label), 165, 960
+9, object (pictogram - international flags), 35, 961
+9, object (pictogram - international flags), 36, 872
+9, object (pictogram - international flags), 54, 872
+9, object (pictogram - international flags), 54, 960
+10, legend, 32, 966
+10, legend, 34, 870
+10, legend, 163, 871
+10, legend, 172, 902
+10, legend, 129, 919
+10, legend, 129, 927
+10, legend, 210, 929
+10, legend, 210, 946
+10, legend, 167, 951
+10, legend, 168, 963
+11, text (label), 36, 601
+11, text (label), 35, 582
+11, text (label), 95, 583
+11, text (label), 94, 601
+12, text (label), 33, 660
+12, text (label), 75, 661
+12, text (label), 76, 678
+12, text (label), 34, 678
+13, text (label), 34, 776
+13, text (label), 77, 777
+13, text (label), 75, 796
+13, text (label), 34, 794
+14, text (label), 126, 777
+14, text (label), 167, 776
+14, text (label), 167, 796
+14, text (label), 125, 794
+15, text (label), 229, 777
+15, text (label), 281, 776
+15, text (label), 281, 795
+15, text (label), 227, 795
+16, text (label), 336, 863
+16, text (label), 422, 863
+16, text (label), 421, 882
+16, text (label), 389, 882
+16, text (label), 390, 895
+16, text (label), 335, 895
+17, text (label), 461, 892
+17, text (label), 497, 890
+17, text (label), 497, 908
+17, text (label), 463, 906
+18, text (label), 565, 879
+18, text (label), 609, 878
+18, text (label), 609, 894
+18, text (label), 567, 896
+19, text (paragraph), 34, 641
+19, text (paragraph), 36, 602
+19, text (paragraph), 106, 602
+19, text (paragraph), 100, 641
+20, text (paragraph), 35, 757
+20, text (paragraph), 33, 680
+20, text (paragraph), 124, 680
+20, text (paragraph), 134, 697
+20, text (paragraph), 131, 730
+20, text (paragraph), 125, 743
+20, text (paragraph), 100, 757
+21, text (paragraph), 35, 848
+21, text (paragraph), 32, 796
+21, text (paragraph), 96, 797
+21, text (paragraph), 115, 810
+21, text (paragraph), 110, 836
+21, text (paragraph), 74, 847
+22, text (paragraph), 126, 796
+22, text (paragraph), 185, 796
+22, text (paragraph), 213, 810
+22, text (paragraph), 208, 849
+22, text (paragraph), 124, 848
+23, text (paragraph), 226, 849
+23, text (paragraph), 228, 796
+23, text (paragraph), 290, 796
+23, text (paragraph), 305, 808
+23, text (paragraph), 315, 824
+23, text (paragraph), 296, 849
+24, text (paragraph), 334, 961
+24, text (paragraph), 335, 898
+24, text (paragraph), 424, 898
+24, text (paragraph), 440, 911
+24, text (paragraph), 444, 923
+24, text (paragraph), 450, 961
+25, text (paragraph), 463, 961
+25, text (paragraph), 461, 910
+25, text (paragraph), 539, 909
+25, text (paragraph), 550, 942
+25, text (paragraph), 550, 960
+26, text (paragraph), 566, 960
+26, text (paragraph), 566, 897
+26, text (paragraph), 691, 898
+26, text (paragraph), 707, 938
+26, text (paragraph), 706, 948
+26, text (paragraph), 681, 960
+27, annotation, 48, 397
+27, annotation, 31, 399
+27, annotation, 30, 474
+27, annotation, 19, 476
+27, annotation, 20, 595
+27, annotation, 34, 596
+27, annotation, 34, 586
+27, annotation, 30, 585
+27, annotation, 29, 482
+27, annotation, 42, 480
+27, annotation, 40, 406
+27, annotation, 52, 407
+28, annotation, 121, 589
+28, annotation, 121, 630
+28, annotation, 114, 630
+28, annotation, 115, 674
+28, annotation, 77, 676
+28, annotation, 76, 669
+28, annotation, 105, 666
+28, annotation, 105, 621
+28, annotation, 114, 620
+28, annotation, 114, 588
+29, annotation, 146, 636
+29, annotation, 153, 641
+29, annotation, 154, 766
+29, annotation, 113, 768
+29, annotation, 111, 788
+29, annotation, 74, 790
+29, annotation, 77, 780
+29, annotation, 105, 780
+29, annotation, 106, 759
+29, annotation, 147, 758
+30, annotation, 164, 651
+30, annotation, 166, 724
+30, annotation, 178, 724
+30, annotation, 180, 789
+30, annotation, 167, 789
+30, annotation, 167, 779
+30, annotation, 173, 779
+30, annotation, 173, 734
+30, annotation, 157, 732
+30, annotation, 157, 650
+31, annotation, 243, 742
+31, annotation, 244, 757
+31, annotation, 213, 757
+31, annotation, 215, 788
+31, annotation, 229, 790
+31, annotation, 228, 780
+31, annotation, 223, 780
+31, annotation, 223, 766
+31, annotation, 252, 765
+31, annotation, 252, 744
+32, annotation, 444, 848
+32, annotation, 448, 856
+32, annotation, 448, 875
+32, annotation, 421, 878
+32, annotation, 420, 869
+32, annotation, 436, 868
+32, annotation, 438, 844
+33, annotation, 558, 869
+33, annotation, 505, 873
+33, annotation, 504, 894
+33, annotation, 497, 895
+33, annotation, 497, 904
+33, annotation, 513, 902
+33, annotation, 516, 879
+33, annotation, 564, 882
+34, annotation, 633, 871
+34, annotation, 632, 878
+34, annotation, 625, 890
+34, annotation, 608, 890
+34, annotation, 609, 881
+34, annotation, 619, 875
+35, axis (time), 42, 246
+35, axis (time), 60, 246
+35, axis (time), 55, 290
+35, axis (time), 55, 348
+35, axis (time), 60, 374
+35, axis (time), 70, 425
+35, axis (time), 72, 450
+35, axis (time), 78, 460
+35, axis (time), 99, 524
+35, axis (time), 111, 549
+35, axis (time), 140, 602
+35, axis (time), 170, 645
+35, axis (time), 183, 664
+35, axis (time), 193, 674
+35, axis (time), 216, 695
+35, axis (time), 266, 738
+35, axis (time), 289, 758
+35, axis (time), 323, 780
+35, axis (time), 347, 791
+35, axis (time), 365, 804
+35, axis (time), 400, 820
+35, axis (time), 427, 829
+35, axis (time), 483, 846
+35, axis (time), 525, 852
+35, axis (time), 575, 856
+35, axis (time), 602, 858
+35, axis (time), 634, 858
+35, axis (time), 652, 857
+35, axis (time), 652, 869
+35, axis (time), 617, 871
+35, axis (time), 576, 870
+35, axis (time), 529, 867
+35, axis (time), 486, 857
+35, axis (time), 454, 849
+35, axis (time), 408, 835
+35, axis (time), 358, 814
+35, axis (time), 322, 794
+35, axis (time), 289, 773
+35, axis (time), 252, 743
+35, axis (time), 227, 724
+35, axis (time), 189, 685
+35, axis (time), 171, 664
+35, axis (time), 147, 632
+35, axis (time), 134, 615
+35, axis (time), 120, 590
+35, axis (time), 102, 559
+35, axis (time), 91, 530
+35, axis (time), 77, 497
+35, axis (time), 65, 460
+35, axis (time), 56, 430
+35, axis (time), 52, 399
+35, axis (time), 45, 366
+35, axis (time), 44, 329
+35, axis (time), 42, 293
+35, axis (time), 44, 258
+36, text (label), 304, 173
+36, text (label), 315, 147
+36, text (label), 330, 123
+36, text (label), 361, 81
+36, text (label), 374, 90
+36, text (label), 343, 127
+36, text (label), 324, 166
+36, text (label), 316, 179
+37, text (label), 424, 228
+37, text (label), 430, 206
+37, text (label), 445, 190
+37, text (label), 453, 197
+37, text (label), 441, 217
+37, text (label), 434, 232
+38, text (label), 455, 236
+38, text (label), 470, 210
+38, text (label), 486, 191
+38, text (label), 497, 199
+38, text (label), 479, 222
+38, text (label), 467, 243
+39, text (label), 486, 253
+39, text (label), 499, 230
+39, text (label), 517, 213
+39, text (label), 527, 217
+39, text (label), 507, 241
+39, text (label), 498, 258
+40, text (label), 520, 268
+40, text (label), 530, 246
+40, text (label), 547, 231
+40, text (label), 552, 241
+40, text (label), 536, 259
+40, text (label), 529, 273
+41, text (label), 75, 256
+41, text (label), 127, 249
+41, text (label), 126, 275
+41, text (label), 95, 283
+41, text (label), 74, 282
+42, text (label), 74, 300
+42, text (label), 101, 296
+42, text (label), 127, 288
+42, text (label), 129, 298
+42, text (label), 103, 307
+42, text (label), 110, 319
+42, text (label), 127, 316
+42, text (label), 131, 326
+42, text (label), 103, 334
+42, text (label), 74, 341
+42, text (label), 74, 319
+43, text (label), 75, 353
+43, text (label), 102, 348
+43, text (label), 124, 339
+43, text (label), 130, 347
+43, text (label), 106, 357
+43, text (label), 78, 365
+44, text (label), 78, 377
+44, text (label), 108, 369
+44, text (label), 127, 358
+44, text (label), 131, 372
+44, text (label), 133, 383
+44, text (label), 115, 392
+44, text (label), 120, 403
+44, text (label), 102, 411
+44, text (label), 85, 417
+44, text (label), 81, 392
+45, text (label), 90, 429
+45, text (label), 130, 413
+45, text (label), 169, 392
+45, text (label), 186, 377
+45, text (label), 207, 364
+45, text (label), 218, 370
+45, text (label), 189, 391
+45, text (label), 166, 406
+45, text (label), 140, 420
+45, text (label), 126, 427
+45, text (label), 98, 438
+45, text (label), 90, 438
+46, text (label), 97, 455
+46, text (label), 119, 448
+46, text (label), 142, 435
+46, text (label), 146, 444
+46, text (label), 150, 459
+46, text (label), 160, 466
+46, text (label), 166, 482
+46, text (label), 144, 497
+46, text (label), 115, 510
+46, text (label), 111, 502
+46, text (label), 106, 488
+46, text (label), 101, 473
+47, text (label), 121, 523
+47, text (label), 145, 510
+47, text (label), 166, 500
+47, text (label), 171, 505
+47, text (label), 180, 513
+47, text (label), 164, 538
+47, text (label), 170, 542
+47, text (label), 179, 554
+47, text (label), 193, 551
+47, text (label), 200, 557
+47, text (label), 154, 589
+47, text (label), 140, 567
+47, text (label), 134, 552
+47, text (label), 125, 539
+48, text (label), 164, 598
+48, text (label), 194, 579
+48, text (label), 206, 597
+48, text (label), 223, 621
+48, text (label), 208, 638
+48, text (label), 194, 647
+48, text (label), 177, 624
+49, text (label), 207, 654
+49, text (label), 235, 630
+49, text (label), 248, 638
+49, text (label), 257, 646
+49, text (label), 225, 675
+50, text (label), 252, 701
+50, text (label), 269, 683
+50, text (label), 288, 668
+50, text (label), 303, 684
+50, text (label), 295, 700
+50, text (label), 272, 723
+51, text (label), 289, 730
+51, text (label), 305, 708
+51, text (label), 327, 685
+51, text (label), 341, 673
+51, text (label), 347, 678
+51, text (label), 330, 699
+51, text (label), 311, 723
+51, text (label), 298, 739
+52, text (label), 315, 750
+52, text (label), 329, 724
+52, text (label), 349, 700
+52, text (label), 369, 680
+52, text (label), 389, 658
+52, text (label), 392, 666
+52, text (label), 366, 699
+52, text (label), 348, 720
+52, text (label), 360, 729
+52, text (label), 392, 698
+52, text (label), 401, 701
+52, text (label), 372, 732
+52, text (label), 348, 771
+52, text (label), 338, 765
+53, text (label), 363, 777
+53, text (label), 371, 758
+53, text (label), 381, 744
+53, text (label), 393, 750
+53, text (label), 411, 728
+53, text (label), 428, 708
+53, text (label), 441, 696
+53, text (label), 446, 703
+53, text (label), 431, 720
+53, text (label), 417, 740
+53, text (label), 398, 763
+53, text (label), 383, 790
+54, text (label), 396, 794
+54, text (label), 405, 776
+54, text (label), 423, 749
+54, text (label), 439, 727
+54, text (label), 456, 706
+54, text (label), 467, 688
+54, text (label), 490, 658
+54, text (label), 513, 625
+54, text (label), 521, 631
+54, text (label), 500, 661
+54, text (label), 475, 695
+54, text (label), 455, 721
+54, text (label), 432, 753
+54, text (label), 410, 785
+54, text (label), 403, 799
+55, text (label), 419, 803
+55, text (label), 432, 777
+55, text (label), 447, 753
+55, text (label), 455, 742
+55, text (label), 466, 747
+55, text (label), 452, 763
+55, text (label), 436, 788
+55, text (label), 426, 807
+56, text (label), 443, 811
+56, text (label), 454, 783
+56, text (label), 471, 757
+56, text (label), 484, 736
+56, text (label), 506, 708
+56, text (label), 516, 714
+56, text (label), 499, 731
+56, text (label), 482, 758
+56, text (label), 465, 788
+56, text (label), 453, 817
+57, text (label), 454, 818
+57, text (label), 464, 799
+57, text (label), 474, 778
+57, text (label), 486, 754
+57, text (label), 503, 731
+57, text (label), 518, 710
+57, text (label), 540, 678
+57, text (label), 550, 686
+57, text (label), 570, 651
+57, text (label), 576, 657
+57, text (label), 566, 678
+57, text (label), 550, 704
+57, text (label), 535, 728
+57, text (label), 522, 747
+57, text (label), 505, 775
+57, text (label), 486, 806
+57, text (label), 482, 824
+58, text (label), 493, 828
+58, text (label), 507, 790
+58, text (label), 522, 763
+58, text (label), 545, 730
+58, text (label), 564, 698
+58, text (label), 573, 703
+58, text (label), 556, 730
+58, text (label), 533, 763
+58, text (label), 521, 792
+58, text (label), 509, 806
+58, text (label), 504, 830
+59, text (label), 517, 830
+59, text (label), 529, 793
+59, text (label), 546, 764
+59, text (label), 567, 728
+59, text (label), 582, 704
+59, text (label), 588, 694
+59, text (label), 596, 699
+59, text (label), 565, 747
+59, text (label), 549, 779
+59, text (label), 532, 813
+59, text (label), 526, 833
+60, text (label), 541, 832
+60, text (label), 551, 799
+60, text (label), 565, 770
+60, text (label), 581, 745
+60, text (label), 590, 731
+60, text (label), 596, 738
+60, text (label), 611, 717
+60, text (label), 620, 721
+60, text (label), 610, 741
+60, text (label), 594, 764
+60, text (label), 576, 800
+60, text (label), 570, 820
+60, text (label), 567, 839
+61, text (label), 582, 840
+61, text (label), 593, 800
+61, text (label), 604, 770
+61, text (label), 619, 744
+61, text (label), 634, 718
+61, text (label), 647, 694
+61, text (label), 669, 700
+61, text (label), 646, 747
+61, text (label), 628, 782
+61, text (label), 642, 784
+61, text (label), 653, 767
+61, text (label), 661, 770
+61, text (label), 655, 785
+61, text (label), 645, 806
+61, text (label), 644, 841
+61, text (label), 616, 843
+62, object (photograph - mars), 623, 181
+62, object (photograph - mars), 664, 194
+62, object (photograph - mars), 697, 216
+62, object (photograph - mars), 720, 250
+62, object (photograph - mars), 731, 296
+62, object (photograph - mars), 725, 354
+62, object (photograph - mars), 690, 403
+62, object (photograph - mars), 656, 418
+62, object (photograph - mars), 601, 427
+62, object (photograph - mars), 569, 418
+62, object (photograph - mars), 526, 393
+62, object (photograph - mars), 506, 355
+62, object (photograph - mars), 497, 309
+62, object (photograph - mars), 498, 274
+62, object (photograph - mars), 502, 250
+62, object (photograph - mars), 531, 211
+62, object (photograph - mars), 567, 191
+62, object (photograph - mars), 602, 179
+63, object (pictogram - russian flags), 72, 254
+63, object (pictogram - russian flags), 72, 283
+63, object (pictogram - russian flags), 54, 283
+63, object (pictogram - russian flags), 57, 253
+64, object (pictogram - russian flags), 72, 296
+64, object (pictogram - russian flags), 74, 345
+64, object (pictogram - russian flags), 54, 345
+64, object (pictogram - russian flags), 54, 316
+64, object (pictogram - russian flags), 54, 295
+65, object (pictogram - russian flag), 71, 351
+65, object (pictogram - russian flag), 76, 364
+65, object (pictogram - russian flag), 57, 367
+65, object (pictogram - russian flag), 57, 354
+66, object (pictogram - russian flag), 83, 419
+66, object (pictogram - russian flag), 67, 421
+66, object (pictogram - russian flag), 67, 408
+66, object (pictogram - russian flag), 81, 406
+67, object (pictogram - russian flag), 86, 427
+67, object (pictogram - russian flag), 92, 440
+67, object (pictogram - russian flag), 72, 445
+67, object (pictogram - russian flag), 70, 432
+68, object (pictogram - russian flags), 103, 485
+68, object (pictogram - russian flags), 113, 514
+68, object (pictogram - russian flags), 98, 520
+68, object (pictogram - russian flags), 92, 505
+68, object (pictogram - russian flags), 88, 493
+69, object (pictogram - russian flags), 123, 539
+69, object (pictogram - russian flags), 136, 557
+69, object (pictogram - russian flags), 147, 577
+69, object (pictogram - russian flags), 130, 585
+69, object (pictogram - russian flags), 121, 569
+69, object (pictogram - russian flags), 110, 547
+70, object (pictogram - russian flags), 160, 600
+70, object (pictogram - russian flags), 175, 621
+70, object (pictogram - russian flags), 190, 635
+70, object (pictogram - russian flags), 196, 647
+70, object (pictogram - russian flags), 185, 658
+70, object (pictogram - russian flags), 166, 635
+70, object (pictogram - russian flags), 154, 620
+70, object (pictogram - russian flags), 147, 608
+71, object (pictogram - russian flags), 252, 705
+71, object (pictogram - russian flags), 272, 724
+71, object (pictogram - russian flags), 263, 735
+71, object (pictogram - russian flags), 242, 718
+72, object (pictogram - american flags), 76, 374
+72, object (pictogram - american flags), 82, 403
+72, object (pictogram - american flags), 65, 406
+72, object (pictogram - american flags), 59, 376
+73, object (pictogram - american flags), 95, 457
+73, object (pictogram - american flags), 103, 485
+73, object (pictogram - american flags), 85, 490
+73, object (pictogram - american flags), 76, 460
+74, object (pictogram - american flag), 118, 523
+74, object (pictogram - american flag), 124, 535
+74, object (pictogram - american flag), 108, 542
+74, object (pictogram - american flag), 103, 531
+75, object (pictogram - american flag), 153, 592
+75, object (pictogram - american flag), 139, 599
+75, object (pictogram - american flag), 133, 588
+75, object (pictogram - american flag), 147, 579
+76, object (pictogram - american flags), 205, 657
+76, object (pictogram - american flags), 222, 679
+76, object (pictogram - american flags), 211, 692
+76, object (pictogram - american flags), 190, 671
+77, object (pictogram - american flag), 284, 734
+77, object (pictogram - american flag), 296, 742
+77, object (pictogram - american flag), 285, 754
+77, object (pictogram - american flag), 276, 748
+78, object (pictogram - american flag), 311, 750
+78, object (pictogram - american flag), 320, 759
+78, object (pictogram - american flag), 311, 772
+78, object (pictogram - american flag), 301, 765
+79, object (pictogram - american flag), 335, 768
+79, object (pictogram - american flag), 347, 776
+79, object (pictogram - american flag), 341, 789
+79, object (pictogram - american flag), 331, 783
+80, object (pictogram - russian flag), 323, 760
+80, object (pictogram - russian flag), 335, 767
+80, object (pictogram - russian flag), 326, 782
+80, object (pictogram - russian flag), 315, 775
+81, object (pictogram - japanese flag), 360, 780
+81, object (pictogram - japanese flag), 369, 786
+81, object (pictogram - japanese flag), 364, 801
+81, object (pictogram - japanese flag), 352, 797
+82, object (pictogram - american flag), 374, 788
+82, object (pictogram - american flag), 384, 793
+82, object (pictogram - american flag), 376, 807
+82, object (pictogram - american flag), 365, 802
+83, object (pictogram - american flag), 393, 797
+83, object (pictogram - american flag), 404, 800
+83, object (pictogram - american flag), 398, 817
+83, object (pictogram - american flag), 388, 813
+84, object (pictogram - american flag), 417, 805
+84, object (pictogram - american flag), 429, 810
+84, object (pictogram - american flag), 423, 827
+84, object (pictogram - american flag), 411, 824
+85, object (pictogram - european union flag), 442, 815
+85, object (pictogram - european union flag), 451, 818
+85, object (pictogram - european union flag), 447, 832
+85, object (pictogram - european union flag), 436, 830
+86, object (pictogram - american flags), 454, 820
+86, object (pictogram - american flags), 482, 826
+86, object (pictogram - american flags), 477, 843
+86, object (pictogram - american flags), 449, 835
+87, object (pictogram - european union flag), 490, 846
+87, object (pictogram - european union flag), 493, 827
+87, object (pictogram - european union flag), 504, 832
+87, object (pictogram - european union flag), 500, 848
+88, object (pictogram - american flag), 516, 833
+88, object (pictogram - american flag), 527, 835
+88, object (pictogram - american flag), 523, 852
+88, object (pictogram - american flag), 514, 850
+89, object (pictogram - american flags), 539, 835
+89, object (pictogram - american flags), 567, 840
+89, object (pictogram - american flags), 566, 857
+89, object (pictogram - american flags), 535, 853
+90, object (pictogram - flag), 584, 855
+90, object (pictogram - flag), 584, 840
+90, object (pictogram - flag), 596, 841
+90, object (pictogram - flag), 595, 859
+91, object (pictogram - american flags), 601, 843
+91, object (pictogram - american flags), 627, 842
+91, object (pictogram - american flags), 628, 859
+91, object (pictogram - american flags), 599, 859
+92, object (pictogram - european union flag), 645, 855
+92, object (pictogram - european union flag), 634, 856
+92, object (pictogram - european union flag), 633, 841
+92, object (pictogram - european union flag), 645, 841
+93, data (bars), 303, 183
+93, data (bars), 322, 186
+93, data (bars), 299, 282
+93, data (bars), 430, 265
+93, data (bars), 429, 283
+93, data (bars), 300, 302
+93, data (bars), 300, 330
+93, data (bars), 422, 291
+93, data (bars), 430, 296
+93, data (bars), 430, 323
+93, data (bars), 307, 369
+93, data (bars), 325, 428
+93, data (bars), 410, 378
+93, data (bars), 486, 309
+93, data (bars), 501, 319
+93, data (bars), 475, 352
+93, data (bars), 483, 375
+93, data (bars), 509, 353
+93, data (bars), 536, 391
+93, data (bars), 526, 422
+93, data (bars), 544, 429
+93, data (bars), 574, 372
+93, data (bars), 588, 379
+93, data (bars), 498, 594
+93, data (bars), 535, 604
+93, data (bars), 581, 445
+93, data (bars), 602, 445
+93, data (bars), 610, 379
+93, data (bars), 636, 378
+93, data (bars), 636, 440
+93, data (bars), 645, 440
+93, data (bars), 648, 403
+93, data (bars), 663, 406
+93, data (bars), 671, 469
+93, data (bars), 678, 476
+93, data (bars), 671, 583
+93, data (bars), 656, 648
+93, data (bars), 691, 661
+93, data (bars), 701, 652
+93, data (bars), 708, 654
+93, data (bars), 709, 671
+93, data (bars), 695, 709
+93, data (bars), 666, 766
+93, data (bars), 654, 804
+93, data (bars), 647, 840
+93, data (bars), 625, 841
+93, data (bars), 600, 841
+93, data (bars), 573, 839
+93, data (bars), 543, 835
+93, data (bars), 514, 832
+93, data (bars), 492, 828
+93, data (bars), 456, 820
+93, data (bars), 440, 814
+93, data (bars), 416, 805
+93, data (bars), 393, 795
+93, data (bars), 360, 779
+93, data (bars), 334, 766
+93, data (bars), 311, 752
+93, data (bars), 295, 741
+93, data (bars), 285, 733
+93, data (bars), 252, 703
+93, data (bars), 226, 680
+93, data (bars), 204, 654
+93, data (bars), 179, 628
+93, data (bars), 166, 602
+93, data (bars), 150, 580
+93, data (bars), 132, 552
+93, data (bars), 118, 523
+93, data (bars), 105, 485
+93, data (bars), 95, 456
+93, data (bars), 83, 406
+93, data (bars), 77, 374
+93, data (bars), 73, 333
+93, data (bars), 73, 299
+93, data (bars), 75, 254
+93, data (bars), 127, 245
+93, data (bars), 168, 225
+93, data (bars), 207, 211
+93, data (bars), 248, 196
+93, data (bars), 280, 186
+94, data, 2, 242
+94, data, 34, 236
+94, data, 102, 236
+94, data, 131, 225
+94, data, 166, 215
+94, data, 219, 196
+94, data, 284, 176
+94, data, 298, 175
+94, data, 317, 130
+94, data, 353, 72
+94, data, 367, 1
+94, data, 748, 0
+94, data, 748, 976
+94, data, 326, 973
+94, data, 328, 880
+94, data, 326, 863
+94, data, 2, 854

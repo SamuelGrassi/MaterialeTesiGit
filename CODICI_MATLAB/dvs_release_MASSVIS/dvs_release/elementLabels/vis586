@@ -1,0 +1,159 @@
+1, axis (time), 47, 604
+1, axis (time), 53, 557
+1, axis (time), 955, 555
+1, axis (time), 957, 604
+1, axis (time), 957, 609
+2, axis, 57, 133
+2, axis, 61, 578
+2, axis, 21, 578
+2, axis, 27, 127
+3, data (line), 66, 426
+3, data (line), 119, 408
+3, data (line), 156, 389
+3, data (line), 217, 379
+3, data (line), 285, 350
+3, data (line), 338, 336
+3, data (line), 396, 324
+3, data (line), 457, 299
+3, data (line), 496, 287
+3, data (line), 514, 289
+3, data (line), 547, 240
+3, data (line), 592, 195
+3, data (line), 629, 193
+3, data (line), 652, 227
+3, data (line), 666, 248
+3, data (line), 705, 211
+3, data (line), 748, 178
+3, data (line), 785, 166
+3, data (line), 840, 197
+3, data (line), 877, 234
+3, data (line), 902, 277
+3, data (line), 908, 334
+3, data (line), 930, 398
+3, data (line), 961, 420
+3, data (line), 955, 469
+3, data (line), 936, 469
+3, data (line), 895, 430
+3, data (line), 875, 363
+3, data (line), 854, 289
+3, data (line), 828, 250
+3, data (line), 775, 236
+3, data (line), 729, 260
+3, data (line), 670, 287
+3, data (line), 619, 279
+3, data (line), 605, 248
+3, data (line), 574, 279
+3, data (line), 531, 330
+3, data (line), 488, 342
+3, data (line), 432, 371
+3, data (line), 357, 385
+3, data (line), 264, 408
+3, data (line), 195, 432
+3, data (line), 111, 453
+3, data (line), 57, 473
+3, data (line), 57, 445
+4, annotation, 76, 580
+4, annotation, 74, 436
+4, annotation, 57, 436
+4, annotation, 61, 582
+5, annotation, 203, 580
+5, annotation, 201, 393
+5, annotation, 219, 393
+5, annotation, 217, 580
+6, annotation, 344, 578
+6, annotation, 346, 359
+6, annotation, 359, 359
+6, annotation, 359, 578
+7, annotation, 486, 578
+7, annotation, 486, 316
+7, annotation, 500, 316
+7, annotation, 498, 580
+8, annotation, 629, 580
+8, annotation, 627, 232
+8, annotation, 643, 232
+8, annotation, 641, 578
+9, annotation, 768, 578
+9, annotation, 770, 178
+9, annotation, 779, 180
+9, annotation, 779, 580
+10, annotation, 908, 578
+10, annotation, 910, 398
+10, annotation, 924, 400
+10, annotation, 922, 578
+11, annotation, 936, 461
+11, annotation, 938, 318
+11, annotation, 949, 316
+11, annotation, 951, 463
+12, text (label), 369, 193
+12, text (label), 369, 168
+12, text (label), 467, 170
+12, text (label), 467, 197
+13, text (label), 525, 195
+13, text (label), 525, 168
+13, text (label), 680, 168
+13, text (label), 678, 191
+14, legend, 332, 203
+14, legend, 332, 156
+14, legend, 688, 162
+14, legend, 686, 201
+15, text (label), 990, 318
+15, text (label), 898, 318
+15, text (label), 895, 297
+15, text (label), 916, 273
+15, text (label), 971, 273
+15, text (label), 992, 295
+16, object (pictogram - newspaper), 658, 533
+16, object (pictogram - newspaper), 615, 510
+16, object (pictogram - newspaper), 596, 469
+16, object (pictogram - newspaper), 541, 420
+16, object (pictogram - newspaper), 551, 363
+16, object (pictogram - newspaper), 727, 311
+16, object (pictogram - newspaper), 850, 408
+16, object (pictogram - newspaper), 822, 447
+17, text (title), 37, 63
+17, text (title), 35, 21
+17, text (title), 799, 21
+17, text (title), 799, 63
+18, text (axis label), 35, 96
+18, text (axis label), 35, 64
+18, text (axis label), 953, 70
+18, text (axis label), 953, 100
+19, data, 951, 143
+19, data, 965, 145
+19, data, 967, 563
+19, data, 59, 566
+19, data, 59, 143
+20, graphical element, 4, 0
+20, graphical element, 998, 0
+20, graphical element, 998, 119
+20, graphical element, 0, 117
+21, text (source), 35, 701
+21, text (source), 35, 649
+21, text (source), 146, 650
+21, text (source), 145, 684
+21, text (source), 184, 684
+21, text (source), 184, 707
+22, text (source), 434, 684
+22, text (source), 434, 660
+22, text (source), 965, 656
+22, text (source), 963, 686
+23, object (pictogram - statista logo), 184, 649
+23, object (pictogram - statista logo), 184, 682
+23, object (pictogram - statista logo), 148, 680
+23, object (pictogram - statista logo), 150, 650
+24, object (pictogram - creative commons logo), 189, 690
+24, object (pictogram - creative commons logo), 189, 650
+24, object (pictogram - creative commons logo), 324, 649
+24, object (pictogram - creative commons logo), 326, 684
+25, object (pictogram - person), 330, 686
+25, object (pictogram - person), 330, 652
+25, object (pictogram - person), 361, 652
+25, object (pictogram - person), 363, 684
+26, object (pictogram - equals sign), 395, 686
+26, object (pictogram - equals sign), 365, 686
+26, object (pictogram - equals sign), 365, 654
+26, object (pictogram - equals sign), 396, 654
+27, graphical element, 1000, 625
+27, graphical element, 1000, 711
+27, graphical element, 4, 711
+27, graphical element, 4, 625

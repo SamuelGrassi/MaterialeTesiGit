@@ -1,0 +1,22 @@
+1, text (title), 16, 15
+1, text (title), 16, 63
+1, text (title), 591, 60
+1, text (title), 587, 41
+1, text (title), 696, 39
+1, text (title), 696, 13
+2, text (header row), 18, 83
+2, text (header row), 18, 107
+2, text (header row), 701, 109
+2, text (header row), 701, 81
+3, text (paragraph), 24, 976
+3, text (paragraph), 21, 957
+3, text (paragraph), 296, 956
+3, text (paragraph), 298, 977
+4, data, 18, 80
+4, data, 703, 80
+4, data, 701, 954
+4, data, 18, 951
+5, data (table), 18, 76
+5, data (table), 18, 951
+5, data (table), 701, 954
+5, data (table), 703, 76

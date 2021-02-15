@@ -1,0 +1,48 @@
+1, axis, 7, 6
+1, axis, 73, 8
+1, axis, 68, 581
+1, axis, 9, 577
+2, data, 76, 9
+2, data, 839, 12
+2, data, 839, 542
+2, data, 74, 540
+3, data (bars), 83, 537
+3, data (bars), 83, 32
+3, data (bars), 174, 40
+3, data (bars), 200, 179
+3, data (bars), 252, 129
+3, data (bars), 313, 150
+3, data (bars), 337, 231
+3, data (bars), 352, 246
+3, data (bars), 420, 192
+3, data (bars), 486, 214
+3, data (bars), 490, 283
+3, data (bars), 544, 284
+3, data (bars), 638, 252
+3, data (bars), 652, 327
+3, data (bars), 717, 303
+3, data (bars), 792, 307
+3, data (bars), 816, 373
+3, data (bars), 837, 468
+3, data (bars), 835, 536
+3, data (bars), 832, 545
+4, text (title), 21, 604
+4, text (title), 987, 606
+4, text (title), 985, 636
+4, text (title), 22, 634
+5, legend, 865, 194
+5, legend, 998, 189
+5, legend, 991, 425
+5, legend, 853, 419
+6, axis, 73, 547
+6, axis, 848, 543
+6, axis, 841, 604
+6, axis, 72, 601
+7, text (source), 237, 636
+7, text (source), 796, 638
+7, text (source), 786, 668
+7, text (source), 235, 663
+8, text (label), 894, 405
+8, text (label), 894, 202
+8, text (label), 987, 204
+8, text (label), 975, 405

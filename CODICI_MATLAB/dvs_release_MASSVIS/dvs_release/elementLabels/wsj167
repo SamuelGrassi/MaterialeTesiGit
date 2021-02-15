@@ -1,0 +1,65 @@
+1, text (title), 7, 32
+1, text (title), 352, 38
+1, text (title), 338, 98
+1, text (title), 3, 100
+2, text (paragraph), 3, 108
+2, text (paragraph), 972, 107
+2, text (paragraph), 965, 155
+2, text (paragraph), 493, 147
+2, text (paragraph), 493, 197
+2, text (paragraph), 3, 188
+3, text (axis label), 10, 198
+3, text (axis label), 592, 203
+3, text (axis label), 588, 243
+3, text (axis label), 10, 235
+4, axis (time), 58, 739
+4, axis (time), 997, 744
+4, axis (time), 997, 794
+4, axis (time), 55, 799
+4, axis (time), 55, 749
+5, text (source), 10, 809
+5, text (source), 365, 810
+5, text (source), 362, 844
+5, text (source), 10, 837
+6, text, 745, 799
+6, text, 993, 802
+6, text, 993, 850
+6, text, 742, 844
+7, text, 78, 677
+7, text, 480, 672
+7, text, 485, 725
+7, text, 80, 720
+8, annotation, 892, 467
+8, annotation, 997, 464
+8, annotation, 983, 575
+8, annotation, 955, 530
+8, annotation, 895, 534
+9, axis, 68, 242
+9, axis, 10, 240
+9, axis, 10, 794
+9, axis, 57, 787
+10, data, 73, 247
+10, data, 990, 257
+10, data, 990, 745
+10, data, 60, 739
+11, data (area), 73, 383
+11, data (area), 107, 373
+11, data (area), 125, 317
+11, data (area), 202, 292
+11, data (area), 255, 315
+11, data (area), 257, 388
+11, data (area), 288, 410
+11, data (area), 305, 444
+11, data (area), 372, 514
+11, data (area), 552, 540
+11, data (area), 587, 569
+11, data (area), 757, 594
+11, data (area), 877, 595
+11, data (area), 980, 554
+11, data (area), 990, 562
+11, data (area), 990, 742
+11, data (area), 58, 740
+12, text (label), 975, 479
+12, text (label), 972, 525
+12, text (label), 905, 520
+12, text (label), 908, 480

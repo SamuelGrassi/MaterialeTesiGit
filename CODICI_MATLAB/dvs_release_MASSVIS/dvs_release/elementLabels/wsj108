@@ -1,0 +1,96 @@
+1, text (title), 4, 22
+1, text (title), 151, 23
+1, text (title), 151, 108
+1, text (title), 0, 106
+2, text (paragraph), 0, 117
+2, text (paragraph), 196, 117
+2, text (paragraph), 193, 277
+2, text (paragraph), 0, 275
+3, text (paragraph), 5, 279
+3, text (paragraph), 155, 277
+3, text (paragraph), 155, 339
+3, text (paragraph), 0, 333
+4, text, 4, 380
+4, text, 150, 380
+4, text, 159, 450
+4, text, 4, 448
+5, text (source), 0, 484
+5, text (source), 155, 484
+5, text (source), 157, 531
+5, text (source), 0, 526
+6, legend, 897, 76
+6, legend, 897, 187
+6, legend, 993, 185
+6, legend, 989, 70
+7, annotation, 962, 301
+7, annotation, 883, 297
+7, annotation, 883, 243
+7, annotation, 969, 243
+8, axis, 268, 32
+8, axis, 207, 32
+8, axis, 211, 537
+8, axis, 268, 537
+9, axis, 899, 547
+9, axis, 249, 547
+9, axis, 261, 510
+9, axis, 905, 508
+10, annotation, 474, 432
+10, annotation, 314, 432
+10, annotation, 299, 430
+10, annotation, 299, 490
+10, annotation, 467, 481
+11, data (area), 301, 162
+11, data (area), 249, 191
+11, data (area), 250, 324
+11, data (area), 265, 353
+11, data (area), 371, 342
+11, data (area), 499, 403
+11, data (area), 638, 447
+11, data (area), 782, 468
+11, data (area), 899, 414
+11, data (area), 888, 299
+11, data (area), 890, 103
+11, data (area), 850, 106
+11, data (area), 780, 155
+11, data (area), 681, 128
+11, data (area), 609, 110
+11, data (area), 521, 50
+11, data (area), 479, 50
+11, data (area), 438, 112
+12, data (line), 276, 211
+12, data (line), 259, 214
+12, data (line), 261, 277
+12, data (line), 279, 317
+12, data (line), 344, 312
+12, data (line), 353, 270
+12, data (line), 398, 306
+12, data (line), 447, 349
+12, data (line), 481, 301
+12, data (line), 524, 326
+12, data (line), 532, 382
+12, data (line), 589, 389
+12, data (line), 672, 420
+12, data (line), 818, 344
+12, data (line), 872, 247
+12, data (line), 897, 140
+12, data (line), 888, 108
+12, data (line), 850, 108
+12, data (line), 793, 207
+12, data (line), 746, 290
+12, data (line), 658, 295
+12, data (line), 589, 290
+12, data (line), 532, 196
+12, data (line), 427, 196
+12, data (line), 323, 200
+13, data, 270, 29
+13, data, 895, 40
+13, data, 905, 504
+13, data, 270, 510
+14, text (source), 159, 540
+14, text (source), 159, 562
+14, text (source), 4, 562
+14, text (source), 4, 538
+15, annotation, 465, 47
+15, annotation, 476, 49
+15, annotation, 477, 508
+15, annotation, 467, 508

@@ -1,0 +1,202 @@
+1, text (title), 348, 24
+1, text (title), 654, 21
+1, text (title), 654, 71
+1, text (title), 345, 71
+2, text (source), 18, 719
+2, text (source), 281, 718
+2, text (source), 324, 732
+2, text (source), 323, 750
+2, text (source), 14, 753
+3, object (pictogram - people), 44, 434
+3, object (pictogram - people), 46, 422
+3, object (pictogram - people), 51, 402
+3, object (pictogram - people), 69, 369
+3, object (pictogram - people), 98, 371
+3, object (pictogram - people), 120, 371
+3, object (pictogram - people), 148, 390
+3, object (pictogram - people), 150, 412
+3, object (pictogram - people), 150, 425
+3, object (pictogram - people), 146, 434
+3, object (pictogram - people), 96, 434
+4, object (pictogram - buildings), 19, 688
+4, object (pictogram - buildings), 24, 628
+4, object (pictogram - buildings), 49, 629
+4, object (pictogram - buildings), 43, 589
+4, object (pictogram - buildings), 98, 588
+4, object (pictogram - buildings), 96, 648
+4, object (pictogram - buildings), 115, 649
+4, object (pictogram - buildings), 119, 687
+5, object (pictogram - doctor), 905, 548
+5, object (pictogram - doctor), 905, 475
+5, object (pictogram - doctor), 979, 478
+5, object (pictogram - doctor), 975, 545
+6, data (diagram), 10, 707
+6, data (diagram), 14, 612
+6, data (diagram), 19, 116
+6, data (diagram), 133, 28
+6, data (diagram), 184, 81
+6, data (diagram), 215, 79
+6, data (diagram), 224, 26
+6, data (diagram), 320, 28
+6, data (diagram), 323, 81
+6, data (diagram), 683, 75
+6, data (diagram), 683, 24
+6, data (diagram), 775, 28
+6, data (diagram), 780, 76
+6, data (diagram), 844, 81
+6, data (diagram), 928, 78
+6, data (diagram), 934, 195
+6, data (diagram), 988, 236
+6, data (diagram), 988, 473
+6, data (diagram), 980, 692
+6, data (diagram), 768, 702
+6, data (diagram), 768, 730
+6, data (diagram), 309, 729
+6, data (diagram), 304, 704
+7, data, 988, 693
+7, data, 769, 703
+7, data, 769, 728
+7, data, 309, 730
+7, data, 303, 704
+7, data, 9, 710
+7, data, 14, 114
+7, data, 133, 30
+7, data, 176, 80
+7, data, 219, 79
+7, data, 225, 25
+7, data, 321, 25
+7, data, 320, 80
+7, data, 684, 74
+7, data, 685, 20
+7, data, 780, 23
+7, data, 781, 71
+7, data, 855, 79
+7, data, 929, 74
+7, data, 935, 194
+7, data, 989, 234
+8, text, 44, 453
+8, text, 54, 341
+8, text, 80, 330
+8, text, 70, 236
+8, text, 54, 176
+8, text, 25, 129
+8, text, 63, 98
+8, text, 139, 39
+8, text, 181, 100
+8, text, 235, 93
+8, text, 239, 40
+8, text, 310, 41
+8, text, 316, 105
+8, text, 396, 100
+8, text, 501, 100
+8, text, 549, 104
+8, text, 549, 136
+8, text, 531, 160
+8, text, 406, 158
+8, text, 330, 159
+8, text, 298, 175
+8, text, 293, 214
+8, text, 261, 234
+8, text, 276, 260
+8, text, 329, 250
+8, text, 349, 250
+8, text, 375, 198
+8, text, 486, 195
+8, text, 491, 240
+8, text, 530, 224
+8, text, 625, 224
+8, text, 624, 265
+8, text, 554, 295
+8, text, 550, 328
+8, text, 558, 344
+8, text, 609, 348
+8, text, 635, 388
+8, text, 660, 387
+8, text, 655, 345
+8, text, 654, 265
+8, text, 663, 175
+8, text, 620, 136
+8, text, 615, 110
+8, text, 654, 110
+8, text, 679, 110
+8, text, 686, 63
+8, text, 704, 41
+8, text, 715, 33
+8, text, 745, 34
+8, text, 766, 53
+8, text, 764, 75
+8, text, 749, 110
+8, text, 790, 114
+8, text, 854, 91
+8, text, 873, 89
+8, text, 914, 88
+8, text, 926, 114
+8, text, 924, 129
+8, text, 891, 130
+8, text, 834, 138
+8, text, 759, 144
+8, text, 720, 175
+8, text, 718, 205
+8, text, 738, 226
+8, text, 749, 228
+8, text, 770, 195
+8, text, 824, 188
+8, text, 863, 184
+8, text, 863, 158
+8, text, 906, 151
+8, text, 909, 210
+8, text, 949, 213
+8, text, 965, 224
+8, text, 981, 339
+8, text, 973, 465
+8, text, 846, 479
+8, text, 846, 528
+8, text, 853, 552
+8, text, 914, 554
+8, text, 955, 543
+8, text, 974, 549
+8, text, 978, 593
+8, text, 930, 595
+8, text, 891, 624
+8, text, 813, 625
+8, text, 766, 637
+8, text, 771, 667
+8, text, 824, 677
+8, text, 821, 692
+8, text, 765, 695
+8, text, 760, 722
+8, text, 320, 723
+8, text, 323, 597
+8, text, 309, 578
+8, text, 240, 582
+8, text, 253, 609
+8, text, 251, 629
+8, text, 200, 633
+8, text, 191, 602
+8, text, 213, 568
+8, text, 203, 529
+8, text, 189, 514
+8, text, 215, 459
+8, text, 239, 413
+8, text, 190, 403
+8, text, 158, 405
+8, text, 151, 444
+8, text, 119, 453
+9, text, 81, 525
+9, text, 133, 529
+9, text, 129, 550
+9, text, 124, 569
+9, text, 69, 570
+10, text, 129, 634
+10, text, 176, 635
+10, text, 176, 693
+10, text, 125, 704
+10, text, 81, 707
+10, text, 33, 708
+10, text, 25, 692
+10, text, 83, 688
+10, text, 123, 687
+11, text, 19, 597
+11, text, 50, 600
+11, text, 51, 615
+11, text, 16, 614

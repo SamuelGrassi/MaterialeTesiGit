@@ -1,0 +1,110 @@
+1, text, 504, 611
+1, text, 985, 608
+1, text, 983, 642
+1, text, 506, 638
+2, text (source), 25, 611
+2, text (source), 165, 610
+2, text (source), 160, 643
+2, text (source), 22, 642
+3, graphical element (economist red square), 0, 47
+3, graphical element (economist red square), 20, 45
+3, graphical element (economist red square), 20, 2
+3, graphical element (economist red square), 3, 2
+4, text (title), 27, 18
+4, text (title), 368, 25
+4, text (title), 368, 59
+4, text (title), 30, 54
+5, text (paragraph), 27, 54
+5, text (paragraph), 343, 60
+5, text (paragraph), 338, 82
+5, text (paragraph), 25, 82
+6, legend, 524, 20
+6, legend, 983, 25
+6, legend, 978, 92
+6, legend, 518, 82
+7, data, 35, 104
+7, data, 963, 106
+7, data, 963, 598
+7, data, 34, 598
+8, axis, 931, 146
+8, axis, 966, 146
+8, axis, 965, 558
+8, axis, 924, 554
+9, text (label), 50, 354
+9, text (label), 356, 358
+9, text (label), 350, 381
+9, text (label), 259, 388
+9, text (label), 222, 415
+9, text (label), 131, 415
+9, text (label), 40, 412
+10, text (label), 338, 417
+10, text (label), 487, 418
+10, text (label), 487, 499
+10, text (label), 341, 494
+11, text (label), 486, 292
+11, text (label), 924, 291
+11, text (label), 921, 348
+11, text (label), 484, 346
+12, data (bars), 40, 351
+12, data (bars), 54, 146
+12, data (bars), 87, 136
+12, data (bars), 155, 146
+12, data (bars), 165, 190
+12, data (bars), 168, 257
+12, data (bars), 197, 277
+12, data (bars), 212, 193
+12, data (bars), 230, 163
+12, data (bars), 284, 168
+12, data (bars), 303, 217
+12, data (bars), 287, 274
+12, data (bars), 328, 297
+12, data (bars), 375, 299
+12, data (bars), 412, 323
+12, data (bars), 450, 281
+12, data (bars), 481, 272
+12, data (bars), 481, 328
+12, data (bars), 501, 351
+12, data (bars), 923, 349
+12, data (bars), 919, 556
+12, data (bars), 881, 549
+12, data (bars), 857, 519
+12, data (bars), 837, 469
+12, data (bars), 822, 504
+12, data (bars), 792, 551
+12, data (bars), 758, 519
+12, data (bars), 726, 487
+12, data (bars), 706, 454
+12, data (bars), 662, 435
+12, data (bars), 583, 423
+12, data (bars), 551, 405
+12, data (bars), 516, 388
+12, data (bars), 484, 373
+12, data (bars), 462, 380
+12, data (bars), 445, 412
+12, data (bars), 397, 422
+12, data (bars), 370, 418
+12, data (bars), 365, 401
+12, data (bars), 353, 375
+12, data (bars), 351, 359
+12, data (bars), 262, 356
+12, data (bars), 170, 356
+13, text (label), 558, 30
+13, text (label), 603, 30
+13, text (label), 603, 81
+13, text (label), 560, 79
+14, text (label), 650, 79
+14, text (label), 649, 30
+14, text (label), 694, 32
+14, text (label), 694, 79
+15, text (label), 738, 81
+15, text (label), 739, 30
+15, text (label), 785, 30
+15, text (label), 782, 81
+16, text (label), 829, 82
+16, text (label), 830, 32
+16, text (label), 872, 30
+16, text (label), 874, 81
+17, text (label), 921, 82
+17, text (label), 921, 30
+17, text (label), 965, 32
+17, text (label), 965, 82

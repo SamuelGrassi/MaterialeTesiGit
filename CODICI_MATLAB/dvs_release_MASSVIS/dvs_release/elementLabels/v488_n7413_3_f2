@@ -1,0 +1,254 @@
+1, axis (time), 55, 923
+1, axis (time), 64, 893
+1, axis (time), 907, 893
+1, axis (time), 906, 931
+2, text (axis label), 423, 931
+2, text (axis label), 531, 934
+2, text (axis label), 534, 952
+2, text (axis label), 419, 952
+3, data (grid/matrix), 61, 853
+3, data (grid/matrix), 906, 854
+3, data (grid/matrix), 902, 897
+3, data (grid/matrix), 62, 895
+4, axis, 72, 831
+4, axis, 29, 830
+4, axis, 24, 710
+4, axis, 71, 709
+5, text (axis label), 20, 831
+5, text (axis label), 0, 831
+5, text (axis label), 3, 700
+5, text (axis label), 26, 705
+6, data (points), 66, 848
+6, data (points), 71, 787
+6, data (points), 97, 779
+6, data (points), 108, 760
+6, data (points), 309, 758
+6, data (points), 427, 748
+6, data (points), 586, 717
+6, data (points), 593, 698
+6, data (points), 616, 710
+6, data (points), 643, 731
+6, data (points), 714, 709
+6, data (points), 820, 696
+6, data (points), 899, 710
+6, data (points), 906, 858
+6, data (points), 885, 862
+6, data (points), 859, 863
+6, data (points), 831, 799
+6, data (points), 728, 795
+6, data (points), 653, 814
+6, data (points), 628, 831
+6, data (points), 550, 823
+6, data (points), 497, 831
+6, data (points), 443, 853
+6, data (points), 351, 849
+6, data (points), 164, 848
+7, axis, 999, 837
+7, axis, 905, 837
+7, axis, 901, 708
+7, axis, 999, 710
+8, axis, 929, 704
+8, axis, 901, 706
+8, axis, 901, 579
+8, axis, 929, 579
+9, text (axis label), 957, 577
+9, text (axis label), 955, 706
+9, text (axis label), 929, 708
+9, text (axis label), 931, 576
+10, legend, 428, 743
+10, legend, 75, 743
+10, legend, 76, 708
+10, legend, 424, 705
+11, axis, 75, 705
+11, axis, 42, 705
+11, axis, 39, 540
+11, axis, 74, 545
+12, text (axis label), 24, 629
+12, text (axis label), 0, 633
+12, text (axis label), 2, 503
+12, text (axis label), 26, 503
+13, data (line), 896, 569
+13, data (line), 901, 705
+13, data (line), 831, 685
+13, data (line), 621, 662
+13, data (line), 520, 662
+13, data (line), 498, 685
+13, data (line), 362, 658
+13, data (line), 313, 661
+13, data (line), 245, 654
+13, data (line), 180, 680
+13, data (line), 150, 709
+13, data (line), 66, 703
+13, data (line), 67, 628
+13, data (line), 97, 619
+13, data (line), 272, 563
+13, data (line), 345, 591
+13, data (line), 410, 593
+13, data (line), 567, 593
+13, data (line), 668, 588
+13, data (line), 821, 611
+14, data (line), 902, 451
+14, data (line), 733, 487
+14, data (line), 581, 564
+14, data (line), 437, 582
+14, data (line), 362, 566
+14, data (line), 291, 544
+14, data (line), 199, 585
+14, data (line), 67, 643
+14, data (line), 67, 537
+14, data (line), 145, 535
+14, data (line), 175, 526
+14, data (line), 286, 474
+14, data (line), 323, 465
+14, data (line), 409, 465
+14, data (line), 494, 485
+14, data (line), 567, 480
+14, data (line), 624, 468
+14, data (line), 663, 427
+14, data (line), 808, 389
+14, data (line), 853, 377
+14, data (line), 903, 398
+15, legend, 75, 526
+15, legend, 81, 436
+15, legend, 202, 432
+15, legend, 224, 487
+15, legend, 189, 530
+16, axis, 67, 527
+16, axis, 69, 13
+16, axis, 26, 14
+16, axis, 22, 466
+17, text (axis label), 2, 318
+17, text (axis label), 0, 175
+17, text (axis label), 27, 179
+17, text (axis label), 20, 323
+18, legend, 74, 226
+18, legend, 70, 16
+18, legend, 267, 19
+18, legend, 262, 146
+18, legend, 182, 220
+19, data (points), 305, 20
+19, data (points), 903, 16
+19, data (points), 905, 311
+19, data (points), 468, 426
+19, data (points), 229, 470
+19, data (points), 166, 418
+19, data (points), 72, 427
+19, data (points), 64, 428
+19, data (points), 71, 276
+19, data (points), 230, 205
+19, data (points), 274, 128
+22, annotation (arrow), 555, 474
+22, annotation (arrow), 555, 391
+22, annotation (arrow), 592, 301
+22, annotation (arrow), 630, 262
+22, annotation (arrow), 649, 311
+22, annotation (arrow), 683, 315
+22, annotation (arrow), 709, 278
+22, annotation (arrow), 747, 248
+22, annotation (arrow), 757, 316
+22, annotation (arrow), 691, 348
+22, annotation (arrow), 704, 367
+22, annotation (arrow), 645, 390
+22, annotation (arrow), 595, 437
+24, text (label), 72, 3
+24, text (label), 90, 0
+24, text (label), 89, 20
+24, text (label), 70, 23
+25, text (label), 97, 567
+25, text (label), 74, 567
+25, text (label), 76, 546
+25, text (label), 93, 545
+26, text (label), 97, 694
+26, text (label), 98, 710
+26, text (label), 75, 712
+26, text (label), 76, 691
+27, text (label), 94, 764
+27, text (label), 94, 787
+27, text (label), 74, 787
+27, text (label), 75, 765
+28, data, 906, 10
+28, data, 899, 895
+28, data, 60, 898
+28, data, 64, 18
+29, text (label), 111, 220
+29, text (label), 114, 20
+29, text (label), 153, 19
+29, text (label), 159, 165
+29, text (label), 175, 165
+29, text (label), 178, 220
+30, text (label), 201, 146
+30, text (label), 201, 126
+30, text (label), 241, 128
+30, text (label), 241, 149
+31, text (label), 199, 117
+31, text (label), 198, 20
+31, text (label), 267, 20
+31, text (label), 262, 111
+32, text (label), 91, 489
+32, text (label), 172, 494
+32, text (label), 189, 510
+32, text (label), 184, 531
+32, text (label), 76, 531
+32, text (label), 86, 511
+33, annotation (arrow), 653, 62
+33, annotation (arrow), 673, 61
+33, annotation (arrow), 671, 136
+33, annotation (arrow), 654, 136
+34, text (label), 638, 52
+34, text (label), 635, 32
+34, text (label), 693, 32
+34, text (label), 687, 56
+35, text (label), 791, 38
+35, text (label), 789, 20
+35, text (label), 840, 20
+35, text (label), 839, 41
+36, annotation (arrow), 809, 80
+36, annotation (arrow), 807, 37
+36, annotation (arrow), 827, 37
+36, annotation (arrow), 822, 79
+37, text (label), 850, 277
+37, text (label), 851, 255
+37, text (label), 902, 254
+37, text (label), 903, 274
+38, annotation (arrow), 897, 155
+38, annotation (arrow), 897, 254
+38, annotation (arrow), 882, 254
+38, annotation (arrow), 879, 156
+39, text (label), 780, 315
+39, text (label), 747, 360
+39, text (label), 714, 393
+39, text (label), 691, 404
+39, text (label), 675, 423
+39, text (label), 649, 445
+39, text (label), 629, 460
+39, text (label), 587, 478
+39, text (label), 554, 482
+39, text (label), 555, 460
+39, text (label), 589, 452
+39, text (label), 589, 435
+39, text (label), 607, 417
+39, text (label), 631, 404
+39, text (label), 649, 389
+39, text (label), 671, 375
+39, text (label), 696, 370
+39, text (label), 700, 337
+39, text (label), 724, 333
+39, text (label), 728, 311
+40, text (label), 201, 725
+40, text (label), 158, 729
+40, text (label), 158, 743
+40, text (label), 95, 744
+40, text (label), 92, 706
+40, text (label), 200, 708
+41, text (label), 302, 741
+41, text (label), 217, 744
+41, text (label), 221, 706
+41, text (label), 300, 708
+42, text (label), 419, 707
+42, text (label), 425, 744
+42, text (label), 348, 743
+42, text (label), 345, 706
+43, text (label), 67, 873
+43, text (label), 69, 855
+43, text (label), 862, 853
+43, text (label), 862, 872

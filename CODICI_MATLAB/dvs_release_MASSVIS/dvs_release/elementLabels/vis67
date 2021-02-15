@@ -1,0 +1,234 @@
+1, text (label), 738, 33
+1, text (label), 975, 33
+1, text (label), 975, 57
+1, text (label), 738, 57
+2, object (pictogram - gui icons), 740, 2
+2, object (pictogram - gui icons), 932, 4
+2, object (pictogram - gui icons), 934, 25
+2, object (pictogram - gui icons), 742, 25
+3, object (pictogram - twitter facebook logos), 977, 4
+3, object (pictogram - twitter facebook logos), 979, 27
+3, object (pictogram - twitter facebook logos), 932, 27
+3, object (pictogram - twitter facebook logos), 934, 2
+4, object (pictogram - tree), 18, 25
+4, object (pictogram - tree), 20, 4
+4, object (pictogram - tree), 49, 4
+4, object (pictogram - tree), 53, 27
+5, text (title), 55, 6
+5, text (title), 166, 6
+5, text (title), 166, 23
+5, text (title), 53, 27
+6, text (label), 330, 281
+6, text (label), 334, 255
+6, text (label), 434, 248
+6, text (label), 445, 244
+6, text (label), 463, 244
+6, text (label), 465, 269
+6, text (label), 432, 269
+6, text (label), 428, 277
+7, text (label), 359, 175
+7, text (label), 359, 152
+7, text (label), 377, 138
+7, text (label), 412, 138
+7, text (label), 420, 160
+7, text (label), 416, 170
+8, text (label), 428, 84
+8, text (label), 475, 86
+8, text (label), 473, 101
+8, text (label), 438, 101
+8, text (label), 426, 97
+9, text (label), 658, 170
+9, text (label), 752, 174
+9, text (label), 781, 201
+9, text (label), 781, 218
+9, text (label), 754, 242
+9, text (label), 662, 244
+9, text (label), 631, 218
+9, text (label), 637, 197
+9, text (label), 654, 191
+10, text (label), 809, 291
+10, text (label), 904, 289
+10, text (label), 920, 312
+10, text (label), 916, 330
+10, text (label), 889, 337
+10, text (label), 881, 357
+10, text (label), 828, 353
+10, text (label), 828, 337
+10, text (label), 795, 326
+11, text (label), 807, 433
+11, text (label), 834, 433
+11, text (label), 850, 448
+11, text (label), 928, 448
+11, text (label), 928, 464
+11, text (label), 908, 486
+11, text (label), 861, 487
+11, text (label), 848, 462
+11, text (label), 834, 454
+11, text (label), 797, 454
+12, text (label), 658, 528
+12, text (label), 748, 528
+12, text (label), 746, 548
+12, text (label), 652, 548
+13, text (label), 723, 595
+13, text (label), 770, 595
+13, text (label), 768, 614
+13, text (label), 764, 638
+13, text (label), 725, 638
+14, text (label), 814, 558
+14, text (label), 871, 558
+14, text (label), 863, 587
+14, text (label), 822, 585
+15, text (label), 180, 234
+15, text (label), 242, 234
+15, text (label), 240, 255
+15, text (label), 230, 267
+15, text (label), 191, 265
+15, text (label), 178, 252
+16, text (label), 68, 310
+16, text (label), 109, 308
+16, text (label), 111, 326
+16, text (label), 105, 339
+16, text (label), 74, 339
+16, text (label), 64, 322
+17, text (label), 55, 439
+17, text (label), 121, 439
+17, text (label), 113, 464
+17, text (label), 66, 462
+18, text (label), 150, 425
+18, text (label), 156, 398
+18, text (label), 182, 398
+18, text (label), 186, 425
+19, text (label), 217, 489
+19, text (label), 225, 466
+19, text (label), 242, 452
+19, text (label), 266, 472
+19, text (label), 266, 486
+20, text (label), 164, 569
+20, text (label), 217, 571
+20, text (label), 217, 589
+20, text (label), 162, 591
+21, text (label), 318, 571
+21, text (label), 318, 548
+21, text (label), 330, 519
+21, text (label), 408, 523
+21, text (label), 422, 552
+21, text (label), 420, 575
+22, text (label), 447, 380
+22, text (label), 445, 357
+22, text (label), 463, 339
+22, text (label), 516, 341
+22, text (label), 523, 363
+22, text (label), 523, 378
+23, text (label), 619, 328
+23, text (label), 619, 300
+23, text (label), 633, 285
+23, text (label), 660, 285
+23, text (label), 676, 298
+23, text (label), 676, 328
+24, text (label), 744, 372
+24, text (label), 744, 355
+24, text (label), 754, 341
+24, text (label), 787, 343
+24, text (label), 795, 357
+24, text (label), 795, 370
+25, data (tree/network), 311, 684
+25, data (tree/network), 164, 642
+25, data (tree/network), 43, 472
+25, data (tree/network), 51, 314
+25, data (tree/network), 170, 211
+25, data (tree/network), 262, 195
+25, data (tree/network), 342, 127
+25, data (tree/network), 400, 70
+25, data (tree/network), 441, 51
+25, data (tree/network), 488, 51
+25, data (tree/network), 535, 57
+25, data (tree/network), 582, 84
+25, data (tree/network), 611, 140
+25, data (tree/network), 658, 113
+25, data (tree/network), 736, 101
+25, data (tree/network), 799, 107
+25, data (tree/network), 834, 140
+25, data (tree/network), 844, 193
+25, data (tree/network), 844, 238
+25, data (tree/network), 883, 244
+25, data (tree/network), 928, 255
+25, data (tree/network), 951, 294
+25, data (tree/network), 955, 349
+25, data (tree/network), 955, 408
+25, data (tree/network), 957, 476
+25, data (tree/network), 957, 525
+25, data (tree/network), 930, 552
+25, data (tree/network), 891, 601
+25, data (tree/network), 846, 640
+25, data (tree/network), 736, 661
+25, data (tree/network), 660, 628
+25, data (tree/network), 633, 581
+25, data (tree/network), 621, 513
+25, data (tree/network), 658, 452
+25, data (tree/network), 725, 450
+25, data (tree/network), 752, 427
+25, data (tree/network), 701, 392
+25, data (tree/network), 600, 382
+25, data (tree/network), 496, 448
+25, data (tree/network), 449, 558
+25, data (tree/network), 471, 671
+25, data (tree/network), 465, 686
+26, data, 293, 684
+26, data, 154, 649
+26, data, 29, 462
+26, data, 39, 289
+26, data, 166, 177
+26, data, 281, 136
+26, data, 379, 78
+26, data, 430, 31
+26, data, 547, 45
+26, data, 600, 70
+26, data, 621, 103
+26, data, 689, 90
+26, data, 805, 97
+26, data, 859, 152
+26, data, 877, 232
+26, data, 941, 242
+26, data, 971, 300
+26, data, 957, 546
+26, data, 879, 622
+26, data, 814, 661
+26, data, 709, 671
+26, data, 600, 684
+26, data, 467, 684
+27, object (pictogram - tree), 428, 681
+27, object (pictogram - tree), 311, 684
+27, object (pictogram - tree), 156, 645
+27, object (pictogram - tree), 41, 468
+27, object (pictogram - tree), 49, 302
+27, object (pictogram - tree), 168, 199
+27, object (pictogram - tree), 271, 175
+27, object (pictogram - tree), 373, 86
+27, object (pictogram - tree), 434, 41
+27, object (pictogram - tree), 521, 49
+27, object (pictogram - tree), 590, 72
+27, object (pictogram - tree), 619, 125
+27, object (pictogram - tree), 672, 101
+27, object (pictogram - tree), 756, 99
+27, object (pictogram - tree), 809, 107
+27, object (pictogram - tree), 846, 150
+27, object (pictogram - tree), 848, 228
+27, object (pictogram - tree), 930, 250
+27, object (pictogram - tree), 961, 292
+27, object (pictogram - tree), 963, 365
+27, object (pictogram - tree), 959, 542
+27, object (pictogram - tree), 906, 581
+27, object (pictogram - tree), 865, 632
+27, object (pictogram - tree), 799, 655
+27, object (pictogram - tree), 695, 661
+27, object (pictogram - tree), 639, 622
+27, object (pictogram - tree), 619, 546
+27, object (pictogram - tree), 615, 489
+27, object (pictogram - tree), 670, 450
+27, object (pictogram - tree), 723, 450
+27, object (pictogram - tree), 750, 425
+27, object (pictogram - tree), 703, 396
+27, object (pictogram - tree), 594, 382
+27, object (pictogram - tree), 496, 452
+27, object (pictogram - tree), 451, 560
+27, object (pictogram - tree), 467, 682

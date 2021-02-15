@@ -1,0 +1,32 @@
+1, text (title), 5, 178
+1, text (title), 4, 223
+1, text (title), 825, 223
+1, text (title), 823, 182
+2, text (paragraph), 0, 1
+2, text (paragraph), 937, 1
+2, text (paragraph), 940, 116
+2, text (paragraph), 186, 115
+2, text (paragraph), 185, 157
+2, text (paragraph), 1, 153
+3, text (header row), 9, 241
+3, text (header row), 982, 240
+3, text (header row), 984, 317
+3, text (header row), 7, 313
+4, data, 9, 317
+4, data, 980, 315
+4, data, 980, 836
+4, data, 9, 840
+5, text, 7, 858
+5, text, 5, 927
+5, text, 624, 926
+5, text, 621, 898
+5, text, 123, 902
+5, text, 123, 854
+6, text (source), 4, 936
+6, text (source), 4, 980
+6, text (source), 817, 973
+6, text (source), 808, 938
+7, data (table), 15, 320
+7, data (table), 14, 836
+7, data (table), 974, 832
+7, data (table), 974, 320

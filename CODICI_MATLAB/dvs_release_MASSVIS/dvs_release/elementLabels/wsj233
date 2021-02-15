@@ -1,0 +1,91 @@
+1, text (title), 32, 92
+1, text (title), 280, 99
+1, text (title), 285, 33
+1, text (title), 33, 35
+1, text (title), 19, 40
+2, text (paragraph), 18, 109
+2, text (paragraph), 16, 331
+2, text (paragraph), 361, 327
+2, text (paragraph), 378, 113
+2, text (paragraph), 378, 92
+3, object (photograph - hamburger), 405, 387
+3, object (photograph - hamburger), 384, 451
+3, object (photograph - hamburger), 414, 505
+3, object (photograph - hamburger), 489, 572
+3, object (photograph - hamburger), 648, 621
+3, object (photograph - hamburger), 856, 583
+3, object (photograph - hamburger), 938, 511
+3, object (photograph - hamburger), 965, 327
+3, object (photograph - hamburger), 942, 202
+3, object (photograph - hamburger), 917, 113
+3, object (photograph - hamburger), 843, 81
+3, object (photograph - hamburger), 771, 55
+3, object (photograph - hamburger), 685, 35
+3, object (photograph - hamburger), 574, 53
+3, object (photograph - hamburger), 495, 79
+3, object (photograph - hamburger), 428, 111
+3, object (photograph - hamburger), 401, 173
+3, object (photograph - hamburger), 393, 257
+3, object (photograph - hamburger), 384, 345
+4, text (paragraph), 16, 938
+4, text (paragraph), 558, 944
+4, text (paragraph), 558, 914
+4, text (paragraph), 19, 910
+5, text (source), 21, 968
+5, text (source), 241, 972
+5, text (source), 241, 940
+5, text (source), 19, 944
+6, text (source), 716, 945
+6, text (source), 716, 974
+6, text (source), 952, 972
+6, text (source), 959, 970
+6, text (source), 949, 938
+16, text (label), 217, 549
+16, text (label), 225, 373
+16, text (label), 356, 373
+16, text (label), 357, 553
+17, object (pictogram - mcdonald_s logo), 21, 546
+17, object (pictogram - mcdonald_s logo), 26, 379
+17, object (pictogram - mcdonald_s logo), 208, 384
+17, object (pictogram - mcdonald_s logo), 206, 548
+18, text (header row), 19, 773
+18, text (header row), 19, 618
+18, text (header row), 414, 599
+18, text (header row), 644, 621
+18, text (header row), 965, 614
+18, text (header row), 965, 775
+19, data (table), 19, 886
+19, data (table), 19, 611
+19, data (table), 468, 604
+19, data (table), 669, 621
+19, data (table), 963, 618
+19, data (table), 956, 894
+20, data, 16, 891
+20, data, 21, 607
+20, data, 481, 604
+20, data, 681, 618
+20, data, 965, 614
+20, data, 963, 896
+20, data, 26, 894
+21, object (pictogram - taco bell logo), 42, 704
+21, object (pictogram - taco bell logo), 42, 625
+21, object (pictogram - taco bell logo), 232, 627
+21, object (pictogram - taco bell logo), 225, 706
+22, object (pictogram - burger king logo), 287, 722
+22, object (pictogram - burger king logo), 287, 634
+22, object (pictogram - burger king logo), 401, 607
+22, object (pictogram - burger king logo), 440, 614
+22, object (pictogram - burger king logo), 428, 680
+23, object (pictogram - starbucks logo), 481, 673
+23, object (pictogram - starbucks logo), 479, 627
+23, object (pictogram - starbucks logo), 729, 630
+23, object (pictogram - starbucks logo), 724, 667
+24, object (pictogram - panera logo), 748, 699
+24, object (pictogram - panera logo), 752, 651
+24, object (pictogram - panera logo), 771, 630
+24, object (pictogram - panera logo), 873, 629
+24, object (pictogram - panera logo), 929, 627
+24, object (pictogram - panera logo), 954, 655
+24, object (pictogram - panera logo), 945, 687
+24, object (pictogram - panera logo), 868, 676
+24, object (pictogram - panera logo), 790, 692

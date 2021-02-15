@@ -1,0 +1,286 @@
+1, text (title), 51, 18
+1, text (title), 939, 19
+1, text (title), 939, 76
+1, text (title), 845, 81
+1, text (title), 841, 122
+1, text (title), 157, 121
+1, text (title), 155, 75
+1, text (title), 45, 76
+2, annotation, 273, 443
+2, annotation, 40, 444
+2, annotation, 38, 372
+2, annotation, 154, 369
+2, annotation, 149, 296
+2, annotation, 54, 290
+2, annotation, 54, 219
+2, annotation, 13, 202
+2, annotation, 17, 138
+2, annotation, 865, 139
+2, annotation, 869, 208
+2, annotation, 847, 219
+2, annotation, 851, 275
+2, annotation, 897, 281
+2, annotation, 896, 345
+2, annotation, 972, 348
+2, annotation, 969, 478
+2, annotation, 730, 477
+2, annotation, 727, 387
+2, annotation, 653, 352
+2, annotation, 642, 335
+2, annotation, 627, 328
+2, annotation, 611, 317
+2, annotation, 596, 307
+2, annotation, 549, 296
+2, annotation, 511, 291
+2, annotation, 466, 295
+2, annotation, 413, 309
+2, annotation, 380, 331
+2, annotation, 343, 366
+2, annotation, 323, 390
+2, annotation, 279, 412
+3, object (pictogram - house), 53, 386
+3, object (pictogram - house), 87, 385
+3, object (pictogram - house), 90, 429
+3, object (pictogram - house), 48, 430
+4, object (pictogram - scale), 207, 355
+4, object (pictogram - scale), 149, 355
+4, object (pictogram - scale), 148, 301
+4, object (pictogram - scale), 203, 299
+5, object (pictogram - wallet), 105, 275
+5, object (pictogram - wallet), 62, 274
+5, object (pictogram - wallet), 61, 234
+5, object (pictogram - wallet), 101, 231
+6, object (pictogram - envelope), 25, 194
+6, object (pictogram - envelope), 28, 155
+6, object (pictogram - envelope), 63, 154
+6, object (pictogram - envelope), 61, 193
+7, object (pictogram - calendar), 301, 196
+7, object (pictogram - calendar), 299, 148
+7, object (pictogram - calendar), 340, 149
+7, object (pictogram - calendar), 347, 194
+8, object (pictogram - car), 474, 198
+8, object (pictogram - car), 474, 148
+8, object (pictogram - car), 505, 146
+8, object (pictogram - car), 507, 192
+9, object (pictogram - scale), 664, 201
+9, object (pictogram - scale), 664, 144
+9, object (pictogram - scale), 713, 147
+9, object (pictogram - scale), 716, 197
+10, object (pictogram - steering wheel), 688, 226
+10, object (pictogram - steering wheel), 722, 226
+10, object (pictogram - steering wheel), 722, 262
+10, object (pictogram - steering wheel), 692, 262
+11, object (pictogram - door), 690, 290
+11, object (pictogram - door), 722, 290
+11, object (pictogram - door), 722, 336
+11, object (pictogram - door), 690, 335
+12, text (label), 273, 145
+12, text (label), 271, 199
+12, text (label), 296, 225
+12, text (label), 296, 276
+12, text (label), 325, 302
+12, text (label), 325, 359
+12, text (label), 265, 356
+12, text (label), 270, 434
+12, text (label), 204, 433
+12, text (label), 96, 417
+12, text (label), 99, 394
+12, text (label), 136, 385
+12, text (label), 218, 369
+12, text (label), 218, 317
+12, text (label), 229, 302
+12, text (label), 231, 270
+12, text (label), 177, 263
+12, text (label), 103, 248
+12, text (label), 103, 226
+12, text (label), 213, 219
+12, text (label), 213, 192
+12, text (label), 197, 184
+12, text (label), 63, 181
+12, text (label), 66, 157
+12, text (label), 148, 159
+12, text (label), 153, 144
+13, text (label), 370, 197
+13, text (label), 375, 146
+13, text (label), 449, 146
+13, text (label), 446, 199
+13, text (label), 378, 203
+14, text (label), 626, 194
+14, text (label), 625, 144
+14, text (label), 505, 146
+14, text (label), 506, 165
+14, text (label), 529, 178
+14, text (label), 573, 194
+15, text (label), 857, 146
+15, text (label), 856, 194
+15, text (label), 798, 194
+15, text (label), 773, 172
+15, text (label), 719, 169
+15, text (label), 720, 145
+16, text (label), 837, 218
+16, text (label), 837, 268
+16, text (label), 780, 266
+16, text (label), 777, 241
+16, text (label), 719, 238
+16, text (label), 720, 216
+17, text (label), 727, 322
+17, text (label), 722, 303
+17, text (label), 721, 287
+17, text (label), 890, 286
+17, text (label), 890, 337
+17, text (label), 841, 334
+17, text (label), 828, 319
+18, text (label), 735, 355
+18, text (label), 963, 357
+18, text (label), 966, 471
+18, text (label), 735, 467
+19, text (label), 60, 487
+19, text (label), 417, 490
+19, text (label), 419, 516
+19, text (label), 346, 513
+19, text (label), 345, 533
+19, text (label), 176, 532
+19, text (label), 174, 517
+19, text (label), 61, 515
+20, text (paragraph), 7, 604
+20, text (paragraph), 94, 599
+20, text (paragraph), 94, 614
+20, text (paragraph), 288, 619
+20, text (paragraph), 312, 650
+20, text (paragraph), 281, 696
+20, text (paragraph), 203, 705
+20, text (paragraph), 127, 730
+20, text (paragraph), 7, 727
+21, object (photograph - bryan cranston), 702, 408
+21, object (photograph - bryan cranston), 671, 483
+21, object (photograph - bryan cranston), 656, 543
+21, object (photograph - bryan cranston), 648, 579
+21, object (photograph - bryan cranston), 692, 634
+21, object (photograph - bryan cranston), 667, 670
+21, object (photograph - bryan cranston), 578, 724
+21, object (photograph - bryan cranston), 506, 731
+21, object (photograph - bryan cranston), 457, 729
+21, object (photograph - bryan cranston), 387, 696
+21, object (photograph - bryan cranston), 330, 633
+21, object (photograph - bryan cranston), 386, 582
+21, object (photograph - bryan cranston), 372, 550
+21, object (photograph - bryan cranston), 335, 434
+21, object (photograph - bryan cranston), 328, 399
+21, object (photograph - bryan cranston), 370, 346
+21, object (photograph - bryan cranston), 428, 319
+21, object (photograph - bryan cranston), 494, 314
+21, object (photograph - bryan cranston), 581, 323
+21, object (photograph - bryan cranston), 639, 345
+21, object (photograph - bryan cranston), 672, 363
+22, data (circle), 709, 417
+22, data (circle), 726, 466
+22, data (circle), 729, 531
+22, data (circle), 716, 590
+22, data (circle), 692, 636
+22, data (circle), 650, 682
+22, data (circle), 552, 726
+22, data (circle), 491, 731
+22, data (circle), 428, 716
+22, data (circle), 363, 680
+22, data (circle), 313, 620
+22, data (circle), 299, 584
+22, data (circle), 270, 581
+22, data (circle), 265, 531
+22, data (circle), 270, 455
+22, data (circle), 291, 413
+22, data (circle), 307, 411
+22, data (circle), 337, 380
+22, data (circle), 363, 332
+22, data (circle), 412, 313
+22, data (circle), 462, 290
+22, data (circle), 521, 291
+22, data (circle), 566, 299
+22, data (circle), 616, 313
+22, data (circle), 650, 343
+22, data (circle), 672, 361
+22, data (circle), 697, 392
+23, annotation, 734, 601
+23, annotation, 896, 600
+23, annotation, 896, 667
+23, annotation, 734, 664
+23, annotation, 730, 650
+23, annotation, 691, 642
+23, annotation, 731, 620
+24, annotation, 634, 746
+24, annotation, 634, 813
+24, annotation, 471, 809
+24, annotation, 472, 748
+24, annotation, 483, 732
+24, annotation, 502, 747
+25, annotation, 399, 746
+25, annotation, 401, 813
+25, annotation, 210, 813
+25, annotation, 215, 747
+25, annotation, 314, 744
+25, annotation, 389, 694
+25, annotation, 380, 748
+26, object (pictogram - car), 776, 610
+26, object (pictogram - car), 776, 655
+26, object (pictogram - car), 738, 656
+26, object (pictogram - car), 742, 608
+27, object (pictogram - calendar), 527, 801
+27, object (pictogram - calendar), 484, 801
+27, object (pictogram - calendar), 484, 755
+27, object (pictogram - calendar), 526, 758
+28, object (pictogram - pill), 260, 755
+28, object (pictogram - pill), 258, 787
+28, object (pictogram - pill), 234, 804
+28, object (pictogram - pill), 225, 793
+28, object (pictogram - pill), 225, 769
+29, text (label), 798, 614
+29, text (label), 892, 614
+29, text (label), 892, 652
+29, text (label), 836, 648
+29, text (label), 799, 632
+30, text (label), 545, 754
+30, text (label), 632, 753
+30, text (label), 631, 804
+30, text (label), 564, 804
+30, text (label), 566, 780
+30, text (label), 550, 773
+31, text (label), 265, 763
+31, text (label), 399, 760
+31, text (label), 399, 795
+31, text (label), 340, 795
+31, text (label), 324, 784
+31, text (label), 266, 780
+32, text (source), 855, 731
+32, text (source), 990, 732
+32, text (source), 984, 814
+32, text (source), 792, 817
+32, text (source), 795, 760
+32, text (source), 847, 760
+33, object (pictogram - man in recliner), 947, 760
+33, object (pictogram - man in recliner), 946, 738
+33, object (pictogram - man in recliner), 979, 743
+33, object (pictogram - man in recliner), 979, 761
+34, data, 873, 134
+34, data, 906, 275
+34, data, 982, 340
+34, data, 977, 489
+34, data, 749, 489
+34, data, 735, 589
+34, data, 905, 593
+34, data, 903, 676
+34, data, 673, 677
+34, data, 620, 714
+34, data, 638, 738
+34, data, 646, 821
+34, data, 194, 820
+34, data, 202, 736
+34, data, 313, 729
+34, data, 369, 692
+34, data, 286, 603
+34, data, 174, 539
+34, data, 39, 522
+34, data, 23, 351
+34, data, 127, 350
+34, data, 125, 310
+34, data, 37, 297
+34, data, 2, 202
+34, data, 7, 130

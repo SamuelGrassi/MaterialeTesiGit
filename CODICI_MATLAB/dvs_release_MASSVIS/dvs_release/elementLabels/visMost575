@@ -1,0 +1,166 @@
+1, legend, 19, 338
+1, legend, 219, 336
+1, legend, 219, 158
+1, legend, 9, 167
+2, text (axis label), 47, 619
+2, text (axis label), 333, 912
+2, text (axis label), 391, 869
+2, text (axis label), 111, 585
+3, axis, 417, 843
+3, axis, 424, 821
+3, axis, 129, 517
+3, axis, 90, 540
+3, axis, 404, 857
+4, axis, 517, 824
+4, axis, 558, 861
+4, axis, 852, 549
+4, axis, 823, 524
+5, text (axis label), 609, 833
+5, text (axis label), 639, 878
+5, text (axis label), 861, 681
+5, text (axis label), 819, 611
+6, data (points), 228, 500
+6, data (points), 308, 522
+6, data (points), 319, 602
+6, data (points), 383, 693
+6, data (points), 443, 824
+6, data (points), 486, 814
+6, data (points), 550, 729
+6, data (points), 560, 576
+6, data (points), 736, 498
+6, data (points), 757, 414
+6, data (points), 650, 299
+6, data (points), 586, 218
+6, data (points), 504, 169
+6, data (points), 442, 183
+6, data (points), 352, 291
+6, data (points), 231, 404
+6, data (points), 193, 493
+7, data, 145, 502
+7, data, 482, 839
+7, data, 816, 493
+7, data, 500, 158
+8, text (paragraph), 15, 942
+8, text (paragraph), 17, 991
+8, text (paragraph), 361, 979
+8, text (paragraph), 362, 940
+9, text (source), 752, 943
+9, text (source), 755, 991
+9, text (source), 942, 985
+9, text (source), 947, 943
+10, text (paragraph), 488, 49
+10, text (paragraph), 464, 103
+10, text (paragraph), 949, 103
+10, text (paragraph), 950, 47
+11, text (title), 14, 100
+11, text (title), 468, 105
+11, text (title), 469, 32
+11, text (title), 14, 34
+13, graphical element, 947, 26
+13, graphical element, 945, 40
+13, graphical element, 497, 43
+13, graphical element, 462, 107
+13, graphical element, 449, 99
+13, graphical element, 489, 26
+14, text (label), 19, 174
+14, text (label), 53, 174
+14, text (label), 48, 327
+14, text (label), 20, 327
+15, text (label), 118, 181
+15, text (label), 193, 178
+15, text (label), 216, 234
+15, text (label), 197, 312
+15, text (label), 190, 327
+15, text (label), 114, 327
+16, object (pictogram - viusal.ly logo), 748, 938
+16, object (pictogram - viusal.ly logo), 951, 940
+16, object (pictogram - viusal.ly logo), 943, 993
+16, object (pictogram - viusal.ly logo), 764, 989
+17, annotation, 463, 916
+17, annotation, 461, 845
+17, annotation, 485, 833
+17, annotation, 501, 847
+17, annotation, 498, 917
+18, text (label), 399, 918
+18, text (label), 560, 922
+18, text (label), 560, 950
+18, text (label), 400, 944
+19, graphical element, 469, 134
+19, graphical element, 498, 134
+19, graphical element, 886, 544
+19, graphical element, 553, 880
+19, graphical element, 482, 827
+19, graphical element, 410, 890
+19, graphical element, 80, 548
+20, text (label), 237, 462
+20, text (label), 288, 456
+20, text (label), 286, 489
+20, text (label), 232, 486
+21, text (label), 270, 408
+21, text (label), 270, 382
+21, text (label), 317, 382
+21, text (label), 320, 407
+22, text (label), 321, 503
+22, text (label), 369, 503
+22, text (label), 369, 526
+22, text (label), 320, 528
+23, text (label), 347, 362
+23, text (label), 349, 340
+23, text (label), 394, 340
+23, text (label), 395, 363
+24, text (label), 383, 289
+24, text (label), 383, 266
+24, text (label), 432, 259
+24, text (label), 435, 286
+25, text (label), 458, 244
+25, text (label), 459, 216
+25, text (label), 509, 217
+25, text (label), 509, 244
+26, text (label), 576, 300
+26, text (label), 580, 277
+26, text (label), 629, 277
+26, text (label), 633, 305
+27, text (label), 470, 398
+27, text (label), 522, 398
+27, text (label), 522, 422
+27, text (label), 466, 422
+28, text (label), 671, 412
+28, text (label), 675, 387
+28, text (label), 724, 389
+28, text (label), 724, 412
+29, text (label), 600, 423
+29, text (label), 652, 422
+29, text (label), 652, 447
+29, text (label), 601, 447
+30, text (label), 568, 503
+30, text (label), 615, 505
+30, text (label), 615, 528
+30, text (label), 566, 530
+31, text (label), 490, 555
+31, text (label), 539, 555
+31, text (label), 539, 578
+31, text (label), 489, 580
+32, text (label), 344, 581
+32, text (label), 398, 582
+32, text (label), 398, 627
+32, text (label), 342, 624
+33, text (label), 430, 588
+33, text (label), 458, 590
+33, text (label), 458, 611
+33, text (label), 427, 608
+34, text (label), 400, 699
+34, text (label), 400, 667
+34, text (label), 451, 668
+34, text (label), 459, 643
+34, text (label), 499, 636
+34, text (label), 501, 663
+34, text (label), 463, 668
+34, text (label), 455, 695
+35, text (label), 472, 727
+35, text (label), 472, 700
+35, text (label), 521, 700
+35, text (label), 518, 723
+36, text (label), 459, 755
+36, text (label), 513, 756
+36, text (label), 505, 794
+36, text (label), 458, 795

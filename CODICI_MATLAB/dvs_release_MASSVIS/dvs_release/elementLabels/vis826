@@ -1,0 +1,703 @@
+1, text (title), 59, 41
+1, text (title), 57, 8
+1, text (title), 439, 8
+1, text (title), 435, 41
+1, text (title), 262, 41
+1, text (title), 256, 51
+1, text (title), 244, 51
+1, text (title), 246, 39
+2, text (paragraph), 115, 76
+2, text (paragraph), 109, 49
+2, text (paragraph), 390, 49
+2, text (paragraph), 381, 74
+3, graphical element, 21, 51
+3, graphical element, 23, 39
+3, graphical element, 469, 41
+3, graphical element, 469, 51
+4, graphical element, 23, 965
+4, graphical element, 23, 953
+4, graphical element, 467, 953
+4, graphical element, 467, 963
+5, text (source), 25, 988
+5, text (source), 23, 967
+5, text (source), 424, 969
+5, text (source), 420, 990
+8, text (label), 23, 164
+8, text (label), 25, 148
+8, text (label), 61, 148
+8, text (label), 61, 164
+9, text (label), 154, 164
+9, text (label), 154, 146
+9, text (label), 189, 146
+9, text (label), 189, 164
+10, text (label), 266, 164
+10, text (label), 266, 146
+10, text (label), 307, 146
+10, text (label), 308, 164
+11, text (label), 385, 162
+11, text (label), 385, 146
+11, text (label), 418, 146
+11, text (label), 418, 162
+12, text (label), 383, 266
+12, text (label), 424, 266
+12, text (label), 424, 283
+12, text (label), 383, 281
+13, text (label), 264, 281
+13, text (label), 264, 264
+13, text (label), 299, 266
+13, text (label), 299, 281
+14, text (label), 152, 281
+14, text (label), 154, 264
+14, text (label), 187, 266
+14, text (label), 189, 281
+15, text (label), 23, 283
+15, text (label), 25, 264
+15, text (label), 61, 264
+15, text (label), 61, 281
+16, text (label), 25, 385
+16, text (label), 61, 385
+16, text (label), 61, 402
+16, text (label), 23, 402
+17, text (label), 154, 400
+17, text (label), 152, 383
+17, text (label), 187, 383
+17, text (label), 187, 400
+18, text (label), 267, 402
+18, text (label), 267, 383
+18, text (label), 301, 385
+18, text (label), 299, 402
+19, text (label), 383, 400
+19, text (label), 383, 385
+19, text (label), 416, 385
+19, text (label), 416, 402
+20, text (label), 23, 521
+20, text (label), 61, 521
+20, text (label), 61, 539
+20, text (label), 25, 537
+21, text (label), 154, 537
+21, text (label), 152, 521
+21, text (label), 187, 521
+21, text (label), 187, 539
+22, text (label), 267, 539
+22, text (label), 267, 521
+22, text (label), 303, 521
+22, text (label), 303, 539
+23, text (label), 383, 537
+23, text (label), 383, 521
+23, text (label), 418, 521
+23, text (label), 416, 539
+24, text (label), 25, 654
+24, text (label), 25, 637
+24, text (label), 61, 635
+24, text (label), 59, 654
+25, text (label), 152, 654
+25, text (label), 152, 637
+25, text (label), 187, 637
+25, text (label), 187, 654
+26, text (label), 266, 652
+26, text (label), 266, 637
+26, text (label), 303, 635
+26, text (label), 303, 652
+27, text (label), 381, 652
+27, text (label), 381, 635
+27, text (label), 418, 635
+27, text (label), 418, 654
+28, text (label), 23, 770
+28, text (label), 23, 750
+28, text (label), 61, 752
+28, text (label), 61, 768
+29, text (label), 152, 768
+29, text (label), 152, 750
+29, text (label), 189, 752
+29, text (label), 189, 768
+30, text (label), 266, 768
+30, text (label), 264, 752
+30, text (label), 301, 752
+30, text (label), 301, 768
+31, text (label), 381, 768
+31, text (label), 381, 750
+31, text (label), 416, 752
+31, text (label), 416, 768
+32, text (label), 23, 904
+32, text (label), 23, 887
+32, text (label), 61, 887
+32, text (label), 59, 902
+33, text (label), 150, 904
+33, text (label), 152, 887
+33, text (label), 189, 887
+33, text (label), 189, 904
+34, text (label), 264, 904
+34, text (label), 266, 887
+34, text (label), 303, 887
+34, text (label), 301, 904
+35, text (label), 381, 904
+35, text (label), 379, 887
+35, text (label), 420, 889
+35, text (label), 418, 904
+36, text (paragraph), 21, 193
+36, text (paragraph), 21, 164
+36, text (paragraph), 96, 164
+36, text (paragraph), 107, 174
+36, text (paragraph), 109, 184
+36, text (paragraph), 57, 186
+36, text (paragraph), 57, 195
+37, text (paragraph), 150, 178
+37, text (paragraph), 152, 166
+37, text (paragraph), 211, 164
+37, text (paragraph), 211, 176
+38, text (paragraph), 262, 193
+38, text (paragraph), 264, 164
+38, text (paragraph), 357, 166
+38, text (paragraph), 355, 186
+38, text (paragraph), 293, 184
+38, text (paragraph), 291, 193
+39, text (paragraph), 381, 199
+39, text (paragraph), 383, 164
+39, text (paragraph), 461, 164
+39, text (paragraph), 472, 188
+39, text (paragraph), 459, 201
+40, text (paragraph), 379, 313
+40, text (paragraph), 383, 283
+40, text (paragraph), 453, 283
+40, text (paragraph), 453, 313
+41, text (paragraph), 264, 311
+41, text (paragraph), 264, 283
+41, text (paragraph), 357, 283
+41, text (paragraph), 357, 293
+41, text (paragraph), 342, 301
+41, text (paragraph), 289, 305
+41, text (paragraph), 287, 311
+41, text (paragraph), 271, 311
+42, text (paragraph), 150, 303
+42, text (paragraph), 152, 283
+42, text (paragraph), 240, 281
+42, text (paragraph), 238, 305
+43, text (paragraph), 23, 320
+43, text (paragraph), 23, 283
+43, text (paragraph), 117, 283
+43, text (paragraph), 90, 318
+44, text (paragraph), 21, 445
+44, text (paragraph), 21, 400
+44, text (paragraph), 117, 400
+44, text (paragraph), 125, 416
+44, text (paragraph), 121, 428
+44, text (paragraph), 92, 445
+45, text (paragraph), 150, 432
+45, text (paragraph), 150, 402
+45, text (paragraph), 240, 402
+45, text (paragraph), 238, 430
+46, text (paragraph), 266, 414
+46, text (paragraph), 264, 402
+46, text (paragraph), 351, 402
+46, text (paragraph), 349, 412
+47, text (paragraph), 379, 455
+47, text (paragraph), 379, 400
+47, text (paragraph), 461, 402
+47, text (paragraph), 476, 430
+47, text (paragraph), 476, 445
+47, text (paragraph), 404, 445
+47, text (paragraph), 404, 453
+48, text (paragraph), 21, 559
+48, text (paragraph), 21, 539
+48, text (paragraph), 107, 539
+48, text (paragraph), 109, 561
+49, text (paragraph), 152, 553
+49, text (paragraph), 150, 537
+49, text (paragraph), 232, 539
+49, text (paragraph), 230, 553
+50, text (paragraph), 266, 559
+50, text (paragraph), 266, 539
+50, text (paragraph), 336, 541
+50, text (paragraph), 336, 549
+50, text (paragraph), 312, 559
+51, text (paragraph), 381, 561
+51, text (paragraph), 381, 539
+51, text (paragraph), 467, 541
+51, text (paragraph), 478, 557
+52, text (paragraph), 21, 674
+52, text (paragraph), 21, 654
+52, text (paragraph), 119, 652
+52, text (paragraph), 115, 664
+52, text (paragraph), 102, 674
+53, text (paragraph), 152, 664
+53, text (paragraph), 152, 654
+53, text (paragraph), 213, 654
+53, text (paragraph), 211, 664
+54, text (paragraph), 266, 682
+54, text (paragraph), 264, 654
+54, text (paragraph), 359, 652
+54, text (paragraph), 359, 672
+54, text (paragraph), 308, 674
+54, text (paragraph), 308, 680
+55, text (paragraph), 381, 674
+55, text (paragraph), 379, 654
+55, text (paragraph), 453, 654
+55, text (paragraph), 453, 672
+56, text (paragraph), 23, 797
+56, text (paragraph), 23, 770
+56, text (paragraph), 103, 770
+56, text (paragraph), 113, 779
+56, text (paragraph), 107, 797
+57, text (paragraph), 152, 797
+57, text (paragraph), 152, 768
+57, text (paragraph), 236, 768
+57, text (paragraph), 209, 797
+58, text (paragraph), 266, 805
+58, text (paragraph), 266, 768
+58, text (paragraph), 348, 768
+58, text (paragraph), 357, 785
+58, text (paragraph), 338, 805
+59, text (paragraph), 379, 813
+59, text (paragraph), 379, 768
+59, text (paragraph), 459, 768
+59, text (paragraph), 471, 781
+59, text (paragraph), 457, 813
+60, text (paragraph), 21, 949
+60, text (paragraph), 23, 904
+60, text (paragraph), 107, 904
+60, text (paragraph), 121, 924
+60, text (paragraph), 117, 943
+60, text (paragraph), 68, 941
+60, text (paragraph), 68, 947
+61, text (paragraph), 150, 939
+61, text (paragraph), 150, 904
+61, text (paragraph), 236, 904
+61, text (paragraph), 248, 928
+61, text (paragraph), 242, 936
+61, text (paragraph), 199, 934
+61, text (paragraph), 199, 939
+62, text (paragraph), 264, 926
+62, text (paragraph), 264, 904
+62, text (paragraph), 361, 904
+62, text (paragraph), 357, 916
+62, text (paragraph), 340, 924
+63, text (paragraph), 379, 926
+63, text (paragraph), 381, 904
+63, text (paragraph), 463, 904
+63, text (paragraph), 465, 924
+64, object (pictogram - gramophone), 41, 145
+64, object (pictogram - gramophone), 35, 125
+64, object (pictogram - gramophone), 41, 109
+64, object (pictogram - gramophone), 57, 104
+64, object (pictogram - gramophone), 74, 76
+64, object (pictogram - gramophone), 94, 86
+64, object (pictogram - gramophone), 98, 125
+64, object (pictogram - gramophone), 94, 129
+64, object (pictogram - gramophone), 80, 119
+64, object (pictogram - gramophone), 78, 146
+64, object (pictogram - gramophone), 62, 146
+65, object (pictogram - radio), 156, 145
+65, object (pictogram - radio), 160, 86
+65, object (pictogram - radio), 184, 78
+65, object (pictogram - radio), 207, 82
+65, object (pictogram - radio), 215, 100
+65, object (pictogram - radio), 215, 146
+66, object (pictogram - car), 260, 141
+66, object (pictogram - car), 262, 84
+66, object (pictogram - car), 277, 82
+66, object (pictogram - car), 283, 92
+66, object (pictogram - car), 326, 94
+66, object (pictogram - car), 351, 107
+66, object (pictogram - car), 359, 115
+66, object (pictogram - car), 355, 131
+66, object (pictogram - car), 342, 139
+66, object (pictogram - car), 271, 143
+67, object (pictogram - asteroid), 390, 137
+67, object (pictogram - asteroid), 390, 115
+67, object (pictogram - asteroid), 406, 96
+67, object (pictogram - asteroid), 424, 86
+67, object (pictogram - asteroid), 461, 78
+67, object (pictogram - asteroid), 467, 96
+67, object (pictogram - asteroid), 465, 109
+67, object (pictogram - asteroid), 437, 131
+67, object (pictogram - asteroid), 426, 145
+67, object (pictogram - asteroid), 402, 141
+68, object (pictogram - radio), 389, 262
+68, object (pictogram - radio), 387, 207
+68, object (pictogram - radio), 433, 207
+68, object (pictogram - radio), 430, 264
+69, object (pictogram - billboard logo), 260, 250
+69, object (pictogram - billboard logo), 260, 219
+69, object (pictogram - billboard logo), 359, 221
+69, object (pictogram - billboard logo), 357, 248
+70, object (pictogram - radio), 148, 260
+70, object (pictogram - radio), 150, 217
+70, object (pictogram - radio), 211, 217
+70, object (pictogram - radio), 209, 260
+71, object (pictogram - elvis), 96, 260
+71, object (pictogram - elvis), 72, 262
+71, object (pictogram - elvis), 59, 246
+71, object (pictogram - elvis), 49, 248
+71, object (pictogram - elvis), 39, 268
+71, object (pictogram - elvis), 25, 268
+71, object (pictogram - elvis), 10, 258
+71, object (pictogram - elvis), 4, 248
+71, object (pictogram - elvis), 14, 242
+71, object (pictogram - elvis), 31, 240
+71, object (pictogram - elvis), 33, 225
+71, object (pictogram - elvis), 39, 207
+71, object (pictogram - elvis), 55, 199
+71, object (pictogram - elvis), 68, 205
+71, object (pictogram - elvis), 82, 219
+71, object (pictogram - elvis), 86, 229
+71, object (pictogram - elvis), 82, 238
+71, object (pictogram - elvis), 90, 248
+72, object (pictogram - the beatles faces), 20, 373
+72, object (pictogram - the beatles faces), 20, 344
+72, object (pictogram - the beatles faces), 113, 344
+72, object (pictogram - the beatles faces), 115, 369
+73, object (photograph - jimmy hendrix), 193, 385
+73, object (photograph - jimmy hendrix), 182, 365
+73, object (photograph - jimmy hendrix), 184, 346
+73, object (photograph - jimmy hendrix), 191, 334
+73, object (photograph - jimmy hendrix), 209, 324
+73, object (photograph - jimmy hendrix), 236, 330
+73, object (photograph - jimmy hendrix), 242, 346
+73, object (photograph - jimmy hendrix), 246, 361
+73, object (photograph - jimmy hendrix), 242, 375
+73, object (photograph - jimmy hendrix), 228, 389
+73, object (photograph - jimmy hendrix), 211, 391
+74, object (pictogram - walkman), 289, 379
+74, object (pictogram - walkman), 287, 326
+74, object (pictogram - walkman), 320, 332
+74, object (pictogram - walkman), 322, 361
+74, object (pictogram - walkman), 332, 369
+74, object (pictogram - walkman), 330, 387
+74, object (pictogram - walkman), 312, 389
+74, object (pictogram - walkman), 310, 379
+75, object (pictogram - mtv logo), 390, 332
+75, object (pictogram - mtv logo), 461, 332
+75, object (pictogram - mtv logo), 467, 342
+75, object (pictogram - mtv logo), 457, 379
+75, object (pictogram - mtv logo), 428, 381
+75, object (pictogram - mtv logo), 392, 381
+76, object (pictogram - tape cassette and cd), 383, 518
+76, object (pictogram - tape cassette and cd), 383, 480
+76, object (pictogram - tape cassette and cd), 416, 479
+76, object (pictogram - tape cassette and cd), 428, 463
+76, object (pictogram - tape cassette and cd), 447, 459
+76, object (pictogram - tape cassette and cd), 467, 465
+76, object (pictogram - tape cassette and cd), 472, 480
+76, object (pictogram - tape cassette and cd), 474, 502
+76, object (pictogram - tape cassette and cd), 463, 514
+76, object (pictogram - tape cassette and cd), 451, 520
+76, object (pictogram - tape cassette and cd), 431, 521
+77, object (pictogram - computer), 275, 520
+77, object (pictogram - computer), 267, 502
+77, object (pictogram - computer), 275, 494
+77, object (pictogram - computer), 287, 459
+77, object (pictogram - computer), 299, 453
+77, object (pictogram - computer), 322, 453
+77, object (pictogram - computer), 332, 461
+77, object (pictogram - computer), 332, 492
+77, object (pictogram - computer), 332, 500
+77, object (pictogram - computer), 342, 520
+78, object (pictogram - sirius xm logo), 152, 514
+78, object (pictogram - sirius xm logo), 150, 465
+78, object (pictogram - sirius xm logo), 215, 459
+78, object (pictogram - sirius xm logo), 221, 467
+78, object (pictogram - sirius xm logo), 221, 480
+78, object (pictogram - sirius xm logo), 219, 514
+79, object (pictogram - wxyc logo), 100, 516
+79, object (pictogram - wxyc logo), 68, 518
+79, object (pictogram - wxyc logo), 68, 504
+79, object (pictogram - wxyc logo), 20, 504
+79, object (pictogram - wxyc logo), 18, 484
+79, object (pictogram - wxyc logo), 66, 484
+79, object (pictogram - wxyc logo), 66, 469
+79, object (pictogram - wxyc logo), 70, 459
+79, object (pictogram - wxyc logo), 82, 453
+79, object (pictogram - wxyc logo), 100, 457
+79, object (pictogram - wxyc logo), 107, 467
+79, object (pictogram - wxyc logo), 103, 479
+79, object (pictogram - wxyc logo), 100, 490
+79, object (pictogram - wxyc logo), 98, 496
+79, object (pictogram - wxyc logo), 102, 512
+80, object (pictogram - sound wave), 12, 617
+80, object (pictogram - sound wave), 14, 596
+80, object (pictogram - sound wave), 27, 580
+80, object (pictogram - sound wave), 55, 586
+80, object (pictogram - sound wave), 74, 582
+80, object (pictogram - sound wave), 103, 586
+80, object (pictogram - sound wave), 115, 596
+80, object (pictogram - sound wave), 115, 623
+80, object (pictogram - sound wave), 103, 627
+80, object (pictogram - sound wave), 78, 631
+80, object (pictogram - sound wave), 55, 627
+80, object (pictogram - sound wave), 31, 633
+81, object (pictogram - ipod), 168, 633
+81, object (pictogram - ipod), 170, 578
+81, object (pictogram - ipod), 203, 580
+81, object (pictogram - ipod), 203, 635
+82, object (pictogram - itunes screenshot), 269, 633
+82, object (pictogram - itunes screenshot), 269, 580
+82, object (pictogram - itunes screenshot), 348, 580
+82, object (pictogram - itunes screenshot), 348, 633
+83, object (pictogram - sirius talk radio logo), 406, 633
+83, object (pictogram - sirius talk radio logo), 400, 611
+83, object (pictogram - sirius talk radio logo), 404, 598
+83, object (pictogram - sirius talk radio logo), 416, 580
+83, object (pictogram - sirius talk radio logo), 428, 566
+83, object (pictogram - sirius talk radio logo), 443, 566
+83, object (pictogram - sirius talk radio logo), 451, 582
+83, object (pictogram - sirius talk radio logo), 451, 592
+83, object (pictogram - sirius talk radio logo), 455, 604
+83, object (pictogram - sirius talk radio logo), 453, 625
+83, object (pictogram - sirius talk radio logo), 441, 637
+83, object (pictogram - sirius talk radio logo), 420, 635
+84, object (pictogram - yahoo logo), 394, 736
+84, object (pictogram - yahoo logo), 385, 717
+84, object (pictogram - yahoo logo), 392, 701
+84, object (pictogram - yahoo logo), 418, 693
+84, object (pictogram - yahoo logo), 453, 695
+84, object (pictogram - yahoo logo), 471, 697
+84, object (pictogram - yahoo logo), 465, 738
+84, object (pictogram - yahoo logo), 433, 742
+84, object (pictogram - yahoo logo), 408, 742
+85, object (pictogram - ipod), 260, 748
+85, object (pictogram - ipod), 262, 709
+85, object (pictogram - ipod), 271, 709
+85, object (pictogram - ipod), 287, 719
+85, object (pictogram - ipod), 297, 711
+85, object (pictogram - ipod), 301, 721
+85, object (pictogram - ipod), 295, 725
+85, object (pictogram - ipod), 281, 729
+85, object (pictogram - ipod), 279, 750
+86, object (pictogram - bmw logo), 301, 709
+86, object (pictogram - bmw logo), 305, 701
+86, object (pictogram - bmw logo), 322, 689
+86, object (pictogram - bmw logo), 336, 691
+86, object (pictogram - bmw logo), 348, 697
+86, object (pictogram - bmw logo), 355, 709
+86, object (pictogram - bmw logo), 353, 729
+86, object (pictogram - bmw logo), 346, 740
+86, object (pictogram - bmw logo), 320, 746
+86, object (pictogram - bmw logo), 308, 740
+86, object (pictogram - bmw logo), 303, 730
+86, object (pictogram - bmw logo), 301, 721
+87, object (pictogram - facebook logo), 158, 744
+87, object (pictogram - facebook logo), 158, 691
+87, object (pictogram - facebook logo), 213, 693
+87, object (pictogram - facebook logo), 211, 746
+88, object (pictogram - itunes podcasts logo), 27, 744
+88, object (pictogram - itunes podcasts logo), 23, 721
+88, object (pictogram - itunes podcasts logo), 33, 701
+88, object (pictogram - itunes podcasts logo), 53, 686
+88, object (pictogram - itunes podcasts logo), 76, 684
+88, object (pictogram - itunes podcasts logo), 90, 691
+88, object (pictogram - itunes podcasts logo), 102, 703
+88, object (pictogram - itunes podcasts logo), 107, 715
+88, object (pictogram - itunes podcasts logo), 109, 732
+88, object (pictogram - itunes podcasts logo), 102, 744
+88, object (pictogram - itunes podcasts logo), 88, 750
+88, object (pictogram - itunes podcasts logo), 45, 750
+89, object (pictogram - twitter logo), 39, 883
+89, object (pictogram - twitter logo), 41, 828
+89, object (pictogram - twitter logo), 96, 828
+89, object (pictogram - twitter logo), 94, 883
+90, object (pictogram - laptop), 160, 883
+90, object (pictogram - laptop), 166, 869
+90, object (pictogram - laptop), 168, 836
+90, object (pictogram - laptop), 184, 816
+90, object (pictogram - laptop), 207, 811
+90, object (pictogram - laptop), 217, 816
+90, object (pictogram - laptop), 217, 838
+90, object (pictogram - laptop), 217, 852
+90, object (pictogram - laptop), 219, 881
+91, object (pictogram - radio tower with iphone), 271, 883
+91, object (pictogram - radio tower with iphone), 267, 844
+91, object (pictogram - radio tower with iphone), 273, 824
+91, object (pictogram - radio tower with iphone), 289, 820
+91, object (pictogram - radio tower with iphone), 303, 824
+91, object (pictogram - radio tower with iphone), 310, 840
+91, object (pictogram - radio tower with iphone), 320, 834
+91, object (pictogram - radio tower with iphone), 348, 834
+91, object (pictogram - radio tower with iphone), 346, 881
+91, object (pictogram - radio tower with iphone), 303, 883
+92, object (pictogram - logo), 394, 883
+92, object (pictogram - logo), 394, 828
+92, object (pictogram - logo), 447, 828
+92, object (pictogram - logo), 447, 883
+93, annotation (arrow), 29, 82
+93, annotation (arrow), 64, 94
+93, annotation (arrow), 92, 92
+93, annotation (arrow), 119, 98
+93, annotation (arrow), 119, 82
+93, annotation (arrow), 156, 94
+93, annotation (arrow), 260, 98
+93, annotation (arrow), 402, 100
+93, annotation (arrow), 390, 115
+93, annotation (arrow), 390, 133
+93, annotation (arrow), 215, 129
+93, annotation (arrow), 156, 135
+93, annotation (arrow), 117, 148
+93, annotation (arrow), 117, 131
+93, annotation (arrow), 76, 146
+93, annotation (arrow), 27, 146
+93, annotation (arrow), 37, 125
+94, annotation (arrow), 461, 146
+94, annotation (arrow), 431, 189
+94, annotation (arrow), 408, 164
+94, annotation (arrow), 400, 146
+94, annotation (arrow), 412, 146
+94, annotation (arrow), 410, 141
+94, annotation (arrow), 426, 145
+94, annotation (arrow), 433, 131
+94, annotation (arrow), 447, 121
+94, annotation (arrow), 445, 146
+95, annotation (arrow), 463, 207
+95, annotation (arrow), 431, 219
+95, annotation (arrow), 392, 219
+95, annotation (arrow), 375, 221
+95, annotation (arrow), 375, 207
+95, annotation (arrow), 326, 221
+95, annotation (arrow), 84, 223
+95, annotation (arrow), 80, 230
+95, annotation (arrow), 82, 240
+95, annotation (arrow), 94, 256
+95, annotation (arrow), 146, 254
+95, annotation (arrow), 328, 256
+95, annotation (arrow), 375, 270
+95, annotation (arrow), 375, 254
+95, annotation (arrow), 392, 260
+95, annotation (arrow), 420, 271
+95, annotation (arrow), 418, 260
+95, annotation (arrow), 461, 271
+95, annotation (arrow), 449, 238
+96, annotation (arrow), 78, 268
+96, annotation (arrow), 94, 268
+96, annotation (arrow), 61, 311
+96, annotation (arrow), 29, 275
+96, annotation (arrow), 43, 273
+96, annotation (arrow), 45, 252
+96, annotation (arrow), 51, 248
+96, annotation (arrow), 61, 248
+96, annotation (arrow), 76, 262
+97, annotation (arrow), 29, 328
+97, annotation (arrow), 72, 338
+97, annotation (arrow), 72, 326
+97, annotation (arrow), 115, 338
+97, annotation (arrow), 117, 326
+97, annotation (arrow), 162, 342
+97, annotation (arrow), 390, 344
+97, annotation (arrow), 394, 375
+97, annotation (arrow), 160, 375
+97, annotation (arrow), 115, 391
+97, annotation (arrow), 117, 375
+97, annotation (arrow), 72, 391
+97, annotation (arrow), 72, 375
+97, annotation (arrow), 33, 389
+97, annotation (arrow), 33, 379
+97, annotation (arrow), 43, 359
+98, annotation (arrow), 445, 381
+98, annotation (arrow), 447, 387
+98, annotation (arrow), 463, 389
+98, annotation (arrow), 428, 441
+98, annotation (arrow), 394, 391
+98, annotation (arrow), 414, 391
+98, annotation (arrow), 414, 381
+99, annotation (arrow), 459, 453
+99, annotation (arrow), 420, 465
+99, annotation (arrow), 420, 451
+99, annotation (arrow), 377, 465
+99, annotation (arrow), 375, 453
+99, annotation (arrow), 330, 469
+99, annotation (arrow), 49, 469
+99, annotation (arrow), 45, 482
+99, annotation (arrow), 47, 514
+99, annotation (arrow), 29, 516
+99, annotation (arrow), 62, 563
+99, annotation (arrow), 92, 518
+99, annotation (arrow), 76, 516
+99, annotation (arrow), 76, 500
+99, annotation (arrow), 334, 500
+99, annotation (arrow), 373, 516
+99, annotation (arrow), 373, 500
+99, annotation (arrow), 383, 502
+99, annotation (arrow), 385, 482
+99, annotation (arrow), 416, 480
+99, annotation (arrow), 422, 469
+99, annotation (arrow), 431, 465
+99, annotation (arrow), 443, 461
+99, annotation (arrow), 457, 463
+99, annotation (arrow), 467, 451
+100, annotation (arrow), 29, 570
+100, annotation (arrow), 70, 586
+100, annotation (arrow), 72, 570
+100, annotation (arrow), 117, 584
+100, annotation (arrow), 115, 572
+100, annotation (arrow), 166, 588
+100, annotation (arrow), 414, 588
+100, annotation (arrow), 406, 600
+100, annotation (arrow), 406, 611
+100, annotation (arrow), 406, 619
+100, annotation (arrow), 162, 617
+100, annotation (arrow), 115, 635
+100, annotation (arrow), 119, 619
+100, annotation (arrow), 76, 635
+100, annotation (arrow), 78, 623
+100, annotation (arrow), 25, 635
+100, annotation (arrow), 43, 605
+101, annotation (arrow), 447, 635
+101, annotation (arrow), 461, 635
+101, annotation (arrow), 431, 680
+101, annotation (arrow), 394, 635
+102, annotation (arrow), 463, 691
+102, annotation (arrow), 437, 699
+102, annotation (arrow), 416, 697
+102, annotation (arrow), 420, 688
+102, annotation (arrow), 375, 705
+102, annotation (arrow), 375, 689
+102, annotation (arrow), 348, 701
+102, annotation (arrow), 326, 691
+102, annotation (arrow), 308, 693
+102, annotation (arrow), 301, 707
+102, annotation (arrow), 100, 707
+102, annotation (arrow), 107, 717
+102, annotation (arrow), 107, 729
+102, annotation (arrow), 105, 738
+102, annotation (arrow), 305, 736
+102, annotation (arrow), 310, 740
+102, annotation (arrow), 322, 746
+102, annotation (arrow), 346, 742
+102, annotation (arrow), 373, 754
+102, annotation (arrow), 377, 738
+102, annotation (arrow), 418, 754
+102, annotation (arrow), 420, 740
+102, annotation (arrow), 433, 742
+102, annotation (arrow), 463, 754
+102, annotation (arrow), 451, 725
+102, annotation (arrow), 449, 713
+103, annotation (arrow), 94, 752
+103, annotation (arrow), 64, 801
+103, annotation (arrow), 23, 752
+104, annotation (arrow), 25, 820
+104, annotation (arrow), 39, 828
+104, annotation (arrow), 68, 826
+104, annotation (arrow), 68, 820
+104, annotation (arrow), 109, 836
+104, annotation (arrow), 109, 820
+104, annotation (arrow), 158, 834
+104, annotation (arrow), 390, 836
+104, annotation (arrow), 394, 871
+104, annotation (arrow), 154, 869
+104, annotation (arrow), 107, 885
+104, annotation (arrow), 107, 871
+104, annotation (arrow), 94, 879
+104, annotation (arrow), 96, 836
+104, annotation (arrow), 84, 828
+104, annotation (arrow), 41, 832
+104, annotation (arrow), 43, 877
+104, annotation (arrow), 23, 885
+104, annotation (arrow), 35, 854
+105, annotation (arrow), 451, 840
+105, annotation (arrow), 471, 855
+105, annotation (arrow), 447, 869
+106, data (diagram), 0, 70
+106, data (diagram), 490, 72
+106, data (diagram), 490, 947
+106, data (diagram), 0, 951
+107, data, 490, 64
+107, data, 490, 949
+107, data, 0, 949
+107, data, 4, 66
