@@ -1,0 +1,90 @@
+POLIGONO 1:   graphical element (economist red square)
+	numero osservazioni:  0
+POLIGONO 2:   text (title)
+	numero osservazioni:  28
+POLIGONO 3:   text (paragraph)
+	numero osservazioni:  28
+POLIGONO 4:   legend
+	numero osservazioni:  52
+POLIGONO 5:   axis
+	numero osservazioni:  25
+POLIGONO 6:   axis
+	numero osservazioni:  133
+POLIGONO 7:   text (source)
+	numero osservazioni:  1
+POLIGONO 8:   text
+	numero osservazioni:  0
+POLIGONO 9:   data
+	numero osservazioni:  309
+POLIGONO 10:   data (table)
+	numero osservazioni:  64
+POLIGONO 11:   data (points)
+	numero osservazioni:  60
+POLIGONO 12:   data (points)
+	numero osservazioni:  88
+POLIGONO 13:   object (pictogram - smoking women)
+	numero osservazioni:  10
+POLIGONO 14:   object (pictogram - smoking women)
+	numero osservazioni:  1
+POLIGONO 15:   object (pictogram - smoking women)
+	numero osservazioni:  2
+POLIGONO 16:   object (pictogram - smoking women)
+	numero osservazioni:  5
+POLIGONO 17:   object (pictogram - smoking women)
+	numero osservazioni:  1
+POLIGONO 18:   object (pictogram - smoking women)
+	numero osservazioni:  1
+POLIGONO 19:   object (pictogram - smoking women)
+	numero osservazioni:  0
+POLIGONO 20:   object (pictogram - smoking women)
+	numero osservazioni:  0
+POLIGONO 21:   object (pictogram - smoking women)
+	numero osservazioni:  1
+POLIGONO 22:   object (pictogram - smoking women)
+	numero osservazioni:  1
+POLIGONO 23:   object (pictogram - smoking women)
+	numero osservazioni:  1
+POLIGONO 24:   object (pictogram - smoking women)
+	numero osservazioni:  0
+POLIGONO 25:   object (pictogram - smoking women)
+	numero osservazioni:  9
+POLIGONO 26:   object (pictogram - smoking women)
+	numero osservazioni:  4
+POLIGONO 27:   object (pictogram - smoking women)
+	numero osservazioni:  3
+POLIGONO 28:   object (pictogram - smoking man)
+	numero osservazioni:  1
+POLIGONO 29:   object (pictogram - smoking man)
+	numero osservazioni:  1
+POLIGONO 30:   object (pictogram - smoking man)
+	numero osservazioni:  3
+POLIGONO 31:   object (pictogram - smoking man)
+	numero osservazioni:  2
+POLIGONO 32:   object (pictogram - smoking man)
+	numero osservazioni:  0
+POLIGONO 33:   object (pictogram - smoking man)
+	numero osservazioni:  1
+POLIGONO 34:   object (pictogram - smoking man)
+	numero osservazioni:  2
+POLIGONO 35:   object (pictogram - smoking man)
+	numero osservazioni:  8
+POLIGONO 36:   object (pictogram - smoking man)
+	numero osservazioni:  5
+POLIGONO 37:   object (pictogram - smoking man)
+	numero osservazioni:  1
+POLIGONO 38:   object (pictogram - smoking man)
+	numero osservazioni:  2
+POLIGONO 39:   object (pictogram - smoking man)
+	numero osservazioni:  4
+POLIGONO 40:   object (pictogram - smoking man)
+	numero osservazioni:  2
+POLIGONO 41:   object (pictogram - smoking man)
+	numero osservazioni:  4
+POLIGONO 42:   object (pictogram - smoking man)
+	numero osservazioni:  8
+POLIGONO 43:   object (pictogram - smoking man)
+	numero osservazioni:  4
+POLIGONO 44:   object (pictogram - smoking women)
+	numero osservazioni:  13
+POLIGONO 45:   text (header row)
+	numero osservazioni:  16

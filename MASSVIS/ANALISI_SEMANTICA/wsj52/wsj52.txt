@@ -1,0 +1,22 @@
+POLIGONO 1:   text (title)
+	numero osservazioni:  38
+POLIGONO 2:   text (paragraph)
+	numero osservazioni:  91
+POLIGONO 3:   axis
+	numero osservazioni:  44
+POLIGONO 4:   axis (time)
+	numero osservazioni:  42
+POLIGONO 5:   data
+	numero osservazioni:  266
+POLIGONO 6:   object (pictogram - mcdonald_s logo)
+	numero osservazioni:  52
+POLIGONO 7:   annotation
+	numero osservazioni:  46
+POLIGONO 8:   data (line)
+	numero osservazioni:  108
+POLIGONO 9:   text (source)
+	numero osservazioni:  4
+POLIGONO 10:   text (source)
+	numero osservazioni:  8
+POLIGONO 11:   text (label)
+	numero osservazioni:  37

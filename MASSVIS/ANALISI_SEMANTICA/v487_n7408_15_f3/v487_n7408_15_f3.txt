@@ -1,0 +1,18 @@
+POLIGONO 1:   legend
+	numero osservazioni:  105
+POLIGONO 2:   text (axis label)
+	numero osservazioni:  43
+POLIGONO 3:   axis
+	numero osservazioni:  18
+POLIGONO 4:   axis
+	numero osservazioni:  37
+POLIGONO 5:   annotation
+	numero osservazioni:  2
+POLIGONO 6:   graphical element
+	numero osservazioni:  27
+POLIGONO 7:   data (bars)
+	numero osservazioni:  166
+POLIGONO 8:   data
+	numero osservazioni:  338
+POLIGONO 9:   text (label)
+	numero osservazioni:  86

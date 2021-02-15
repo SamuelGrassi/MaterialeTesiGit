@@ -1,0 +1,16 @@
+POLIGONO 1:   axis
+	numero osservazioni:  27
+POLIGONO 2:   axis
+	numero osservazioni:  31
+POLIGONO 3:   text (axis label)
+	numero osservazioni:  3
+POLIGONO 4:   text (axis label)
+	numero osservazioni:  6
+POLIGONO 5:   legend
+	numero osservazioni:  195
+POLIGONO 6:   data (points)
+	numero osservazioni:  185
+POLIGONO 7:   data
+	numero osservazioni:  442
+POLIGONO 8:   text (label)
+	numero osservazioni:  160

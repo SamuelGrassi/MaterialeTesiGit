@@ -1,0 +1,61 @@
+1, data (bars), 231, 236
+1, data (bars), 228, 900
+1, data (bars), 326, 902
+1, data (bars), 443, 844
+1, data (bars), 501, 703
+1, data (bars), 582, 399
+1, data (bars), 588, 293
+1, data (bars), 638, 268
+1, data (bars), 643, 236
+2, axis, 2, 906
+2, axis, 235, 900
+2, axis, 241, 235
+2, axis, 3, 235
+3, axis (time), 226, 143
+3, axis (time), 224, 229
+3, axis (time), 639, 228
+3, axis (time), 644, 141
+4, text (title), 99, 44
+4, text (title), 90, 136
+4, text (title), 559, 136
+4, text (title), 556, 44
+5, text (source), 239, 925
+5, text (source), 239, 977
+5, text (source), 438, 987
+5, text (source), 441, 918
+6, data, 647, 231
+6, data, 647, 902
+6, data, 233, 900
+6, data, 243, 233
+7, object (pictogram - tree), 601, 115
+7, object (pictogram - tree), 634, 117
+7, object (pictogram - tree), 636, 175
+7, object (pictogram - tree), 601, 170
+8, object (pictogram - logo), 238, 932
+8, object (pictogram - logo), 279, 920
+8, object (pictogram - logo), 281, 980
+8, object (pictogram - logo), 239, 977
+9, object (pictogram - postmarks), 2, 911
+9, object (pictogram - postmarks), 228, 910
+9, object (pictogram - postmarks), 234, 986
+9, object (pictogram - postmarks), 411, 992
+9, object (pictogram - postmarks), 432, 984
+9, object (pictogram - postmarks), 511, 973
+9, object (pictogram - postmarks), 522, 909
+9, object (pictogram - postmarks), 649, 913
+9, object (pictogram - postmarks), 650, 997
+9, object (pictogram - postmarks), 2, 997
+10, object (pictogram - postmarks), 0, 226
+10, object (pictogram - postmarks), 144, 219
+10, object (pictogram - postmarks), 178, 180
+10, object (pictogram - postmarks), 169, 138
+10, object (pictogram - postmarks), 153, 121
+10, object (pictogram - postmarks), 91, 107
+10, object (pictogram - postmarks), 94, 54
+10, object (pictogram - postmarks), 102, 41
+10, object (pictogram - postmarks), 308, 35
+10, object (pictogram - postmarks), 561, 41
+10, object (pictogram - postmarks), 551, 115
+10, object (pictogram - postmarks), 650, 116
+10, object (pictogram - postmarks), 650, 1
+10, object (pictogram - postmarks), 2, 0

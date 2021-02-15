@@ -1,0 +1,72 @@
+POLIGONO 1:   text (title)
+	numero osservazioni:  11
+POLIGONO 2:   text (axis label)
+	numero osservazioni:  11
+POLIGONO 3:   text (axis label)
+	numero osservazioni:  9
+POLIGONO 4:   text (paragraph)
+	numero osservazioni:  42
+POLIGONO 5:   text (source)
+	numero osservazioni:  1
+POLIGONO 6:   data (points)
+	numero osservazioni:  112
+POLIGONO 7:   graphical element (economist red square)
+	numero osservazioni:  0
+POLIGONO 8:   data
+	numero osservazioni:  252
+POLIGONO 9:   text
+	numero osservazioni:  10
+POLIGONO 10:   text
+	numero osservazioni:  6
+POLIGONO 11:   text (label)
+	numero osservazioni:  7
+POLIGONO 12:   text (label)
+	numero osservazioni:  3
+POLIGONO 13:   text (label)
+	numero osservazioni:  4
+POLIGONO 14:   text (label)
+	numero osservazioni:  4
+POLIGONO 15:   text (label)
+	numero osservazioni:  1
+POLIGONO 16:   text (label)
+	numero osservazioni:  1
+POLIGONO 17:   text (label)
+	numero osservazioni:  3
+POLIGONO 18:   text (label)
+	numero osservazioni:  0
+POLIGONO 19:   text (label)
+	numero osservazioni:  0
+POLIGONO 20:   text (label)
+	numero osservazioni:  2
+POLIGONO 21:   text (label)
+	numero osservazioni:  3
+POLIGONO 22:   text (label)
+	numero osservazioni:  1
+POLIGONO 23:   text (label)
+	numero osservazioni:  6
+POLIGONO 24:   text (label)
+	numero osservazioni:  1
+POLIGONO 25:   text (label)
+	numero osservazioni:  0
+POLIGONO 26:   text (label)
+	numero osservazioni:  2
+POLIGONO 27:   text (label)
+	numero osservazioni:  5
+POLIGONO 28:   text (label)
+	numero osservazioni:  1
+POLIGONO 29:   text (label)
+	numero osservazioni:  1
+POLIGONO 30:   text (label)
+	numero osservazioni:  2
+POLIGONO 31:   axis
+	numero osservazioni:  17
+POLIGONO 32:   axis
+	numero osservazioni:  22
+POLIGONO 33:   annotation
+	numero osservazioni:  2
+POLIGONO 34:   annotation
+	numero osservazioni:  0
+POLIGONO 35:   annotation
+	numero osservazioni:  0
+POLIGONO 36:   annotation
+	numero osservazioni:  2

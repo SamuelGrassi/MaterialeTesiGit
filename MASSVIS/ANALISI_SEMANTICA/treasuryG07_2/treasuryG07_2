@@ -1,0 +1,56 @@
+1, text (title), 398, 14
+1, text (title), 859, 14
+1, text (title), 857, 40
+1, text (title), 393, 41
+2, axis, 344, 44
+2, axis, 284, 45
+2, axis, 297, 334
+2, axis, 345, 334
+3, axis (time), 333, 346
+3, axis (time), 334, 325
+3, axis (time), 988, 328
+3, axis (time), 989, 346
+4, text (axis label), 710, 359
+4, text (axis label), 599, 360
+4, text (axis label), 599, 343
+4, text (axis label), 710, 342
+5, text (label), 364, 39
+5, text (label), 433, 41
+5, text (label), 430, 64
+5, text (label), 361, 63
+6, data, 348, 56
+6, data, 964, 55
+6, data, 966, 325
+6, data, 345, 320
+6, data, 344, 68
+7, legend, 404, 89
+7, legend, 674, 84
+7, legend, 671, 113
+7, legend, 405, 113
+8, data (line), 362, 141
+8, data (line), 365, 254
+8, data (line), 534, 248
+8, data (line), 568, 186
+8, data (line), 685, 163
+8, data (line), 847, 159
+8, data (line), 957, 161
+8, data (line), 954, 93
+8, data (line), 877, 113
+8, data (line), 664, 118
+8, data (line), 483, 124
+9, text (paragraph), 7, 239
+9, text (paragraph), 10, 170
+9, text (paragraph), 195, 168
+9, text (paragraph), 191, 241
+10, text (label), 464, 93
+10, text (label), 466, 109
+10, text (label), 438, 104
+10, text (label), 440, 91
+11, text (label), 538, 94
+11, text (label), 540, 109
+11, text (label), 513, 109
+11, text (label), 515, 94
+12, text (label), 587, 95
+12, text (label), 665, 95
+12, text (label), 664, 107
+12, text (label), 584, 107

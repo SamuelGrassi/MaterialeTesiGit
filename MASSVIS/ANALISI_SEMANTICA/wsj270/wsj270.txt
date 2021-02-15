@@ -1,0 +1,38 @@
+POLIGONO 1:   axis (time)
+	numero osservazioni:  16
+POLIGONO 2:   axis
+	numero osservazioni:  14
+POLIGONO 4:   data (line)
+	numero osservazioni:  78
+POLIGONO 5:   data
+	numero osservazioni:  101
+POLIGONO 6:   text (paragraph)
+	numero osservazioni:  292
+POLIGONO 7:   text (title)
+	numero osservazioni:  32
+POLIGONO 8:   text (source)
+	numero osservazioni:  15
+POLIGONO 9:   text (source)
+	numero osservazioni:  3
+POLIGONO 10:   annotation
+	numero osservazioni:  140
+POLIGONO 11:   text (label)
+	numero osservazioni:  5
+POLIGONO 12:   text (label)
+	numero osservazioni:  6
+POLIGONO 13:   text (label)
+	numero osservazioni:  6
+POLIGONO 14:   text (label)
+	numero osservazioni:  6
+POLIGONO 15:   text (label)
+	numero osservazioni:  8
+POLIGONO 16:   object (pictogram - chinese flag)
+	numero osservazioni:  16
+POLIGONO 17:   object (pictogram - indian flag)
+	numero osservazioni:  16
+POLIGONO 18:   object (pictogram - french flag)
+	numero osservazioni:  11
+POLIGONO 19:   object (pictogram - japanese flag)
+	numero osservazioni:  12
+POLIGONO 20:   object (pictogram - american flag)
+	numero osservazioni:  3

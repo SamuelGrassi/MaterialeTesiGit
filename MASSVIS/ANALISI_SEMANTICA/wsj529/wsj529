@@ -1,0 +1,103 @@
+1, axis, 4, 309
+1, axis, 2, 338
+1, axis, 398, 336
+1, axis, 398, 308
+2, text (label), 4, 286
+2, text (label), 259, 281
+2, text (label), 259, 306
+2, text (label), 7, 309
+3, text (label), 0, 408
+3, text (label), 4, 439
+3, text (label), 79, 432
+3, text (label), 79, 405
+4, text (label), 4, 505
+4, text (label), 9, 532
+4, text (label), 119, 532
+4, text (label), 117, 507
+5, text (label), 4, 606
+5, text (label), 4, 626
+5, text (label), 274, 629
+5, text (label), 274, 606
+6, text (label), 4, 703
+6, text (label), 4, 730
+6, text (label), 373, 727
+6, text (label), 373, 705
+7, text (label), 4, 802
+7, text (label), 4, 824
+7, text (label), 52, 827
+7, text (label), 49, 791
+8, data (bars), 7, 344
+8, data (bars), 317, 338
+8, data (bars), 353, 345
+8, data (bars), 351, 388
+8, data (bars), 351, 412
+8, data (bars), 95, 410
+8, data (bars), 97, 432
+8, data (bars), 238, 428
+8, data (bars), 301, 428
+8, data (bars), 301, 495
+8, data (bars), 301, 516
+8, data (bars), 148, 509
+8, data (bars), 149, 523
+8, data (bars), 189, 529
+8, data (bars), 230, 556
+8, data (bars), 230, 588
+8, data (bars), 115, 603
+8, data (bars), 121, 665
+8, data (bars), 122, 696
+8, data (bars), 72, 703
+8, data (bars), 74, 723
+8, data (bars), 79, 748
+8, data (bars), 158, 748
+8, data (bars), 173, 782
+8, data (bars), 171, 788
+8, data (bars), 157, 800
+8, data (bars), 77, 795
+8, data (bars), 77, 811
+8, data (bars), 227, 817
+8, data (bars), 281, 827
+8, data (bars), 304, 869
+8, data (bars), 304, 888
+8, data (bars), 299, 899
+8, data (bars), 7, 903
+9, text (source), 4, 908
+9, text (source), 337, 903
+9, text (source), 322, 923
+9, text (source), 311, 941
+9, text (source), 153, 933
+9, text (source), 140, 935
+9, text (source), 139, 951
+9, text (source), 135, 959
+9, text (source), 4, 955
+10, text (source), 182, 951
+10, text (source), 182, 984
+10, text (source), 394, 984
+10, text (source), 400, 951
+11, data, 4, 268
+11, data, 5, 901
+11, data, 401, 899
+11, data, 401, 273
+12, legend, 0, 173
+12, legend, 338, 173
+12, legend, 340, 268
+12, legend, 5, 264
+13, text (paragraph), 5, 88
+13, text (paragraph), 5, 160
+13, text (paragraph), 236, 162
+13, text (paragraph), 239, 129
+13, text (paragraph), 383, 129
+13, text (paragraph), 383, 97
+14, text (title), 0, 38
+14, text (title), 0, 81
+14, text (title), 400, 86
+14, text (title), 398, 38
+15, text (label), 79, 187
+15, text (label), 79, 227
+15, text (label), 200, 234
+15, text (label), 187, 180
+15, text (label), 263, 182
+15, text (label), 263, 227
+15, text (label), 328, 234
+15, text (label), 324, 263
+15, text (label), 4, 261
+15, text (label), 7, 176
