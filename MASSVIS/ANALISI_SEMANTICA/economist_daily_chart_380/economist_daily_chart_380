@@ -1,0 +1,71 @@
+1, graphical element (economist red square), 0, 47
+1, graphical element (economist red square), 24, 44
+1, graphical element (economist red square), 20, 3
+1, graphical element (economist red square), 3, 3
+2, text (title), 27, 17
+2, text (title), 308, 20
+2, text (title), 301, 59
+2, text (title), 29, 55
+3, text (paragraph), 32, 59
+3, text (paragraph), 556, 55
+3, text (paragraph), 556, 87
+3, text (paragraph), 30, 84
+4, axis (time), 29, 472
+4, axis (time), 30, 524
+4, axis (time), 943, 521
+4, axis (time), 943, 471
+5, text (source), 30, 528
+5, text (source), 504, 529
+5, text (source), 503, 550
+5, text (source), 30, 546
+6, data, 35, 96
+6, data, 941, 89
+6, data, 943, 471
+6, data, 29, 469
+7, axis, 943, 82
+7, axis, 975, 82
+7, axis, 976, 501
+7, axis, 941, 494
+8, data (line), 44, 156
+8, data (line), 126, 136
+8, data (line), 266, 145
+8, data (line), 308, 156
+8, data (line), 365, 195
+8, data (line), 477, 175
+8, data (line), 597, 150
+8, data (line), 703, 151
+8, data (line), 731, 187
+8, data (line), 850, 188
+8, data (line), 914, 203
+8, data (line), 918, 261
+8, data (line), 825, 240
+8, data (line), 768, 249
+8, data (line), 697, 249
+8, data (line), 615, 234
+8, data (line), 568, 207
+8, data (line), 494, 244
+8, data (line), 365, 244
+8, data (line), 276, 244
+8, data (line), 173, 234
+8, data (line), 128, 192
+8, data (line), 55, 190
+9, text (label), 388, 175
+9, text (label), 313, 171
+9, text (label), 314, 198
+9, text (label), 440, 202
+9, text (label), 440, 170
+10, text (label), 308, 348
+10, text (label), 551, 351
+10, text (label), 546, 376
+10, text (label), 308, 375
+11, data (line), 50, 316
+11, data (line), 50, 365
+11, data (line), 277, 351
+11, data (line), 655, 345
+11, data (line), 926, 324
+11, data (line), 911, 271
+11, data (line), 832, 279
+11, data (line), 573, 301
+11, data (line), 365, 301
+11, data (line), 205, 308
+11, data (line), 84, 313

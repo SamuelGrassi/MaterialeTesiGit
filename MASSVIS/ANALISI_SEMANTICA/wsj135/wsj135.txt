@@ -1,0 +1,24 @@
+POLIGONO 1:   text (title)
+	numero osservazioni:  94
+POLIGONO 2:   text (paragraph)
+	numero osservazioni:  248
+POLIGONO 3:   axis (time)
+	numero osservazioni:  31
+POLIGONO 4:   axis
+	numero osservazioni:  22
+POLIGONO 5:   data
+	numero osservazioni:  325
+POLIGONO 6:   data (bars)
+	numero osservazioni:  103
+POLIGONO 7:   text (source)
+	numero osservazioni:  8
+POLIGONO 8:   text (source)
+	numero osservazioni:  9
+POLIGONO 9:   annotation
+	numero osservazioni:  94
+POLIGONO 10:   annotation
+	numero osservazioni:  49
+POLIGONO 11:   text (label)
+	numero osservazioni:  36
+POLIGONO 12:   text (label)
+	numero osservazioni:  67

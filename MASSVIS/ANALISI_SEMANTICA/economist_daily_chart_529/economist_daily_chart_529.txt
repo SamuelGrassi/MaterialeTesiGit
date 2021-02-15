@@ -1,0 +1,24 @@
+POLIGONO 1:   graphical element (economist red square)
+	numero osservazioni:  0
+POLIGONO 2:   text (title)
+	numero osservazioni:  81
+POLIGONO 3:   text (axis label)
+	numero osservazioni:  79
+POLIGONO 4:   axis (time)
+	numero osservazioni:  27
+POLIGONO 5:   axis
+	numero osservazioni:  22
+POLIGONO 6:   axis
+	numero osservazioni:  6
+POLIGONO 7:   text (axis label)
+	numero osservazioni:  22
+POLIGONO 8:   text (source)
+	numero osservazioni:  20
+POLIGONO 9:   text
+	numero osservazioni:  2
+POLIGONO 10:   data
+	numero osservazioni:  259
+POLIGONO 11:   data (bars)
+	numero osservazioni:  187
+POLIGONO 12:   data (line)
+	numero osservazioni:  69

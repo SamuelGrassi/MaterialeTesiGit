@@ -1,0 +1,45 @@
+1, axis, 123, 830
+1, axis, 123, 0
+1, axis, 23, 0
+1, axis, 23, 830
+2, axis, 999, 824
+2, axis, 999, 885
+2, axis, 118, 887
+2, axis, 119, 821
+3, text (axis label), 541, 907
+3, text (axis label), 541, 875
+3, text (axis label), 568, 874
+3, text (axis label), 566, 906
+4, text (axis label), 0, 437
+4, text (axis label), 0, 392
+4, text (axis label), 24, 393
+4, text (axis label), 23, 436
+5, legend, 723, 223
+5, legend, 725, 19
+5, legend, 966, 23
+5, legend, 952, 222
+6, data (points), 401, 4
+6, data (points), 449, 90
+6, data (points), 524, 244
+6, data (points), 628, 347
+6, data (points), 738, 433
+6, data (points), 868, 492
+6, data (points), 960, 524
+6, data (points), 999, 535
+6, data (points), 999, 808
+6, data (points), 356, 787
+6, data (points), 209, 736
+6, data (points), 165, 626
+6, data (points), 144, 507
+6, data (points), 146, 313
+6, data (points), 146, 136
+6, data (points), 143, 23
+6, data (points), 144, 5
+7, data, 999, 1
+7, data, 998, 827
+7, data, 123, 822
+7, data, 119, 2
+8, text (label), 773, 27
+8, text (label), 965, 29
+8, text (label), 914, 216
+8, text (label), 773, 218

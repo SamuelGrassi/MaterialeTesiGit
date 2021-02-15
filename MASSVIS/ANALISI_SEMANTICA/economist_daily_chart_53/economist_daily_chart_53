@@ -1,0 +1,86 @@
+2, text (title), 19, 9
+2, text (title), 19, 35
+2, text (title), 239, 35
+2, text (title), 238, 12
+3, text (paragraph), 19, 40
+3, text (paragraph), 21, 59
+3, text (paragraph), 82, 59
+3, text (paragraph), 78, 41
+4, axis, 12, 104
+4, axis, 138, 108
+4, axis, 143, 969
+4, axis, 12, 969
+5, axis, 128, 73
+5, axis, 136, 122
+5, axis, 664, 122
+5, axis, 664, 57
+6, axis (time), 124, 126
+6, axis (time), 128, 148
+6, axis (time), 651, 147
+6, axis (time), 643, 131
+7, data, 661, 147
+7, data, 659, 980
+7, data, 140, 969
+7, data, 139, 150
+8, text (source), 12, 994
+8, text (source), 12, 972
+8, text (source), 356, 978
+8, text (source), 351, 998
+9, data (points), 138, 150
+9, data (points), 510, 157
+9, data (points), 506, 198
+9, data (points), 487, 201
+9, data (points), 466, 201
+9, data (points), 448, 201
+9, data (points), 424, 204
+9, data (points), 395, 204
+9, data (points), 216, 206
+9, data (points), 213, 262
+9, data (points), 281, 294
+9, data (points), 323, 313
+9, data (points), 367, 352
+9, data (points), 383, 388
+9, data (points), 380, 407
+9, data (points), 345, 408
+9, data (points), 316, 408
+9, data (points), 288, 405
+9, data (points), 258, 404
+9, data (points), 260, 504
+9, data (points), 471, 470
+9, data (points), 487, 529
+9, data (points), 286, 552
+9, data (points), 294, 632
+9, data (points), 411, 627
+9, data (points), 419, 766
+9, data (points), 341, 781
+9, data (points), 328, 833
+9, data (points), 410, 841
+9, data (points), 410, 876
+9, data (points), 471, 878
+9, data (points), 474, 876
+9, data (points), 482, 904
+9, data (points), 494, 916
+9, data (points), 510, 928
+9, data (points), 526, 927
+9, data (points), 546, 925
+9, data (points), 636, 927
+9, data (points), 642, 965
+9, data (points), 234, 946
+9, data (points), 229, 530
+9, data (points), 197, 529
+9, data (points), 197, 401
+9, data (points), 139, 408
+10, text (label), 576, 6
+10, text (label), 568, 56
+10, text (label), 651, 50
+10, text (label), 648, 7
+12, object (pictogram - olympic rings), 498, 10
+12, object (pictogram - olympic rings), 578, 10
+12, object (pictogram - olympic rings), 578, 35
+12, object (pictogram - olympic rings), 564, 52
+12, object (pictogram - olympic rings), 503, 53
+12, object (pictogram - olympic rings), 489, 35
+13, graphical element (economist red square), 11, 31
+13, graphical element (economist red square), 2, 31
+13, graphical element (economist red square), 2, 0
+13, graphical element (economist red square), 11, 0

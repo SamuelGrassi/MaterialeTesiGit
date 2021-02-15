@@ -1,0 +1,120 @@
+POLIGONO 1:   graphical element (economist red square)
+	numero osservazioni:  0
+POLIGONO 2:   object (pictogram - olympics rings)
+	numero osservazioni:  10
+POLIGONO 3:   text (title)
+	numero osservazioni:  21
+POLIGONO 4:   object (pictogram - person)
+	numero osservazioni:  2
+POLIGONO 5:   object (pictogram - person)
+	numero osservazioni:  3
+POLIGONO 6:   legend
+	numero osservazioni:  35
+POLIGONO 7:   legend
+	numero osservazioni:  22
+POLIGONO 8:   axis
+	numero osservazioni:  36
+POLIGONO 9:   text (axis label)
+	numero osservazioni:  2
+POLIGONO 10:   text (source)
+	numero osservazioni:  2
+POLIGONO 11:   text
+	numero osservazioni:  2
+POLIGONO 14:   object (pictogram - people)
+	numero osservazioni:  26
+POLIGONO 15:   object (pictogram - person)
+	numero osservazioni:  3
+POLIGONO 16:   object (pictogram - people)
+	numero osservazioni:  17
+POLIGONO 17:   axis
+	numero osservazioni:  74
+POLIGONO 19:   data
+	numero osservazioni:  316
+POLIGONO 20:   text (label)
+	numero osservazioni:  6
+POLIGONO 21:   text (label)
+	numero osservazioni:  8
+POLIGONO 22:   text (label)
+	numero osservazioni:  33
+POLIGONO 23:   text (label)
+	numero osservazioni:  20
+POLIGONO 24:   text (label)
+	numero osservazioni:  3
+POLIGONO 25:   text (label)
+	numero osservazioni:  4
+POLIGONO 26:   text (label)
+	numero osservazioni:  0
+POLIGONO 27:   text (label)
+	numero osservazioni:  0
+POLIGONO 28:   text (label)
+	numero osservazioni:  1
+POLIGONO 29:   text (label)
+	numero osservazioni:  1
+POLIGONO 30:   text (label)
+	numero osservazioni:  0
+POLIGONO 31:   text (label)
+	numero osservazioni:  0
+POLIGONO 32:   text (label)
+	numero osservazioni:  0
+POLIGONO 33:   text (label)
+	numero osservazioni:  0
+POLIGONO 34:   text (label)
+	numero osservazioni:  1
+POLIGONO 35:   text (label)
+	numero osservazioni:  1
+POLIGONO 36:   text (label)
+	numero osservazioni:  0
+POLIGONO 37:   text (label)
+	numero osservazioni:  0
+POLIGONO 38:   text (label)
+	numero osservazioni:  1
+POLIGONO 39:   text (label)
+	numero osservazioni:  0
+POLIGONO 40:   text (label)
+	numero osservazioni:  0
+POLIGONO 41:   text (label)
+	numero osservazioni:  0
+POLIGONO 42:   text (label)
+	numero osservazioni:  1
+POLIGONO 43:   text (label)
+	numero osservazioni:  0
+POLIGONO 44:   text (label)
+	numero osservazioni:  0
+POLIGONO 45:   text (label)
+	numero osservazioni:  0
+POLIGONO 46:   text (label)
+	numero osservazioni:  0
+POLIGONO 47:   text (label)
+	numero osservazioni:  4
+POLIGONO 48:   text (label)
+	numero osservazioni:  0
+POLIGONO 49:   text (label)
+	numero osservazioni:  4
+POLIGONO 50:   text (label)
+	numero osservazioni:  0
+POLIGONO 51:   text (label)
+	numero osservazioni:  1
+POLIGONO 52:   text (label)
+	numero osservazioni:  1
+POLIGONO 53:   text (label)
+	numero osservazioni:  0
+POLIGONO 54:   text (label)
+	numero osservazioni:  3
+POLIGONO 55:   text (label)
+	numero osservazioni:  1
+POLIGONO 56:   text (label)
+	numero osservazioni:  0
+POLIGONO 57:   text (label)
+	numero osservazioni:  1
+POLIGONO 58:   text (label)
+	numero osservazioni:  0
+POLIGONO 59:   text (label)
+	numero osservazioni:  0
+POLIGONO 60:   text (label)
+	numero osservazioni:  1
+POLIGONO 61:   text (label)
+	numero osservazioni:  0
+POLIGONO 62:   text (label)
+	numero osservazioni:  4
+POLIGONO 63:   data (points)
+	numero osservazioni:  111

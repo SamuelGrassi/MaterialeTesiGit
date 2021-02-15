@@ -1,0 +1,38 @@
+POLIGONO 1:   text (title)
+	numero osservazioni:  18
+POLIGONO 2:   text (paragraph)
+	numero osservazioni:  150
+POLIGONO 3:   axis (time)
+	numero osservazioni:  10
+POLIGONO 4:   text (source)
+	numero osservazioni:  7
+POLIGONO 5:   text
+	numero osservazioni:  1
+POLIGONO 6:   text
+	numero osservazioni:  41
+POLIGONO 7:   data
+	numero osservazioni:  294
+POLIGONO 8:   axis
+	numero osservazioni:  11
+POLIGONO 9:   annotation
+	numero osservazioni:  35
+POLIGONO 10:   annotation
+	numero osservazioni:  31
+POLIGONO 11:   annotation
+	numero osservazioni:  22
+POLIGONO 12:   annotation
+	numero osservazioni:  20
+POLIGONO 13:   text (label)
+	numero osservazioni:  36
+POLIGONO 14:   text (label)
+	numero osservazioni:  35
+POLIGONO 15:   data (line)
+	numero osservazioni:  37
+POLIGONO 16:   text (label)
+	numero osservazioni:  13
+POLIGONO 17:   text (label)
+	numero osservazioni:  20
+POLIGONO 18:   text (label)
+	numero osservazioni:  14
+POLIGONO 19:   text (label)
+	numero osservazioni:  24

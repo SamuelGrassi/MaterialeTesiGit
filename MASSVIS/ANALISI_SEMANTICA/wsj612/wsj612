@@ -1,0 +1,82 @@
+1, text (source), 5, 730
+1, text (source), 573, 737
+1, text (source), 568, 780
+1, text (source), 4, 771
+2, text (source), 730, 733
+2, text (source), 980, 737
+2, text (source), 980, 789
+2, text (source), 721, 786
+3, annotation, 753, 283
+3, annotation, 987, 285
+3, annotation, 982, 375
+3, annotation, 753, 371
+4, annotation, 757, 492
+4, annotation, 980, 497
+4, annotation, 980, 582
+4, annotation, 757, 578
+5, annotation, 757, 587
+5, annotation, 984, 589
+5, annotation, 982, 679
+5, annotation, 753, 672
+6, text (title), 7, 40
+6, text (title), 305, 43
+6, text (title), 305, 110
+6, text (title), 5, 105
+7, text (paragraph), 9, 112
+7, text (paragraph), 856, 108
+7, text (paragraph), 854, 153
+7, text (paragraph), 456, 151
+7, text (paragraph), 456, 193
+7, text (paragraph), 11, 182
+8, text (axis label), 13, 187
+8, text (axis label), 477, 196
+8, text (axis label), 481, 241
+8, text (axis label), 13, 232
+9, axis, 14, 238
+9, axis, 142, 234
+9, axis, 135, 295
+9, axis, 49, 288
+9, axis, 54, 688
+9, axis, 13, 690
+10, axis (time), 20, 694
+10, axis (time), 22, 726
+10, axis (time), 755, 733
+10, axis (time), 755, 688
+10, axis (time), 753, 670
+10, axis (time), 52, 665
+10, axis (time), 52, 692
+11, data, 148, 243
+11, data, 751, 247
+11, data, 748, 668
+11, data, 52, 672
+11, data, 49, 290
+11, data, 142, 294
+12, data (line), 58, 647
+12, data (line), 373, 629
+12, data (line), 514, 568
+12, data (line), 631, 436
+12, data (line), 679, 339
+12, data (line), 744, 319
+12, data (line), 746, 351
+12, data (line), 659, 449
+12, data (line), 553, 573
+12, data (line), 447, 647
+12, data (line), 645, 611
+12, data (line), 751, 546
+12, data (line), 737, 668
+12, data (line), 517, 677
+12, data (line), 49, 677
+13, text (label), 759, 294
+13, text (label), 910, 292
+13, text (label), 906, 369
+13, text (label), 759, 364
+14, text (label), 886, 508
+14, text (label), 903, 575
+14, text (label), 757, 571
+14, text (label), 762, 505
+15, text (label), 883, 598
+15, text (label), 888, 623
+15, text (label), 971, 629
+15, text (label), 973, 668
+15, text (label), 764, 663
+15, text (label), 759, 596

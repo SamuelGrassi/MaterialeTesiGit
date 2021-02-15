@@ -1,0 +1,76 @@
+1, graphical element (economist red square), 0, 44
+1, graphical element (economist red square), 22, 45
+1, graphical element (economist red square), 18, 0
+1, graphical element (economist red square), 3, 2
+2, text (title), 30, 18
+2, text (title), 229, 20
+2, text (title), 230, 52
+2, text (title), 25, 50
+3, text (paragraph), 29, 57
+3, text (paragraph), 469, 57
+3, text (paragraph), 467, 87
+3, text (paragraph), 27, 82
+4, axis (time), 30, 585
+4, axis (time), 943, 585
+4, axis (time), 941, 627
+4, axis (time), 25, 627
+5, text (source), 29, 630
+5, text (source), 239, 634
+5, text (source), 235, 661
+5, text (source), 30, 657
+6, axis, 945, 603
+6, axis, 975, 603
+6, axis, 973, 91
+6, axis, 938, 92
+7, data, 18, 87
+7, data, 943, 82
+7, data, 941, 585
+7, data, 22, 583
+8, data (line), 35, 195
+8, data (line), 141, 219
+8, data (line), 188, 281
+8, data (line), 264, 294
+8, data (line), 336, 266
+8, data (line), 415, 234
+8, data (line), 477, 188
+8, data (line), 560, 138
+8, data (line), 627, 96
+8, data (line), 739, 77
+8, data (line), 778, 101
+8, data (line), 832, 173
+8, data (line), 849, 282
+8, data (line), 855, 346
+8, data (line), 911, 262
+8, data (line), 934, 267
+8, data (line), 936, 397
+8, data (line), 931, 493
+8, data (line), 906, 551
+8, data (line), 886, 585
+8, data (line), 808, 583
+8, data (line), 793, 530
+8, data (line), 743, 454
+8, data (line), 706, 365
+8, data (line), 691, 292
+8, data (line), 676, 274
+8, data (line), 556, 296
+8, data (line), 506, 333
+8, data (line), 454, 350
+8, data (line), 422, 358
+8, data (line), 373, 408
+8, data (line), 264, 464
+8, data (line), 151, 494
+8, data (line), 77, 412
+8, data (line), 57, 329
+8, data (line), 25, 292
+9, annotation, 35, 361
+9, annotation, 35, 346
+9, annotation, 945, 341
+9, annotation, 945, 360
+10, text (label), 187, 329
+10, text (label), 185, 303
+10, text (label), 267, 309
+10, text (label), 267, 331
+11, text (label), 170, 449
+11, text (label), 170, 422
+11, text (label), 235, 424
+11, text (label), 235, 449

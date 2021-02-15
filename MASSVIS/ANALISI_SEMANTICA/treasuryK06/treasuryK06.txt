@@ -1,0 +1,28 @@
+POLIGONO 1:   text (axis label)
+	numero osservazioni:  16
+POLIGONO 2:   axis
+	numero osservazioni:  46
+POLIGONO 3:   axis
+	numero osservazioni:  22
+POLIGONO 4:   text (title)
+	numero osservazioni:  198
+POLIGONO 5:   legend
+	numero osservazioni:  25
+POLIGONO 6:   data
+	numero osservazioni:  247
+POLIGONO 8:   data (bars - 3d)
+	numero osservazioni:  125
+POLIGONO 9:   text (label)
+	numero osservazioni:  20
+POLIGONO 10:   text (label)
+	numero osservazioni:  8
+POLIGONO 11:   text (label)
+	numero osservazioni:  15
+POLIGONO 12:   text (title)
+	numero osservazioni:  9
+POLIGONO 13:   text (label)
+	numero osservazioni:  39
+POLIGONO 14:   text (label)
+	numero osservazioni:  13
+POLIGONO 15:   text (label)
+	numero osservazioni:  3

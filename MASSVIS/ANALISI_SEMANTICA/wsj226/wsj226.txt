@@ -1,0 +1,72 @@
+POLIGONO 1:   data (bars)
+	numero osservazioni:  67
+POLIGONO 2:   axis
+	numero osservazioni:  53
+POLIGONO 3:   axis
+	numero osservazioni:  2
+POLIGONO 4:   annotation
+	numero osservazioni:  22
+POLIGONO 5:   object (pictogram - argentina flag)
+	numero osservazioni:  4
+POLIGONO 6:   object (pictogram - australia flag)
+	numero osservazioni:  9
+POLIGONO 7:   object (pictogram - e.u. flag)
+	numero osservazioni:  8
+POLIGONO 8:   object (pictogram - kazakhstan flag)
+	numero osservazioni:  4
+POLIGONO 9:   object (pictogram - russia flag)
+	numero osservazioni:  3
+POLIGONO 10:   object (pictogram - us flag)
+	numero osservazioni:  7
+POLIGONO 11:   object (pictogram - silos)
+	numero osservazioni:  168
+POLIGONO 12:   object (pictogram - three story building)
+	numero osservazioni:  11
+POLIGONO 13:   text (source)
+	numero osservazioni:  8
+POLIGONO 14:   text (source)
+	numero osservazioni:  2
+POLIGONO 15:   text (label)
+	numero osservazioni:  23
+POLIGONO 16:   annotation
+	numero osservazioni:  53
+POLIGONO 17:   text (paragraph)
+	numero osservazioni:  202
+POLIGONO 18:   text (title)
+	numero osservazioni:  25
+POLIGONO 19:   text (label)
+	numero osservazioni:  1
+POLIGONO 20:   text (label)
+	numero osservazioni:  0
+POLIGONO 21:   text (label)
+	numero osservazioni:  0
+POLIGONO 22:   text (label)
+	numero osservazioni:  1
+POLIGONO 23:   text (label)
+	numero osservazioni:  3
+POLIGONO 24:   text (label)
+	numero osservazioni:  3
+POLIGONO 25:   text (label)
+	numero osservazioni:  8
+POLIGONO 26:   text (label)
+	numero osservazioni:  3
+POLIGONO 27:   text (label)
+	numero osservazioni:  3
+POLIGONO 28:   text (label)
+	numero osservazioni:  0
+POLIGONO 29:   text (label)
+	numero osservazioni:  5
+POLIGONO 30:   text (label)
+	numero osservazioni:  2
+POLIGONO 31:   text (label)
+	numero osservazioni:  2
+POLIGONO 32:   text (label)
+	numero osservazioni:  1
+POLIGONO 33:   text (label)
+	numero osservazioni:  1
+POLIGONO 34:   text (label)
+	numero osservazioni:  4
+POLIGONO 35:   text (label)
+	numero osservazioni:  4
+POLIGONO 36:   data
+	numero osservazioni:  185

@@ -1,0 +1,74 @@
+POLIGONO 1:   text (paragraph)
+	numero osservazioni:  249
+POLIGONO 2:   text (title)
+	numero osservazioni:  52
+POLIGONO 3:   data (bars)
+	numero osservazioni:  81
+POLIGONO 4:   text (label)
+	numero osservazioni:  0
+POLIGONO 5:   text (label)
+	numero osservazioni:  0
+POLIGONO 6:   text (label)
+	numero osservazioni:  0
+POLIGONO 7:   text (label)
+	numero osservazioni:  2
+POLIGONO 8:   text (label)
+	numero osservazioni:  0
+POLIGONO 9:   text (label)
+	numero osservazioni:  0
+POLIGONO 10:   text (label)
+	numero osservazioni:  0
+POLIGONO 11:   text (label)
+	numero osservazioni:  0
+POLIGONO 12:   text (label)
+	numero osservazioni:  0
+POLIGONO 13:   text (label)
+	numero osservazioni:  0
+POLIGONO 14:   text (label)
+	numero osservazioni:  0
+POLIGONO 15:   text (label)
+	numero osservazioni:  1
+POLIGONO 16:   text (label)
+	numero osservazioni:  0
+POLIGONO 17:   text (label)
+	numero osservazioni:  0
+POLIGONO 18:   text (label)
+	numero osservazioni:  0
+POLIGONO 19:   text (label)
+	numero osservazioni:  0
+POLIGONO 20:   text (label)
+	numero osservazioni:  1
+POLIGONO 21:   text (label)
+	numero osservazioni:  1
+POLIGONO 22:   text (label)
+	numero osservazioni:  2
+POLIGONO 23:   text (label)
+	numero osservazioni:  0
+POLIGONO 24:   text (label)
+	numero osservazioni:  1
+POLIGONO 25:   text (axis label)
+	numero osservazioni:  0
+POLIGONO 26:   text (axis label)
+	numero osservazioni:  1
+POLIGONO 27:   text (axis label)
+	numero osservazioni:  0
+POLIGONO 28:   text (axis label)
+	numero osservazioni:  1
+POLIGONO 29:   text (paragraph)
+	numero osservazioni:  17
+POLIGONO 30:   legend
+	numero osservazioni:  61
+POLIGONO 31:   axis
+	numero osservazioni:  2
+POLIGONO 32:   axis
+	numero osservazioni:  1
+POLIGONO 33:   axis
+	numero osservazioni:  8
+POLIGONO 34:   annotation
+	numero osservazioni:  0
+POLIGONO 35:   text (label)
+	numero osservazioni:  9
+POLIGONO 36:   text (label)
+	numero osservazioni:  11
+POLIGONO 37:   data
+	numero osservazioni:  200
