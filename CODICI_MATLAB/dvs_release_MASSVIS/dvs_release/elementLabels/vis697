@@ -1,0 +1,295 @@
+1, text (title), 135, 127
+1, text (title), 135, 68
+1, text (title), 492, 66
+1, text (title), 492, 131
+2, text (paragraph), 545, 133
+2, text (paragraph), 545, 68
+2, text (paragraph), 832, 64
+2, text (paragraph), 832, 107
+2, text (paragraph), 799, 133
+3, text (source), 742, 597
+3, text (source), 740, 577
+3, text (source), 875, 579
+3, text (source), 875, 601
+4, graphical element, 555, 581
+4, graphical element, 537, 560
+4, graphical element, 553, 538
+4, graphical element, 871, 542
+4, graphical element, 873, 577
+5, text, 578, 550
+5, text, 617, 552
+5, text, 619, 571
+5, text, 580, 571
+6, object (pictogram - social media logos), 629, 548
+6, object (pictogram - social media logos), 865, 550
+6, object (pictogram - social media logos), 865, 571
+6, object (pictogram - social media logos), 631, 573
+7, text (label), 168, 542
+7, text (label), 170, 166
+7, text (label), 256, 166
+7, text (label), 246, 542
+8, object (pictogram - sun and cloud), 469, 255
+8, object (pictogram - sun and cloud), 504, 214
+8, object (pictogram - sun and cloud), 471, 181
+8, object (pictogram - sun and cloud), 564, 138
+8, object (pictogram - sun and cloud), 654, 166
+8, object (pictogram - sun and cloud), 672, 214
+8, object (pictogram - sun and cloud), 682, 300
+8, object (pictogram - sun and cloud), 605, 328
+8, object (pictogram - sun and cloud), 582, 330
+8, object (pictogram - sun and cloud), 578, 310
+8, object (pictogram - sun and cloud), 521, 312
+8, object (pictogram - sun and cloud), 523, 300
+8, object (pictogram - sun and cloud), 594, 300
+8, object (pictogram - sun and cloud), 592, 269
+8, object (pictogram - sun and cloud), 525, 269
+8, object (pictogram - sun and cloud), 510, 291
+8, object (pictogram - sun and cloud), 498, 271
+8, object (pictogram - sun and cloud), 484, 257
+9, object (pictogram - cloud), 428, 209
+9, object (pictogram - cloud), 455, 172
+9, object (pictogram - cloud), 439, 158
+9, object (pictogram - cloud), 354, 211
+9, object (pictogram - cloud), 350, 238
+9, object (pictogram - cloud), 393, 252
+9, object (pictogram - cloud), 391, 238
+9, object (pictogram - cloud), 361, 236
+9, object (pictogram - cloud), 357, 213
+9, object (pictogram - cloud), 414, 211
+10, data (area), 416, 513
+10, data (area), 418, 472
+10, data (area), 434, 406
+10, data (area), 477, 376
+10, data (area), 484, 349
+10, data (area), 441, 330
+10, data (area), 438, 314
+10, data (area), 439, 281
+10, data (area), 424, 253
+10, data (area), 426, 236
+10, data (area), 438, 240
+10, data (area), 445, 248
+10, data (area), 455, 306
+10, data (area), 492, 335
+10, data (area), 498, 302
+10, data (area), 510, 302
+10, data (area), 512, 341
+10, data (area), 547, 378
+10, data (area), 582, 431
+10, data (area), 625, 470
+10, data (area), 625, 507
+10, data (area), 602, 521
+10, data (area), 570, 513
+10, data (area), 537, 495
+10, data (area), 525, 464
+10, data (area), 531, 417
+10, data (area), 521, 396
+10, data (area), 500, 402
+10, data (area), 447, 425
+10, data (area), 449, 484
+10, data (area), 441, 503
+11, text (label), 416, 232
+11, text (label), 361, 232
+11, text (label), 361, 216
+11, text (label), 418, 214
+12, annotation, 422, 222
+12, annotation, 434, 250
+12, annotation, 412, 240
+12, annotation, 359, 234
+12, annotation, 359, 213
+12, annotation, 420, 214
+13, annotation, 365, 308
+13, annotation, 365, 281
+13, annotation, 439, 281
+13, annotation, 457, 322
+13, annotation, 432, 308
+14, text (label), 373, 306
+14, text (label), 373, 285
+14, text (label), 439, 289
+14, text (label), 439, 306
+15, text (label), 525, 279
+15, text (label), 594, 279
+15, text (label), 592, 296
+15, text (label), 521, 296
+16, annotation, 512, 292
+16, annotation, 523, 273
+16, annotation, 594, 271
+16, annotation, 596, 300
+16, annotation, 525, 298
+16, annotation, 508, 316
+17, text (label), 520, 333
+17, text (label), 520, 318
+17, text (label), 576, 316
+17, text (label), 578, 337
+18, annotation, 498, 349
+18, annotation, 516, 312
+18, annotation, 578, 314
+18, annotation, 578, 341
+18, annotation, 518, 339
+19, text (label), 559, 355
+19, text (label), 646, 355
+19, text (label), 645, 370
+19, text (label), 561, 370
+20, annotation, 535, 388
+20, annotation, 553, 349
+20, annotation, 654, 349
+20, annotation, 650, 376
+20, annotation, 559, 376
+21, text (label), 383, 374
+21, text (label), 383, 355
+21, text (label), 471, 355
+21, text (label), 475, 374
+22, annotation, 488, 392
+22, annotation, 463, 376
+22, annotation, 379, 376
+22, annotation, 379, 349
+22, annotation, 471, 349
+23, text (label), 383, 408
+23, text (label), 383, 390
+23, text (label), 420, 390
+23, text (label), 420, 404
+24, annotation, 375, 384
+24, annotation, 424, 386
+24, annotation, 441, 423
+24, annotation, 418, 409
+24, annotation, 375, 409
+25, text (label), 348, 478
+25, text (label), 348, 458
+25, text (label), 420, 460
+25, text (label), 418, 474
+26, annotation, 346, 454
+26, annotation, 412, 450
+26, annotation, 434, 493
+26, annotation, 412, 482
+26, annotation, 344, 484
+27, text (label), 604, 402
+27, text (label), 604, 386
+27, text (label), 676, 386
+27, text (label), 676, 402
+28, annotation, 598, 382
+28, annotation, 678, 382
+28, annotation, 678, 408
+28, annotation, 605, 408
+28, annotation, 584, 425
+29, text (label), 625, 437
+29, text (label), 625, 452
+29, text (label), 584, 450
+29, text (label), 584, 433
+30, annotation, 563, 470
+30, annotation, 578, 431
+30, annotation, 631, 429
+30, annotation, 629, 456
+30, annotation, 580, 456
+31, text (label), 613, 476
+31, text (label), 615, 462
+31, text (label), 682, 462
+31, text (label), 680, 474
+32, annotation, 594, 495
+32, annotation, 611, 458
+32, annotation, 686, 458
+32, annotation, 684, 480
+32, annotation, 611, 486
+33, text (paragraph), 707, 413
+33, text (paragraph), 707, 205
+33, text (paragraph), 852, 207
+33, text (paragraph), 854, 351
+33, text (paragraph), 809, 411
+34, object (pictogram - sign), 697, 174
+34, object (pictogram - sign), 723, 175
+34, object (pictogram - sign), 723, 207
+34, object (pictogram - sign), 699, 207
+35, object (pictogram - motorcycle), 729, 174
+35, object (pictogram - motorcycle), 783, 172
+35, object (pictogram - motorcycle), 781, 205
+35, object (pictogram - motorcycle), 727, 205
+36, object (pictogram - first aid kit), 135, 199
+36, object (pictogram - first aid kit), 135, 166
+36, object (pictogram - first aid kit), 170, 164
+36, object (pictogram - first aid kit), 170, 203
+37, object (pictogram - road sign), 133, 242
+37, object (pictogram - road sign), 137, 209
+37, object (pictogram - road sign), 164, 209
+37, object (pictogram - road sign), 166, 240
+38, object (pictogram - male female icons), 135, 285
+38, object (pictogram - male female icons), 133, 250
+38, object (pictogram - male female icons), 166, 252
+38, object (pictogram - male female icons), 166, 285
+39, object (pictogram - birthday cake), 135, 328
+39, object (pictogram - birthday cake), 137, 294
+39, object (pictogram - birthday cake), 166, 292
+39, object (pictogram - birthday cake), 166, 331
+40, object (pictogram - clock), 133, 372
+40, object (pictogram - clock), 135, 337
+40, object (pictogram - clock), 166, 337
+40, object (pictogram - clock), 164, 370
+41, object (pictogram - calendar), 133, 411
+41, object (pictogram - calendar), 133, 378
+41, object (pictogram - calendar), 164, 380
+41, object (pictogram - calendar), 164, 411
+42, object (pictogram - speedometer), 133, 452
+42, object (pictogram - speedometer), 135, 421
+42, object (pictogram - speedometer), 166, 421
+42, object (pictogram - speedometer), 164, 454
+43, object (pictogram - cow), 133, 493
+43, object (pictogram - cow), 135, 462
+43, object (pictogram - cow), 164, 464
+43, object (pictogram - cow), 166, 497
+44, object (pictogram - skull and crossbones), 131, 538
+44, object (pictogram - skull and crossbones), 135, 507
+44, object (pictogram - skull and crossbones), 168, 507
+44, object (pictogram - skull and crossbones), 168, 540
+45, data (map), 287, 565
+45, data (map), 291, 528
+45, data (map), 346, 499
+45, data (map), 326, 454
+45, data (map), 330, 431
+45, data (map), 314, 398
+45, data (map), 367, 369
+45, data (map), 371, 324
+45, data (map), 346, 302
+45, data (map), 311, 242
+45, data (map), 324, 187
+45, data (map), 389, 172
+45, data (map), 457, 166
+45, data (map), 479, 181
+45, data (map), 510, 211
+45, data (map), 496, 236
+45, data (map), 512, 275
+45, data (map), 539, 287
+45, data (map), 553, 314
+45, data (map), 598, 345
+45, data (map), 639, 378
+45, data (map), 668, 411
+45, data (map), 662, 441
+45, data (map), 658, 495
+45, data (map), 674, 515
+45, data (map), 641, 532
+45, data (map), 604, 546
+45, data (map), 545, 548
+45, data (map), 502, 556
+45, data (map), 434, 554
+45, data (map), 389, 571
+45, data (map), 357, 565
+45, data (map), 313, 585
+46, object (pictogram - cloud), 588, 462
+46, object (pictogram - cloud), 590, 450
+46, object (pictogram - cloud), 641, 439
+46, object (pictogram - cloud), 670, 441
+46, object (pictogram - cloud), 670, 454
+46, object (pictogram - cloud), 646, 460
+46, object (pictogram - cloud), 613, 466
+47, data, 271, 597
+47, data, 291, 160
+47, data, 314, 144
+47, data, 574, 140
+47, data, 787, 156
+47, data, 869, 181
+47, data, 861, 423
+47, data, 713, 431
+47, data, 691, 542
+47, data, 555, 538
+47, data, 539, 560
+48, graphical element, 271, 207
+48, graphical element, 123, 203
+48, graphical element, 125, 158
+48, graphical element, 273, 156
+48, graphical element, 285, 181

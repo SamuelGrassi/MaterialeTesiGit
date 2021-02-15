@@ -1,0 +1,82 @@
+1, text (title), 555, 8
+1, text (title), 555, 22
+1, text (title), 489, 24
+1, text (title), 489, 40
+1, text (title), 753, 39
+1, text (title), 751, 20
+1, text (title), 697, 20
+1, text (title), 694, 6
+2, text (paragraph), 775, 31
+2, text (paragraph), 775, 45
+2, text (paragraph), 986, 42
+2, text (paragraph), 984, 27
+3, text (axis label), 266, 30
+3, text (axis label), 305, 30
+3, text (axis label), 305, 43
+3, text (axis label), 264, 44
+4, axis, 288, 340
+4, axis, 268, 340
+4, axis, 263, 41
+4, axis, 286, 41
+4, axis, 291, 42
+5, axis (time), 281, 371
+5, axis (time), 281, 332
+5, axis (time), 990, 332
+5, axis (time), 990, 372
+6, data, 293, 46
+6, data, 976, 46
+6, data, 976, 332
+6, data, 290, 333
+7, legend, 435, 75
+7, legend, 432, 45
+7, legend, 873, 45
+7, legend, 875, 78
+8, data (bars), 974, 195
+8, data (bars), 917, 242
+8, data (bars), 884, 242
+8, data (bars), 830, 215
+8, data (bars), 832, 153
+8, data (bars), 830, 85
+8, data (bars), 807, 78
+8, data (bars), 778, 98
+8, data (bars), 765, 205
+8, data (bars), 722, 194
+8, data (bars), 682, 194
+8, data (bars), 630, 194
+8, data (bars), 576, 205
+8, data (bars), 565, 212
+8, data (bars), 545, 164
+8, data (bars), 489, 127
+8, data (bars), 417, 127
+8, data (bars), 364, 143
+8, data (bars), 359, 186
+8, data (bars), 318, 186
+8, data (bars), 290, 210
+8, data (bars), 286, 335
+8, data (bars), 978, 334
+9, text (paragraph), 11, 66
+9, text (paragraph), 8, 179
+9, text (paragraph), 68, 171
+9, text (paragraph), 68, 139
+9, text (paragraph), 182, 141
+9, text (paragraph), 185, 71
+10, text (label), 489, 48
+10, text (label), 492, 74
+10, text (label), 448, 74
+10, text (label), 447, 48
+11, text (label), 589, 74
+11, text (label), 542, 74
+11, text (label), 540, 49
+11, text (label), 580, 50
+12, text (label), 673, 50
+12, text (label), 685, 75
+12, text (label), 632, 75
+12, text (label), 632, 48
+13, text (label), 778, 74
+13, text (label), 725, 75
+13, text (label), 727, 49
+13, text (label), 760, 49
+14, text (label), 857, 50
+14, text (label), 872, 75
+14, text (label), 817, 75
+14, text (label), 818, 48

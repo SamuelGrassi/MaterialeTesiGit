@@ -1,0 +1,251 @@
+1, text (title), 499, 534
+1, text (title), 578, 535
+1, text (title), 576, 553
+1, text (title), 498, 553
+2, text (source), 724, 554
+2, text (source), 724, 580
+2, text (source), 768, 578
+2, text (source), 768, 570
+2, text (source), 948, 569
+2, text (source), 947, 555
+3, text (paragraph), 499, 669
+3, text (paragraph), 498, 555
+3, text (paragraph), 717, 554
+3, text (paragraph), 721, 580
+3, text (paragraph), 718, 640
+3, text (paragraph), 708, 660
+3, text (paragraph), 583, 660
+3, text (paragraph), 579, 668
+4, text (paragraph), 726, 610
+4, text (paragraph), 725, 584
+4, text (paragraph), 941, 587
+4, text (paragraph), 938, 604
+4, text (paragraph), 845, 611
+5, text (label), 90, 602
+5, text (label), 98, 571
+5, text (label), 138, 571
+5, text (label), 141, 600
+6, text (label), 373, 601
+6, text (label), 383, 571
+6, text (label), 417, 574
+6, text (label), 423, 598
+7, legend, 81, 607
+7, legend, 86, 563
+7, legend, 420, 566
+7, legend, 430, 606
+8, data (points), 79, 191
+8, data (points), 108, 151
+8, data (points), 97, 129
+8, data (points), 71, 126
+8, data (points), 45, 134
+8, data (points), 45, 118
+8, data (points), 98, 97
+8, data (points), 126, 108
+8, data (points), 170, 110
+8, data (points), 202, 148
+8, data (points), 258, 150
+8, data (points), 313, 154
+8, data (points), 316, 169
+8, data (points), 294, 179
+8, data (points), 245, 205
+8, data (points), 226, 240
+8, data (points), 268, 262
+8, data (points), 273, 297
+8, data (points), 357, 352
+8, data (points), 350, 369
+8, data (points), 343, 395
+8, data (points), 333, 417
+8, data (points), 317, 424
+8, data (points), 310, 429
+8, data (points), 300, 444
+8, data (points), 285, 460
+8, data (points), 281, 499
+8, data (points), 281, 518
+8, data (points), 259, 524
+8, data (points), 253, 512
+8, data (points), 259, 489
+8, data (points), 267, 469
+8, data (points), 267, 459
+8, data (points), 259, 455
+8, data (points), 236, 458
+8, data (points), 239, 440
+8, data (points), 248, 431
+8, data (points), 251, 424
+8, data (points), 206, 379
+8, data (points), 218, 364
+8, data (points), 230, 384
+8, data (points), 266, 419
+8, data (points), 293, 424
+8, data (points), 317, 397
+8, data (points), 327, 377
+8, data (points), 343, 350
+8, data (points), 262, 302
+8, data (points), 245, 267
+8, data (points), 200, 262
+8, data (points), 190, 273
+8, data (points), 177, 284
+8, data (points), 147, 278
+8, data (points), 134, 267
+8, data (points), 126, 261
+8, data (points), 110, 242
+8, data (points), 79, 223
+9, data (points), 404, 199
+9, data (points), 427, 169
+9, data (points), 427, 138
+9, data (points), 435, 117
+9, data (points), 502, 80
+9, data (points), 547, 102
+9, data (points), 557, 115
+9, data (points), 614, 118
+9, data (points), 626, 139
+9, data (points), 613, 157
+9, data (points), 592, 164
+9, data (points), 573, 183
+9, data (points), 573, 201
+9, data (points), 571, 219
+9, data (points), 580, 246
+9, data (points), 623, 233
+9, data (points), 680, 215
+9, data (points), 698, 226
+9, data (points), 732, 244
+9, data (points), 772, 244
+9, data (points), 812, 243
+9, data (points), 827, 228
+9, data (points), 819, 196
+9, data (points), 829, 183
+9, data (points), 859, 165
+9, data (points), 877, 170
+9, data (points), 883, 194
+9, data (points), 880, 214
+9, data (points), 863, 240
+9, data (points), 853, 246
+9, data (points), 843, 272
+9, data (points), 854, 293
+9, data (points), 845, 308
+9, data (points), 827, 319
+9, data (points), 796, 360
+9, data (points), 778, 350
+9, data (points), 764, 329
+9, data (points), 751, 295
+9, data (points), 753, 278
+9, data (points), 748, 266
+9, data (points), 736, 258
+9, data (points), 712, 291
+9, data (points), 696, 319
+9, data (points), 684, 326
+9, data (points), 678, 313
+9, data (points), 681, 298
+9, data (points), 680, 273
+9, data (points), 675, 261
+9, data (points), 668, 243
+9, data (points), 635, 244
+9, data (points), 580, 262
+9, data (points), 560, 254
+9, data (points), 553, 241
+9, data (points), 525, 219
+9, data (points), 500, 213
+9, data (points), 475, 208
+9, data (points), 453, 209
+9, data (points), 443, 218
+9, data (points), 418, 238
+9, data (points), 399, 243
+9, data (points), 392, 233
+9, data (points), 393, 208
+10, data (points), 453, 316
+10, data (points), 453, 302
+10, data (points), 468, 302
+10, data (points), 471, 316
+11, data (points), 563, 326
+11, data (points), 578, 326
+11, data (points), 580, 344
+11, data (points), 562, 344
+12, data (points), 534, 418
+12, data (points), 551, 419
+12, data (points), 564, 444
+12, data (points), 540, 454
+12, data (points), 506, 459
+12, data (points), 498, 449
+12, data (points), 504, 441
+12, data (points), 540, 436
+13, data (points), 916, 399
+13, data (points), 928, 413
+13, data (points), 931, 427
+13, data (points), 930, 438
+13, data (points), 908, 464
+13, data (points), 886, 473
+13, data (points), 863, 471
+13, data (points), 858, 455
+13, data (points), 798, 451
+13, data (points), 797, 441
+13, data (points), 804, 436
+13, data (points), 811, 442
+13, data (points), 818, 447
+13, data (points), 858, 449
+13, data (points), 868, 444
+13, data (points), 880, 451
+13, data (points), 900, 445
+13, data (points), 907, 434
+13, data (points), 911, 417
+13, data (points), 911, 407
+14, data (points), 923, 489
+14, data (points), 973, 454
+14, data (points), 980, 467
+14, data (points), 972, 476
+14, data (points), 958, 489
+14, data (points), 932, 499
+14, data (points), 923, 499
+15, data (map), 227, 538
+15, data (map), 117, 430
+15, data (map), 99, 316
+15, data (map), 75, 243
+15, data (map), 58, 188
+15, data (map), 18, 154
+15, data (map), 18, 66
+15, data (map), 214, 58
+15, data (map), 310, 40
+15, data (map), 431, 46
+15, data (map), 480, 48
+15, data (map), 622, 42
+15, data (map), 694, 54
+15, data (map), 774, 59
+15, data (map), 816, 72
+15, data (map), 876, 74
+15, data (map), 929, 113
+15, data (map), 948, 143
+15, data (map), 952, 158
+15, data (map), 891, 160
+15, data (map), 898, 224
+15, data (map), 916, 249
+15, data (map), 963, 294
+15, data (map), 983, 306
+15, data (map), 981, 523
+15, data (map), 914, 527
+15, data (map), 887, 534
+15, data (map), 858, 538
+15, data (map), 668, 534
+15, data (map), 620, 524
+15, data (map), 578, 513
+15, data (map), 516, 517
+15, data (map), 477, 530
+15, data (map), 396, 549
+15, data (map), 324, 549
+16, data, 192, 535
+16, data, 93, 446
+16, data, 58, 317
+16, data, 41, 243
+16, data, 14, 200
+16, data, 18, 42
+16, data, 473, 28
+16, data, 983, 68
+16, data, 983, 303
+16, data, 983, 526
+16, data, 967, 544
+16, data, 608, 543
+16, data, 569, 529
+16, data, 525, 529
+16, data, 486, 531
+16, data, 437, 544
+16, data, 374, 554
+16, data, 277, 551
+16, data, 198, 548
+16, data, 195, 544

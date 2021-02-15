@@ -1,0 +1,85 @@
+1, graphical element (economist red square), 3, 47
+1, graphical element (economist red square), 20, 45
+1, graphical element (economist red square), 20, 2
+1, graphical element (economist red square), 0, 3
+2, text (title), 32, 18
+2, text (title), 499, 22
+2, text (title), 496, 62
+2, text (title), 34, 55
+3, text (axis label), 27, 66
+3, text (axis label), 427, 69
+3, text (axis label), 425, 103
+3, text (axis label), 24, 101
+4, axis (time), 76, 462
+4, axis (time), 76, 506
+4, axis (time), 945, 513
+4, axis (time), 941, 462
+5, axis, 69, 484
+5, axis, 29, 487
+5, axis, 30, 106
+5, axis, 77, 104
+6, axis, 943, 111
+6, axis, 945, 484
+6, axis, 966, 484
+6, axis, 968, 104
+7, text (axis label), 746, 72
+7, text (axis label), 982, 72
+7, text (axis label), 978, 103
+7, text (axis label), 738, 103
+8, text (source), 25, 526
+8, text (source), 580, 526
+8, text (source), 573, 556
+8, text (source), 30, 555
+9, text, 882, 521
+9, text, 884, 561
+9, text, 982, 555
+9, text, 978, 519
+10, data, 82, 106
+10, data, 943, 108
+10, data, 939, 464
+10, data, 71, 460
+11, data (bars), 82, 334
+11, data (bars), 82, 136
+11, data (bars), 150, 136
+11, data (bars), 239, 136
+11, data (bars), 373, 114
+11, data (bars), 506, 111
+11, data (bars), 528, 202
+11, data (bars), 571, 205
+11, data (bars), 654, 136
+11, data (bars), 743, 123
+11, data (bars), 850, 123
+11, data (bars), 939, 129
+11, data (bars), 934, 341
+11, data (bars), 872, 370
+11, data (bars), 758, 368
+11, data (bars), 682, 368
+11, data (bars), 573, 360
+11, data (bars), 566, 420
+11, data (bars), 492, 420
+11, data (bars), 491, 388
+11, data (bars), 462, 345
+11, data (bars), 303, 350
+11, data (bars), 168, 353
+11, data (bars), 96, 351
+11, data (bars), 89, 341
+12, data (line), 150, 301
+12, data (line), 97, 301
+12, data (line), 69, 299
+12, data (line), 71, 331
+12, data (line), 131, 339
+12, data (line), 195, 339
+12, data (line), 294, 339
+12, data (line), 432, 338
+12, data (line), 459, 303
+12, data (line), 508, 269
+12, data (line), 618, 192
+12, data (line), 721, 158
+12, data (line), 834, 158
+12, data (line), 943, 151
+12, data (line), 938, 109
+12, data (line), 645, 108
+12, data (line), 598, 146
+12, data (line), 491, 190
+12, data (line), 407, 249
+12, data (line), 318, 291

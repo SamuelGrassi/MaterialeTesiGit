@@ -1,0 +1,196 @@
+1, data (circle), 184, 236
+1, data (circle), 146, 241
+1, data (circle), 117, 261
+1, data (circle), 99, 281
+1, data (circle), 95, 321
+1, data (circle), 106, 348
+1, data (circle), 132, 367
+1, data (circle), 159, 380
+1, data (circle), 195, 376
+1, data (circle), 220, 358
+1, data (circle), 234, 330
+1, data (circle), 240, 301
+1, data (circle), 234, 272
+1, data (circle), 218, 265
+1, data (circle), 209, 259
+1, data (circle), 198, 245
+2, text (label), 238, 173
+2, text (label), 241, 220
+2, text (label), 301, 220
+2, text (label), 314, 223
+2, text (label), 312, 169
+3, text (label), 243, 315
+3, text (label), 243, 364
+3, text (label), 337, 362
+3, text (label), 337, 313
+4, text (label), 213, 389
+4, text (label), 211, 431
+4, text (label), 286, 432
+4, text (label), 285, 389
+5, text (label), 133, 393
+5, text (label), 135, 441
+5, text (label), 178, 440
+5, text (label), 184, 393
+6, text (label), 13, 358
+6, text (label), 13, 429
+6, text (label), 67, 431
+6, text (label), 126, 422
+6, text (label), 128, 378
+6, text (label), 99, 367
+6, text (label), 94, 360
+7, text (label), 7, 211
+7, text (label), 121, 213
+7, text (label), 119, 234
+7, text (label), 65, 240
+7, text (label), 61, 259
+7, text (label), 11, 261
+8, text (label), 132, 173
+8, text (label), 135, 220
+8, text (label), 189, 216
+8, text (label), 187, 168
+9, text, 79, 110
+9, text, 79, 133
+9, text, 267, 137
+9, text, 265, 112
+10, text, 404, 110
+10, text, 405, 135
+10, text, 613, 135
+10, text, 614, 104
+11, text, 735, 110
+11, text, 735, 141
+11, text, 937, 133
+11, text, 944, 104
+12, graphical element, 4, 110
+12, graphical element, 996, 106
+12, graphical element, 996, 141
+12, graphical element, 4, 137
+13, text (paragraph), 9, 494
+13, text (paragraph), 9, 515
+13, text (paragraph), 656, 513
+13, text (paragraph), 652, 492
+14, text (source), 9, 519
+14, text (source), 9, 533
+14, text (source), 277, 533
+14, text (source), 276, 515
+15, text (source), 832, 530
+15, text (source), 832, 517
+15, text (source), 989, 517
+15, text (source), 993, 530
+15, text (source), 993, 533
+16, text (label), 378, 366
+16, text (label), 380, 389
+16, text (label), 436, 389
+16, text (label), 436, 364
+17, text (label), 368, 231
+17, text (label), 368, 256
+17, text (label), 422, 254
+17, text (label), 422, 229
+18, text (label), 472, 178
+18, text (label), 472, 200
+18, text (label), 530, 202
+18, text (label), 524, 177
+19, text (label), 586, 200
+19, text (label), 586, 218
+19, text (label), 643, 223
+19, text (label), 643, 198
+20, text (label), 600, 328
+20, text (label), 600, 346
+20, text (label), 643, 346
+20, text (label), 643, 326
+21, text (label), 564, 378
+21, text (label), 566, 396
+21, text (label), 611, 400
+21, text (label), 611, 375
+22, text (label), 486, 400
+22, text (label), 486, 420
+22, text (label), 539, 416
+22, text (label), 539, 396
+23, text (label), 786, 148
+23, text (label), 786, 162
+23, text (label), 838, 164
+23, text (label), 836, 142
+24, text (label), 692, 193
+24, text (label), 692, 214
+24, text (label), 746, 214
+24, text (label), 746, 191
+25, text (label), 705, 360
+25, text (label), 703, 380
+25, text (label), 757, 378
+25, text (label), 759, 358
+26, text (label), 836, 402
+26, text (label), 838, 416
+26, text (label), 881, 414
+26, text (label), 881, 394
+27, text (label), 915, 375
+27, text (label), 915, 391
+27, text (label), 959, 391
+27, text (label), 959, 373
+28, text (label), 942, 324
+28, text (label), 941, 339
+28, text (label), 986, 340
+28, text (label), 986, 319
+29, text (label), 921, 164
+29, text (label), 921, 182
+29, text (label), 973, 184
+29, text (label), 973, 162
+30, text, 50, 454
+30, text, 50, 481
+30, text, 290, 485
+30, text, 288, 450
+31, text, 458, 456
+31, text, 456, 483
+31, text, 557, 483
+31, text, 553, 454
+32, text, 791, 458
+32, text, 793, 479
+32, text, 888, 481
+32, text, 888, 456
+33, graphical element, 4, 452
+33, graphical element, 5, 483
+33, graphical element, 996, 481
+33, graphical element, 995, 454
+34, text (paragraph), 4, 68
+34, text (paragraph), 4, 85
+34, text (paragraph), 986, 81
+34, text (paragraph), 982, 63
+35, text (title), 4, 14
+35, text (title), 7, 58
+35, text (title), 254, 54
+35, text (title), 252, 18
+36, data (circle), 456, 234
+36, data (circle), 486, 220
+36, data (circle), 524, 220
+36, data (circle), 555, 225
+36, data (circle), 566, 240
+36, data (circle), 580, 274
+36, data (circle), 589, 285
+36, data (circle), 589, 315
+36, data (circle), 575, 344
+36, data (circle), 559, 358
+36, data (circle), 544, 369
+36, data (circle), 519, 378
+36, data (circle), 488, 378
+36, data (circle), 447, 358
+36, data (circle), 429, 328
+36, data (circle), 423, 286
+37, data (circle), 768, 200
+37, data (circle), 818, 177
+37, data (circle), 843, 177
+37, data (circle), 868, 177
+37, data (circle), 895, 187
+37, data (circle), 919, 202
+37, data (circle), 941, 243
+37, data (circle), 942, 290
+37, data (circle), 932, 335
+37, data (circle), 906, 351
+37, data (circle), 877, 369
+37, data (circle), 836, 380
+37, data (circle), 775, 360
+37, data (circle), 755, 331
+37, data (circle), 739, 306
+37, data (circle), 737, 261
+37, data (circle), 746, 225
+38, data, 4, 99
+38, data, 4, 490
+38, data, 998, 488
+38, data, 996, 99

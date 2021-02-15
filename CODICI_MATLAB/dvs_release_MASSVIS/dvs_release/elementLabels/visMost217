@@ -1,0 +1,135 @@
+1, text (title), 10, 166
+1, text (title), 7, 103
+1, text (title), 36, 31
+1, text (title), 299, 9
+1, text (title), 318, 51
+1, text (title), 315, 116
+2, data (table), 10, 180
+2, data (table), 196, 183
+2, data (table), 196, 226
+2, data (table), 100, 228
+2, data (table), 113, 292
+2, data (table), 109, 323
+2, data (table), 27, 323
+2, data (table), 26, 375
+2, data (table), 196, 381
+2, data (table), 196, 415
+2, data (table), 86, 419
+2, data (table), 90, 568
+2, data (table), 272, 574
+2, data (table), 268, 607
+2, data (table), 94, 618
+2, data (table), 91, 734
+2, data (table), 138, 738
+2, data (table), 139, 783
+2, data (table), 96, 784
+2, data (table), 93, 820
+2, data (table), 113, 830
+2, data (table), 109, 871
+2, data (table), 17, 877
+3, object (pictogram - birds), 309, 244
+3, object (pictogram - birds), 206, 251
+3, object (pictogram - birds), 209, 311
+3, object (pictogram - birds), 112, 329
+3, object (pictogram - birds), 88, 342
+3, object (pictogram - birds), 89, 356
+3, object (pictogram - birds), 196, 361
+3, object (pictogram - birds), 293, 353
+3, object (pictogram - birds), 311, 343
+4, object (pictogram - birds), 212, 435
+4, object (pictogram - birds), 313, 438
+4, object (pictogram - birds), 321, 511
+4, object (pictogram - birds), 311, 548
+4, object (pictogram - birds), 251, 558
+4, object (pictogram - birds), 174, 546
+4, object (pictogram - birds), 174, 499
+5, object (pictogram - birds), 209, 625
+5, object (pictogram - birds), 316, 615
+5, object (pictogram - birds), 305, 675
+5, object (pictogram - birds), 276, 711
+5, object (pictogram - birds), 222, 711
+5, object (pictogram - birds), 212, 674
+6, object (pictogram - birds), 319, 787
+6, object (pictogram - birds), 308, 897
+6, object (pictogram - birds), 268, 907
+6, object (pictogram - birds), 186, 914
+6, object (pictogram - birds), 103, 906
+6, object (pictogram - birds), 86, 867
+6, object (pictogram - birds), 134, 863
+6, object (pictogram - birds), 233, 861
+6, object (pictogram - birds), 216, 811
+6, object (pictogram - birds), 219, 788
+7, object (pictogram - logos), 190, 941
+7, object (pictogram - logos), 301, 937
+7, object (pictogram - logos), 298, 989
+7, object (pictogram - logos), 189, 983
+7, object (pictogram - logos), 21, 986
+7, object (pictogram - logos), 13, 940
+8, text (source), 7, 931
+8, text (source), 298, 937
+8, text (source), 301, 991
+8, text (source), 14, 986
+9, object (pictogram - tree), 372, 0
+9, object (pictogram - tree), 373, 997
+9, object (pictogram - tree), 308, 999
+9, object (pictogram - tree), 302, 967
+9, object (pictogram - tree), 272, 946
+9, object (pictogram - tree), 241, 921
+9, object (pictogram - tree), 100, 906
+9, object (pictogram - tree), 218, 828
+9, object (pictogram - tree), 193, 739
+9, object (pictogram - tree), 198, 697
+9, object (pictogram - tree), 214, 664
+9, object (pictogram - tree), 223, 651
+9, object (pictogram - tree), 311, 649
+9, object (pictogram - tree), 313, 603
+9, object (pictogram - tree), 274, 604
+9, object (pictogram - tree), 274, 568
+9, object (pictogram - tree), 178, 551
+9, object (pictogram - tree), 216, 484
+9, object (pictogram - tree), 218, 471
+9, object (pictogram - tree), 315, 465
+9, object (pictogram - tree), 308, 363
+9, object (pictogram - tree), 241, 385
+9, object (pictogram - tree), 206, 383
+9, object (pictogram - tree), 146, 368
+9, object (pictogram - tree), 70, 379
+9, object (pictogram - tree), 33, 379
+9, object (pictogram - tree), 44, 322
+9, object (pictogram - tree), 78, 326
+9, object (pictogram - tree), 96, 342
+9, object (pictogram - tree), 301, 332
+9, object (pictogram - tree), 292, 315
+9, object (pictogram - tree), 264, 293
+9, object (pictogram - tree), 218, 295
+9, object (pictogram - tree), 221, 279
+9, object (pictogram - tree), 309, 269
+9, object (pictogram - tree), 313, 116
+9, object (pictogram - tree), 313, 44
+9, object (pictogram - tree), 285, 51
+9, object (pictogram - tree), 276, 30
+9, object (pictogram - tree), 293, 9
+9, object (pictogram - tree), 309, 1
+10, data, 7, 176
+10, data, 198, 178
+10, data, 198, 229
+10, data, 98, 228
+10, data, 110, 293
+10, data, 109, 326
+10, data, 29, 323
+10, data, 31, 376
+10, data, 193, 378
+10, data, 194, 412
+10, data, 90, 418
+10, data, 91, 563
+10, data, 273, 575
+10, data, 272, 607
+10, data, 93, 619
+10, data, 88, 731
+10, data, 138, 741
+10, data, 138, 781
+10, data, 98, 788
+10, data, 93, 817
+10, data, 116, 833
+10, data, 110, 870
+10, data, 14, 877

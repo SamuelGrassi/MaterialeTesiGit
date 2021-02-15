@@ -1,0 +1,28 @@
+1, legend, 61, 45
+1, legend, 61, 4
+1, legend, 133, 6
+1, legend, 133, 45
+2, text (title), 647, 43
+2, text (title), 133, 45
+2, text (title), 133, 6
+2, text (title), 647, 4
+3, data (grid/matrix), 61, 63
+3, data (grid/matrix), 654, 66
+3, data (grid/matrix), 654, 938
+3, data (grid/matrix), 61, 938
+4, text (source), 55, 947
+4, text (source), 172, 949
+4, text (source), 166, 994
+4, text (source), 57, 994
+5, axis, 8, 939
+5, axis, 0, 59
+5, axis, 64, 59
+5, axis, 63, 939
+6, axis, 654, 51
+6, axis, 654, 68
+6, axis, 57, 64
+6, axis, 57, 51
+7, data, 654, 66
+7, data, 658, 939
+7, data, 61, 936
+7, data, 61, 61

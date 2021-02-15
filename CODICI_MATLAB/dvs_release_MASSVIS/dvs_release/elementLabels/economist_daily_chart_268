@@ -1,0 +1,122 @@
+1, graphical element (economist red square), 17, 45
+1, graphical element (economist red square), 3, 45
+1, graphical element (economist red square), 0, 0
+1, graphical element (economist red square), 17, 2
+2, text (title), 34, 55
+2, text (title), 29, 20
+2, text (title), 529, 24
+2, text (title), 529, 54
+3, text (paragraph), 30, 81
+3, text (paragraph), 30, 55
+3, text (paragraph), 333, 55
+3, text (paragraph), 333, 81
+4, text, 531, 558
+4, text, 966, 558
+4, text, 968, 578
+4, text, 531, 578
+5, text (source), 32, 556
+5, text (source), 235, 558
+5, text (source), 232, 576
+5, text (source), 29, 578
+6, data (area), 29, 144
+6, data (area), 983, 148
+6, data (area), 982, 541
+6, data (area), 18, 541
+7, text (header row), 25, 143
+7, text (header row), 24, 104
+7, text (header row), 990, 97
+7, text (header row), 988, 146
+8, data (table), 20, 97
+8, data (table), 17, 549
+8, data (table), 985, 546
+8, data (table), 992, 99
+9, object (pictogram - british flag), 32, 281
+9, object (pictogram - british flag), 37, 151
+9, object (pictogram - british flag), 168, 155
+9, object (pictogram - british flag), 171, 223
+9, object (pictogram - british flag), 158, 265
+9, object (pictogram - british flag), 138, 286
+10, object (pictogram - german flag), 40, 312
+10, object (pictogram - german flag), 155, 311
+10, object (pictogram - german flag), 153, 407
+10, object (pictogram - german flag), 118, 425
+10, object (pictogram - german flag), 45, 412
+11, object (pictogram - german flag), 316, 437
+11, object (pictogram - german flag), 427, 438
+11, object (pictogram - german flag), 427, 484
+11, object (pictogram - german flag), 418, 516
+11, object (pictogram - german flag), 403, 531
+11, object (pictogram - german flag), 324, 534
+12, object (pictogram - french flag), 42, 432
+12, object (pictogram - french flag), 153, 435
+12, object (pictogram - french flag), 161, 486
+12, object (pictogram - french flag), 151, 507
+12, object (pictogram - french flag), 134, 533
+12, object (pictogram - french flag), 87, 538
+12, object (pictogram - french flag), 52, 522
+12, object (pictogram - french flag), 44, 472
+13, object (pictogram - american flag), 294, 282
+13, object (pictogram - american flag), 294, 146
+13, object (pictogram - american flag), 452, 146
+13, object (pictogram - american flag), 452, 200
+13, object (pictogram - american flag), 452, 234
+13, object (pictogram - american flag), 439, 257
+13, object (pictogram - american flag), 418, 269
+13, object (pictogram - american flag), 405, 287
+13, object (pictogram - american flag), 368, 291
+14, object (pictogram - american flag), 571, 281
+14, object (pictogram - american flag), 568, 160
+14, object (pictogram - american flag), 694, 161
+14, object (pictogram - american flag), 696, 213
+14, object (pictogram - american flag), 696, 240
+14, object (pictogram - american flag), 682, 270
+14, object (pictogram - american flag), 661, 286
+14, object (pictogram - american flag), 624, 292
+14, object (pictogram - american flag), 578, 287
+15, object (pictogram - american flag), 825, 413
+15, object (pictogram - american flag), 825, 302
+15, object (pictogram - american flag), 934, 302
+15, object (pictogram - american flag), 936, 358
+15, object (pictogram - american flag), 934, 385
+15, object (pictogram - american flag), 908, 418
+15, object (pictogram - american flag), 864, 422
+16, object (pictogram - japanese flag), 318, 413
+16, object (pictogram - japanese flag), 321, 318
+16, object (pictogram - japanese flag), 424, 318
+16, object (pictogram - japanese flag), 429, 371
+16, object (pictogram - japanese flag), 415, 398
+16, object (pictogram - japanese flag), 398, 413
+16, object (pictogram - japanese flag), 361, 420
+17, object (pictogram - japanese flag), 588, 531
+17, object (pictogram - japanese flag), 588, 442
+17, object (pictogram - japanese flag), 671, 445
+17, object (pictogram - japanese flag), 679, 492
+17, object (pictogram - japanese flag), 666, 531
+17, object (pictogram - japanese flag), 640, 534
+18, object (pictogram - chinese flag), 576, 412
+18, object (pictogram - chinese flag), 568, 302
+18, object (pictogram - chinese flag), 610, 294
+18, object (pictogram - chinese flag), 666, 294
+18, object (pictogram - chinese flag), 687, 309
+18, object (pictogram - chinese flag), 704, 360
+18, object (pictogram - chinese flag), 681, 400
+18, object (pictogram - chinese flag), 635, 418
+19, object (pictogram - chinese flag), 815, 284
+19, object (pictogram - chinese flag), 805, 150
+19, object (pictogram - chinese flag), 876, 144
+19, object (pictogram - chinese flag), 924, 151
+19, object (pictogram - chinese flag), 956, 190
+19, object (pictogram - chinese flag), 958, 240
+19, object (pictogram - chinese flag), 939, 259
+19, object (pictogram - chinese flag), 918, 284
+19, object (pictogram - chinese flag), 872, 289
+20, object (pictogram - indian flag), 834, 533
+20, object (pictogram - indian flag), 834, 444
+20, object (pictogram - indian flag), 934, 445
+20, object (pictogram - indian flag), 934, 504
+20, object (pictogram - indian flag), 921, 531
+20, object (pictogram - indian flag), 867, 536
+21, data, 12, 554
+21, data, 15, 92
+21, data, 997, 92
+21, data, 990, 554

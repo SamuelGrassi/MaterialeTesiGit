@@ -1,0 +1,16 @@
+1, text (header row), 3, 108
+1, text (header row), 4, 4
+1, text (header row), 998, 6
+1, text (header row), 995, 108
+2, text (paragraph), 2, 637
+2, text (paragraph), 998, 637
+2, text (paragraph), 998, 706
+2, text (paragraph), 0, 707
+3, data (table), 2, 632
+3, data (table), 2, 4
+3, data (table), 999, 2
+3, data (table), 999, 633
+4, data, 0, 634
+4, data, 2, 2
+4, data, 999, 1
+4, data, 999, 633

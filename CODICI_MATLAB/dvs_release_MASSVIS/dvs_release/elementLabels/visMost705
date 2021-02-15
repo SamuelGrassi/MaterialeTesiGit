@@ -1,0 +1,119 @@
+1, text (title), 26, 62
+1, text (title), 26, 30
+1, text (title), 318, 32
+1, text (title), 321, 60
+2, text (paragraph), 26, 65
+2, text (paragraph), 370, 64
+2, text (paragraph), 368, 90
+2, text (paragraph), 29, 94
+3, graphical element, 27, 110
+3, graphical element, 24, 97
+3, graphical element, 372, 96
+3, graphical element, 373, 109
+4, text (label), 140, 133
+4, text (label), 16, 131
+4, text (label), 16, 762
+4, text (label), 141, 762
+5, object (pictogram - knife blades), 141, 132
+5, object (pictogram - knife blades), 375, 131
+5, object (pictogram - knife blades), 369, 171
+5, object (pictogram - knife blades), 318, 259
+5, object (pictogram - knife blades), 308, 313
+5, object (pictogram - knife blades), 280, 398
+5, object (pictogram - knife blades), 271, 460
+5, object (pictogram - knife blades), 263, 513
+5, object (pictogram - knife blades), 254, 567
+5, object (pictogram - knife blades), 250, 621
+5, object (pictogram - knife blades), 234, 698
+5, object (pictogram - knife blades), 222, 763
+5, object (pictogram - knife blades), 195, 768
+5, object (pictogram - knife blades), 141, 765
+6, graphical element, 418, 44
+6, graphical element, 414, 29
+6, graphical element, 517, 29
+6, graphical element, 523, 2
+6, graphical element, 555, 0
+6, graphical element, 555, 46
+6, graphical element, 527, 51
+6, graphical element, 522, 44
+7, text, 432, 48
+7, text, 429, 870
+7, text, 551, 874
+7, text, 550, 47
+8, annotation, 429, 47
+8, annotation, 430, 840
+8, annotation, 304, 830
+8, annotation, 301, 841
+8, annotation, 288, 841
+8, annotation, 287, 831
+8, annotation, 168, 830
+8, annotation, 168, 844
+8, annotation, 151, 843
+8, annotation, 153, 831
+8, annotation, 38, 829
+8, annotation, 38, 840
+8, annotation, 27, 843
+8, annotation, 26, 780
+8, annotation, 181, 785
+8, annotation, 191, 766
+8, annotation, 192, 752
+8, annotation, 213, 722
+8, annotation, 211, 706
+8, annotation, 212, 688
+8, annotation, 229, 655
+8, annotation, 235, 638
+8, annotation, 243, 582
+8, annotation, 248, 546
+8, annotation, 251, 512
+8, annotation, 250, 457
+8, annotation, 268, 410
+8, annotation, 275, 379
+8, annotation, 272, 348
+8, annotation, 290, 308
+8, annotation, 302, 272
+8, annotation, 311, 239
+8, annotation, 333, 205
+8, annotation, 333, 172
+8, annotation, 366, 142
+8, annotation, 396, 100
+8, annotation, 417, 49
+9, text, 37, 885
+9, text, 40, 835
+9, text, 43, 830
+9, text, 410, 832
+9, text, 411, 886
+10, graphical element, 29, 913
+10, graphical element, 30, 897
+10, graphical element, 538, 896
+10, graphical element, 535, 915
+11, text (paragraph), 29, 951
+11, text (paragraph), 28, 916
+11, text (paragraph), 261, 921
+11, text (paragraph), 266, 945
+12, text (source), 374, 980
+12, text (source), 375, 916
+12, text (source), 535, 915
+12, text (source), 541, 979
+12, text (source), 383, 981
+13, object (pictogram - logo), 429, 961
+13, object (pictogram - logo), 375, 964
+13, object (pictogram - logo), 377, 918
+13, object (pictogram - logo), 427, 915
+14, data (table), 3, 122
+14, data (table), 365, 120
+14, data (table), 382, 80
+14, data (table), 413, 41
+14, data (table), 556, 46
+14, data (table), 552, 876
+14, data (table), 432, 871
+14, data (table), 415, 888
+14, data (table), 1, 887
+15, data, 1, 117
+15, data, 363, 126
+15, data, 380, 83
+15, data, 413, 46
+15, data, 559, 44
+15, data, 553, 871
+15, data, 430, 871
+15, data, 420, 890
+15, data, 1, 887

@@ -1,0 +1,93 @@
+1, text (label), 150, 530
+1, text (label), 150, 492
+1, text (label), 245, 495
+1, text (label), 243, 534
+2, data (points), 529, 63
+2, data (points), 556, 62
+2, data (points), 556, 90
+2, data (points), 526, 90
+3, data (points), 839, 253
+3, data (points), 868, 254
+3, data (points), 868, 290
+3, data (points), 841, 286
+4, data (points), 871, 471
+4, data (points), 903, 471
+4, data (points), 903, 507
+4, data (points), 870, 508
+5, data (points), 278, 234
+5, data (points), 303, 235
+5, data (points), 305, 264
+5, data (points), 280, 261
+6, data (points), 140, 86
+6, data (points), 138, 56
+6, data (points), 163, 56
+6, data (points), 163, 87
+7, data (line), 551, 34
+7, data (line), 603, 93
+7, data (line), 952, 304
+7, data (line), 950, 331
+7, data (line), 864, 330
+7, data (line), 714, 234
+7, data (line), 626, 152
+7, data (line), 580, 118
+7, data (line), 506, 81
+7, data (line), 482, 67
+7, data (line), 480, 37
+8, axis, 462, 369
+8, axis, 462, 324
+8, axis, 975, 329
+8, axis, 978, 367
+9, graphical element, 320, 42
+9, graphical element, 480, 30
+9, graphical element, 482, 42
+9, graphical element, 319, 53
+10, graphical element, 321, 279
+10, graphical element, 482, 324
+10, graphical element, 482, 337
+10, graphical element, 320, 292
+11, axis, 416, 187
+11, axis, 423, 37
+11, axis, 492, 35
+11, axis, 493, 331
+11, axis, 421, 333
+13, graphical element, 133, 287
+13, graphical element, 135, 43
+13, graphical element, 320, 44
+13, graphical element, 320, 286
+14, data (line), 149, 5
+14, data (line), 182, 70
+14, data (line), 303, 229
+14, data (line), 388, 318
+14, data (line), 534, 387
+14, data (line), 868, 470
+14, data (line), 987, 491
+14, data (line), 987, 538
+14, data (line), 814, 519
+14, data (line), 535, 470
+14, data (line), 347, 372
+14, data (line), 265, 269
+14, data (line), 184, 143
+14, data (line), 156, 94
+14, data (line), 123, 73
+14, data (line), 123, 4
+15, axis, 104, 594
+15, axis, 105, 541
+15, axis, 986, 541
+15, axis, 999, 540
+15, axis, 999, 593
+16, axis, 49, 1
+16, axis, 132, 0
+16, axis, 134, 554
+16, axis, 45, 558
+17, text (axis label), 29, 451
+17, text (axis label), 0, 450
+17, text (axis label), 0, 159
+17, text (axis label), 29, 159
+18, text (axis label), 445, 632
+18, text (axis label), 445, 597
+18, text (axis label), 668, 599
+18, text (axis label), 666, 631
+19, data, 986, 5
+19, data, 987, 550
+19, data, 123, 548
+19, data, 123, 4

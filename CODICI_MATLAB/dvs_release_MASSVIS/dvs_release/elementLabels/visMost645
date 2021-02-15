@@ -1,0 +1,161 @@
+1, text (title), 13, 11
+1, text (title), 13, 51
+1, text (title), 694, 47
+1, text (title), 694, 9
+2, text (paragraph), 11, 58
+2, text (paragraph), 8, 85
+2, text (paragraph), 8, 90
+2, text (paragraph), 720, 86
+2, text (paragraph), 724, 55
+2, text (paragraph), 36, 60
+3, text (label), 24, 107
+3, text (label), 23, 133
+3, text (label), 199, 133
+3, text (label), 207, 117
+3, text (label), 205, 100
+4, text (label), 402, 113
+4, text (label), 414, 128
+4, text (label), 647, 130
+4, text (label), 653, 111
+7, text (label), 239, 339
+7, text (label), 232, 372
+7, text (label), 299, 372
+7, text (label), 289, 333
+7, text (label), 252, 329
+8, text (label), 34, 362
+8, text (label), 33, 396
+8, text (label), 137, 392
+8, text (label), 132, 364
+9, object (pictogram - man), 168, 224
+9, object (pictogram - man), 173, 292
+9, object (pictogram - man), 226, 282
+9, object (pictogram - man), 224, 223
+10, text (label), 418, 235
+10, text (label), 414, 262
+10, text (label), 496, 263
+10, text (label), 499, 231
+11, text (label), 423, 383
+11, text (label), 423, 400
+11, text (label), 724, 393
+11, text (label), 720, 372
+12, object (pictogram - electronic device), 419, 164
+12, object (pictogram - electronic device), 425, 205
+12, object (pictogram - electronic device), 474, 224
+12, object (pictogram - electronic device), 503, 195
+12, object (pictogram - electronic device), 468, 163
+14, text (label), 9, 417
+14, text (label), 9, 448
+14, text (label), 301, 440
+14, text (label), 293, 406
+15, text (label), 404, 411
+15, text (label), 406, 442
+15, text (label), 653, 442
+15, text (label), 656, 410
+17, text (label), 448, 455
+17, text (label), 448, 481
+17, text (label), 534, 481
+17, text (label), 531, 457
+18, text (label), 600, 453
+18, text (label), 600, 483
+18, text (label), 679, 483
+18, text (label), 688, 449
+19, object (pictogram - cartoon), 429, 496
+19, object (pictogram - cartoon), 435, 638
+19, object (pictogram - cartoon), 541, 636
+19, object (pictogram - cartoon), 542, 500
+20, object (pictogram - cartoon), 594, 498
+20, object (pictogram - cartoon), 593, 642
+20, object (pictogram - cartoon), 700, 642
+20, object (pictogram - cartoon), 697, 498
+21, text (label), 17, 722
+21, text (label), 17, 742
+21, text (label), 444, 746
+21, text (label), 444, 723
+22, object (pictogram - people), 27, 755
+22, object (pictogram - people), 28, 930
+22, object (pictogram - people), 745, 929
+22, object (pictogram - people), 743, 733
+23, text (source), 24, 949
+23, text (source), 24, 973
+23, text (source), 466, 977
+23, text (source), 465, 951
+24, data, 17, 938
+24, data, 752, 934
+24, data, 738, 96
+24, data, 19, 96
+25, data (diagram), 362, 406
+25, data (diagram), 361, 136
+25, data (diagram), 24, 139
+25, data (diagram), 30, 404
+26, object (pictogram - man), 678, 222
+26, object (pictogram - man), 680, 169
+26, object (pictogram - man), 707, 135
+26, object (pictogram - man), 735, 164
+26, object (pictogram - man), 735, 211
+26, object (pictogram - man), 725, 222
+27, data (diagram), 396, 137
+27, data (diagram), 738, 139
+27, data (diagram), 731, 409
+27, data (diagram), 395, 405
+28, text (label), 161, 514
+28, text (label), 139, 480
+28, text (label), 187, 473
+28, text (label), 240, 482
+28, text (label), 213, 515
+29, text (label), 252, 549
+29, text (label), 302, 551
+29, text (label), 302, 581
+29, text (label), 253, 583
+30, text (label), 145, 649
+30, text (label), 218, 647
+30, text (label), 219, 678
+30, text (label), 148, 680
+31, text (label), 56, 592
+31, text (label), 58, 552
+31, text (label), 137, 557
+31, text (label), 137, 598
+33, text (label), 438, 670
+33, text (label), 441, 642
+33, text (label), 543, 644
+33, text (label), 541, 668
+34, text (label), 585, 670
+34, text (label), 585, 642
+34, text (label), 699, 644
+34, text (label), 694, 670
+35, data (diagram), 406, 702
+35, data (diagram), 406, 438
+35, data (diagram), 738, 445
+35, data (diagram), 738, 708
+36, data (diagram), 32, 705
+36, data (diagram), 29, 451
+36, data (diagram), 353, 452
+36, data (diagram), 356, 707
+37, object (pictogram - logos), 116, 786
+37, object (pictogram - logos), 33, 786
+37, object (pictogram - logos), 34, 760
+37, object (pictogram - logos), 113, 760
+38, data (table), 746, 86
+38, data (table), 757, 939
+38, data (table), 11, 940
+38, data (table), 17, 90
+39, object (pictogram - computer), 430, 362
+39, object (pictogram - computer), 425, 301
+39, object (pictogram - computer), 487, 292
+39, object (pictogram - computer), 481, 367
+40, object (pictogram - laptop), 532, 327
+40, object (pictogram - laptop), 567, 285
+40, object (pictogram - laptop), 609, 312
+40, object (pictogram - laptop), 593, 358
+40, object (pictogram - laptop), 561, 364
+41, object (pictogram - tablet), 643, 338
+41, object (pictogram - tablet), 654, 295
+41, object (pictogram - tablet), 731, 314
+41, object (pictogram - tablet), 716, 364
+42, text (label), 40, 192
+42, text (label), 124, 193
+42, text (label), 102, 222
+42, text (label), 58, 223
+43, text (label), 256, 164
+43, text (label), 321, 166
+43, text (label), 318, 186
+43, text (label), 253, 187

@@ -1,0 +1,138 @@
+1, text (label), 510, 240
+1, text (label), 516, 96
+1, text (label), 979, 96
+1, text (label), 973, 236
+2, text (label), 510, 262
+2, text (label), 795, 262
+2, text (label), 799, 297
+2, text (label), 971, 293
+2, text (label), 971, 338
+2, text (label), 799, 338
+2, text (label), 797, 385
+2, text (label), 514, 379
+3, text (label), 508, 403
+3, text (label), 801, 404
+3, text (label), 799, 537
+3, text (label), 508, 537
+4, text (label), 510, 549
+4, text (label), 801, 549
+4, text (label), 816, 576
+4, text (label), 914, 580
+4, text (label), 943, 594
+4, text (label), 975, 594
+4, text (label), 973, 660
+4, text (label), 814, 660
+4, text (label), 785, 680
+4, text (label), 508, 682
+5, text (source), 8, 707
+5, text (source), 146, 709
+5, text (source), 145, 721
+5, text (source), 8, 721
+6, text (source), 902, 698
+6, text (source), 992, 696
+6, text (source), 990, 719
+6, text (source), 938, 719
+6, text (source), 902, 709
+8, data (area), 131, 694
+8, data (area), 105, 688
+8, data (area), 117, 670
+8, data (area), 168, 614
+8, data (area), 129, 590
+8, data (area), 129, 557
+8, data (area), 150, 551
+8, data (area), 166, 510
+8, data (area), 145, 514
+8, data (area), 150, 487
+8, data (area), 156, 457
+8, data (area), 156, 457
+8, data (area), 146, 426
+8, data (area), 92, 434
+8, data (area), 23, 420
+8, data (area), 6, 393
+8, data (area), 29, 360
+8, data (area), 80, 342
+8, data (area), 72, 307
+8, data (area), 55, 258
+8, data (area), 33, 223
+8, data (area), 31, 170
+8, data (area), 51, 123
+8, data (area), 82, 98
+8, data (area), 137, 92
+8, data (area), 221, 92
+8, data (area), 223, 119
+8, data (area), 189, 152
+8, data (area), 184, 166
+8, data (area), 229, 162
+8, data (area), 268, 166
+8, data (area), 266, 199
+8, data (area), 240, 262
+8, data (area), 236, 277
+8, data (area), 275, 313
+8, data (area), 291, 363
+8, data (area), 305, 383
+8, data (area), 344, 420
+8, data (area), 352, 463
+8, data (area), 365, 494
+8, data (area), 398, 500
+8, data (area), 418, 518
+8, data (area), 408, 555
+8, data (area), 391, 584
+8, data (area), 379, 596
+8, data (area), 402, 600
+8, data (area), 398, 621
+8, data (area), 381, 639
+8, data (area), 332, 651
+8, data (area), 275, 660
+8, data (area), 234, 662
+8, data (area), 201, 678
+8, data (area), 189, 682
+8, data (area), 152, 684
+10, data, 98, 692
+10, data, 113, 666
+10, data, 158, 616
+10, data, 121, 592
+10, data, 127, 551
+10, data, 148, 522
+10, data, 135, 512
+10, data, 145, 436
+10, data, 74, 436
+10, data, 12, 418
+10, data, 4, 387
+10, data, 25, 356
+10, data, 74, 338
+10, data, 29, 223
+10, data, 25, 164
+10, data, 45, 115
+10, data, 78, 92
+10, data, 221, 94
+10, data, 990, 94
+10, data, 988, 690
+11, text (title), 6, 84
+11, text (title), 6, 6
+11, text (title), 816, 8
+11, text (title), 814, 82
+12, graphical element, 947, 537
+12, graphical element, 500, 537
+12, graphical element, 426, 672
+12, graphical element, 111, 676
+12, graphical element, 111, 684
+12, graphical element, 436, 686
+12, graphical element, 504, 549
+12, graphical element, 988, 547
+12, graphical element, 988, 537
+13, graphical element, 164, 594
+13, graphical element, 164, 578
+13, graphical element, 426, 580
+13, graphical element, 498, 385
+13, graphical element, 992, 385
+13, graphical element, 990, 401
+13, graphical element, 508, 403
+13, graphical element, 438, 590
+14, graphical element, 428, 551
+14, graphical element, 498, 236
+14, graphical element, 990, 236
+14, graphical element, 990, 248
+14, graphical element, 506, 250
+14, graphical element, 434, 557
+14, graphical element, 145, 559
+14, graphical element, 143, 551

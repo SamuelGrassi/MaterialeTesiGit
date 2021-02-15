@@ -1,0 +1,336 @@
+1, text (title), 85, 638
+1, text (title), 81, 19
+1, text (title), 12, 21
+1, text (title), 13, 638
+2, data (circle), 319, 574
+2, data (circle), 306, 499
+2, data (circle), 346, 445
+2, data (circle), 447, 445
+2, data (circle), 478, 496
+2, data (circle), 493, 549
+2, data (circle), 473, 573
+2, data (circle), 425, 590
+2, data (circle), 350, 591
+3, text (title), 365, 518
+3, text (title), 481, 520
+3, text (title), 483, 549
+3, text (title), 444, 551
+3, text (title), 367, 550
+4, text (label), 476, 512
+4, text (label), 436, 513
+4, text (label), 410, 480
+4, text (label), 377, 484
+4, text (label), 359, 505
+4, text (label), 353, 540
+4, text (label), 362, 553
+4, text (label), 384, 564
+4, text (label), 435, 553
+4, text (label), 469, 556
+4, text (label), 462, 570
+4, text (label), 406, 584
+4, text (label), 384, 589
+4, text (label), 338, 570
+4, text (label), 317, 536
+4, text (label), 311, 496
+4, text (label), 342, 465
+4, text (label), 348, 450
+4, text (label), 422, 451
+4, text (label), 445, 461
+4, text (label), 474, 493
+5, legend, 283, 589
+5, legend, 860, 590
+5, legend, 859, 630
+5, legend, 282, 632
+6, object (pictogram - car company logos), 641, 610
+6, object (pictogram - car company logos), 642, 631
+6, object (pictogram - car company logos), 281, 633
+6, object (pictogram - car company logos), 282, 589
+6, object (pictogram - car company logos), 642, 590
+7, text (paragraph), 283, 639
+7, text (paragraph), 770, 639
+7, text (paragraph), 769, 650
+7, text (paragraph), 284, 650
+8, text (source), 283, 659
+8, text (source), 283, 650
+8, text (source), 393, 649
+8, text (source), 394, 659
+9, text (label), 130, 229
+9, text (label), 132, 205
+9, text (label), 170, 210
+9, text (label), 170, 231
+10, text (label), 130, 274
+10, text (label), 164, 272
+10, text (label), 168, 293
+10, text (label), 132, 293
+11, text (label), 205, 274
+11, text (label), 209, 250
+11, text (label), 269, 251
+11, text (label), 270, 287
+11, text (label), 221, 289
+12, text (label), 100, 328
+12, text (label), 132, 330
+12, text (label), 203, 342
+12, text (label), 247, 355
+12, text (label), 265, 394
+12, text (label), 244, 410
+12, text (label), 228, 425
+12, text (label), 232, 462
+12, text (label), 190, 466
+12, text (label), 173, 427
+12, text (label), 136, 410
+12, text (label), 108, 372
+12, text (label), 97, 345
+13, text (label), 201, 505
+13, text (label), 226, 513
+13, text (label), 242, 536
+13, text (label), 262, 529
+13, text (label), 248, 501
+13, text (label), 256, 445
+13, text (label), 273, 403
+13, text (label), 357, 403
+13, text (label), 357, 437
+13, text (label), 325, 437
+13, text (label), 295, 432
+13, text (label), 282, 465
+13, text (label), 297, 502
+13, text (label), 307, 539
+13, text (label), 301, 551
+13, text (label), 238, 560
+13, text (label), 220, 556
+13, text (label), 180, 526
+13, text (label), 183, 509
+14, text (label), 304, 278
+14, text (label), 309, 212
+14, text (label), 351, 198
+14, text (label), 387, 167
+14, text (label), 399, 155
+14, text (label), 422, 155
+14, text (label), 451, 181
+14, text (label), 469, 174
+14, text (label), 538, 175
+14, text (label), 555, 205
+14, text (label), 564, 266
+14, text (label), 579, 284
+14, text (label), 594, 261
+14, text (label), 636, 269
+14, text (label), 685, 293
+14, text (label), 719, 335
+14, text (label), 737, 327
+14, text (label), 848, 334
+14, text (label), 850, 355
+14, text (label), 817, 359
+14, text (label), 822, 388
+14, text (label), 832, 398
+14, text (label), 843, 367
+14, text (label), 887, 373
+14, text (label), 879, 400
+14, text (label), 847, 410
+14, text (label), 881, 415
+14, text (label), 877, 443
+14, text (label), 842, 436
+14, text (label), 827, 410
+14, text (label), 818, 422
+14, text (label), 769, 419
+14, text (label), 768, 355
+14, text (label), 730, 348
+14, text (label), 711, 357
+14, text (label), 664, 353
+14, text (label), 649, 410
+14, text (label), 613, 434
+14, text (label), 586, 445
+14, text (label), 604, 466
+14, text (label), 636, 484
+14, text (label), 634, 504
+14, text (label), 589, 510
+14, text (label), 524, 537
+14, text (label), 500, 533
+14, text (label), 478, 482
+14, text (label), 480, 437
+14, text (label), 447, 433
+14, text (label), 408, 427
+14, text (label), 365, 408
+14, text (label), 352, 392
+14, text (label), 346, 366
+14, text (label), 341, 329
+14, text (label), 353, 314
+14, text (label), 383, 307
+14, text (label), 346, 287
+15, text (label), 626, 233
+15, text (label), 672, 229
+15, text (label), 672, 260
+15, text (label), 628, 257
+16, text (label), 654, 178
+16, text (label), 654, 154
+16, text (label), 686, 155
+16, text (label), 686, 183
+17, text (label), 743, 304
+17, text (label), 741, 278
+17, text (label), 770, 278
+17, text (label), 774, 304
+18, text (label), 702, 392
+18, text (label), 701, 368
+18, text (label), 760, 363
+18, text (label), 759, 404
+19, text (label), 757, 493
+19, text (label), 893, 499
+19, text (label), 895, 524
+19, text (label), 811, 529
+19, text (label), 765, 525
+19, text (label), 752, 499
+20, text (label), 945, 573
+20, text (label), 995, 572
+20, text (label), 995, 599
+20, text (label), 942, 597
+21, text (label), 836, 287
+21, text (label), 848, 266
+21, text (label), 921, 281
+21, text (label), 915, 301
+22, data (map), 85, 0
+22, data (map), 915, 5
+22, data (map), 999, 112
+22, data (map), 996, 657
+22, data (map), 86, 658
+23, data, 920, 1
+23, data, 999, 111
+23, data, 996, 659
+23, data, 84, 657
+23, data, 84, 1
+24, graphical element, 997, 0
+24, graphical element, 998, 112
+24, graphical element, 917, 2
+25, object (pictogram - hyundai logo), 100, 124
+25, object (pictogram - hyundai logo), 162, 95
+25, object (pictogram - hyundai logo), 249, 115
+25, object (pictogram - hyundai logo), 259, 148
+25, object (pictogram - hyundai logo), 247, 189
+25, object (pictogram - hyundai logo), 271, 200
+25, object (pictogram - hyundai logo), 280, 230
+25, object (pictogram - hyundai logo), 91, 234
+25, object (pictogram - hyundai logo), 82, 233
+25, object (pictogram - hyundai logo), 84, 196
+25, object (pictogram - hyundai logo), 136, 189
+25, object (pictogram - hyundai logo), 117, 174
+25, object (pictogram - hyundai logo), 101, 159
+25, object (pictogram - hyundai logo), 99, 134
+26, object (pictogram - volkswagen logo), 89, 325
+26, object (pictogram - volkswagen logo), 104, 312
+26, object (pictogram - volkswagen logo), 125, 324
+26, object (pictogram - volkswagen logo), 132, 345
+26, object (pictogram - volkswagen logo), 146, 357
+26, object (pictogram - volkswagen logo), 156, 345
+26, object (pictogram - volkswagen logo), 168, 345
+26, object (pictogram - volkswagen logo), 159, 363
+26, object (pictogram - volkswagen logo), 152, 373
+26, object (pictogram - volkswagen logo), 121, 371
+26, object (pictogram - volkswagen logo), 106, 363
+26, object (pictogram - volkswagen logo), 97, 352
+27, object (pictogram - volkswagen logo), 333, 445
+27, object (pictogram - volkswagen logo), 317, 474
+27, object (pictogram - volkswagen logo), 306, 505
+27, object (pictogram - volkswagen logo), 289, 526
+27, object (pictogram - volkswagen logo), 271, 547
+27, object (pictogram - volkswagen logo), 254, 568
+27, object (pictogram - volkswagen logo), 241, 579
+27, object (pictogram - volkswagen logo), 220, 568
+27, object (pictogram - volkswagen logo), 215, 553
+27, object (pictogram - volkswagen logo), 227, 499
+27, object (pictogram - volkswagen logo), 241, 493
+27, object (pictogram - volkswagen logo), 253, 486
+27, object (pictogram - volkswagen logo), 254, 478
+27, object (pictogram - volkswagen logo), 245, 466
+27, object (pictogram - volkswagen logo), 224, 459
+27, object (pictogram - volkswagen logo), 200, 458
+27, object (pictogram - volkswagen logo), 206, 448
+27, object (pictogram - volkswagen logo), 224, 419
+27, object (pictogram - volkswagen logo), 248, 410
+27, object (pictogram - volkswagen logo), 254, 415
+27, object (pictogram - volkswagen logo), 270, 415
+27, object (pictogram - volkswagen logo), 281, 421
+27, object (pictogram - volkswagen logo), 323, 436
+28, object (pictogram - volkswagen logo), 655, 269
+28, object (pictogram - volkswagen logo), 679, 263
+28, object (pictogram - volkswagen logo), 707, 238
+28, object (pictogram - volkswagen logo), 723, 251
+28, object (pictogram - volkswagen logo), 779, 264
+28, object (pictogram - volkswagen logo), 788, 248
+28, object (pictogram - volkswagen logo), 800, 260
+28, object (pictogram - volkswagen logo), 806, 293
+28, object (pictogram - volkswagen logo), 802, 322
+28, object (pictogram - volkswagen logo), 780, 345
+28, object (pictogram - volkswagen logo), 765, 341
+28, object (pictogram - volkswagen logo), 759, 328
+28, object (pictogram - volkswagen logo), 732, 326
+28, object (pictogram - volkswagen logo), 722, 327
+28, object (pictogram - volkswagen logo), 705, 318
+28, object (pictogram - volkswagen logo), 688, 300
+28, object (pictogram - volkswagen logo), 675, 290
+28, object (pictogram - volkswagen logo), 667, 288
+28, object (pictogram - volkswagen logo), 661, 276
+29, object (pictogram - toyota logo), 459, 354
+29, object (pictogram - toyota logo), 479, 341
+29, object (pictogram - toyota logo), 489, 344
+29, object (pictogram - toyota logo), 519, 351
+29, object (pictogram - toyota logo), 556, 350
+29, object (pictogram - toyota logo), 560, 338
+29, object (pictogram - toyota logo), 556, 322
+29, object (pictogram - toyota logo), 570, 304
+29, object (pictogram - toyota logo), 585, 304
+29, object (pictogram - toyota logo), 624, 346
+29, object (pictogram - toyota logo), 628, 362
+29, object (pictogram - toyota logo), 588, 377
+29, object (pictogram - toyota logo), 596, 390
+29, object (pictogram - toyota logo), 595, 408
+29, object (pictogram - toyota logo), 575, 431
+29, object (pictogram - toyota logo), 557, 447
+29, object (pictogram - toyota logo), 575, 464
+29, object (pictogram - toyota logo), 557, 490
+29, object (pictogram - toyota logo), 545, 503
+29, object (pictogram - toyota logo), 509, 503
+29, object (pictogram - toyota logo), 478, 496
+29, object (pictogram - toyota logo), 481, 474
+29, object (pictogram - toyota logo), 483, 445
+29, object (pictogram - toyota logo), 475, 431
+29, object (pictogram - toyota logo), 468, 413
+29, object (pictogram - toyota logo), 454, 405
+29, object (pictogram - toyota logo), 446, 379
+30, object (pictogram - lada logo), 554, 159
+30, object (pictogram - lada logo), 571, 119
+30, object (pictogram - lada logo), 612, 101
+30, object (pictogram - lada logo), 646, 89
+30, object (pictogram - lada logo), 700, 82
+30, object (pictogram - lada logo), 723, 85
+30, object (pictogram - lada logo), 801, 97
+30, object (pictogram - lada logo), 850, 125
+30, object (pictogram - lada logo), 855, 153
+30, object (pictogram - lada logo), 844, 188
+30, object (pictogram - lada logo), 825, 202
+30, object (pictogram - lada logo), 800, 213
+30, object (pictogram - lada logo), 769, 220
+30, object (pictogram - lada logo), 685, 227
+30, object (pictogram - lada logo), 604, 216
+30, object (pictogram - lada logo), 570, 198
+30, object (pictogram - lada logo), 557, 176
+31, object (pictogram - holden logo), 903, 487
+31, object (pictogram - holden logo), 918, 515
+31, object (pictogram - holden logo), 906, 546
+31, object (pictogram - holden logo), 889, 566
+31, object (pictogram - holden logo), 875, 564
+31, object (pictogram - holden logo), 868, 552
+31, object (pictogram - holden logo), 863, 544
+31, object (pictogram - holden logo), 847, 544
+31, object (pictogram - holden logo), 836, 552
+31, object (pictogram - holden logo), 825, 549
+31, object (pictogram - holden logo), 823, 538
+31, object (pictogram - holden logo), 818, 516
+31, object (pictogram - holden logo), 827, 484
+31, object (pictogram - holden logo), 846, 470
+31, object (pictogram - holden logo), 869, 465
+31, object (pictogram - holden logo), 886, 468
+32, text (label), 646, 602
+32, text (label), 748, 605
+32, text (label), 748, 619
+32, text (label), 644, 621
+33, text (label), 782, 619
+33, text (label), 781, 603
+33, text (label), 829, 605
+33, text (label), 826, 617

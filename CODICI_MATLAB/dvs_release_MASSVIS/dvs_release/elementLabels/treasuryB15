@@ -1,0 +1,143 @@
+1, text (label), 715, 201
+1, text (label), 834, 202
+1, text (label), 834, 177
+1, text (label), 709, 180
+2, text (label), 786, 241
+2, text (label), 789, 259
+2, text (label), 883, 259
+2, text (label), 886, 240
+3, text (label), 752, 292
+3, text (label), 747, 319
+3, text (label), 849, 313
+3, text (label), 852, 290
+4, text (label), 682, 353
+4, text (label), 685, 375
+4, text (label), 753, 372
+4, text (label), 750, 352
+5, text (label), 627, 319
+5, text (label), 628, 340
+5, text (label), 686, 343
+5, text (label), 686, 317
+6, text (label), 564, 366
+6, text (label), 564, 389
+6, text (label), 637, 384
+6, text (label), 637, 366
+7, text (label), 499, 477
+7, text (label), 500, 497
+7, text (label), 558, 496
+7, text (label), 564, 475
+8, text (label), 478, 502
+8, text (label), 478, 515
+8, text (label), 549, 517
+8, text (label), 551, 504
+8, text (label), 490, 502
+9, text (label), 462, 521
+9, text (label), 463, 544
+9, text (label), 506, 542
+9, text (label), 503, 521
+10, text (label), 395, 544
+10, text (label), 396, 569
+10, text (label), 512, 569
+10, text (label), 509, 548
+11, text (label), 388, 499
+11, text (label), 392, 518
+11, text (label), 447, 512
+11, text (label), 447, 497
+12, data (points), 378, 547
+12, data (points), 392, 571
+12, data (points), 463, 541
+12, data (points), 488, 514
+12, data (points), 518, 480
+12, data (points), 625, 395
+12, data (points), 657, 387
+12, data (points), 692, 366
+12, data (points), 718, 340
+12, data (points), 756, 305
+12, data (points), 795, 266
+12, data (points), 802, 246
+12, data (points), 801, 237
+12, data (points), 773, 212
+12, data (points), 738, 188
+12, data (points), 710, 180
+12, data (points), 692, 180
+12, data (points), 673, 215
+12, data (points), 615, 322
+12, data (points), 616, 353
+12, data (points), 622, 368
+12, data (points), 605, 389
+12, data (points), 536, 454
+12, data (points), 491, 475
+12, data (points), 465, 486
+12, data (points), 448, 489
+12, data (points), 424, 497
+12, data (points), 406, 524
+12, data (points), 395, 538
+13, data, 336, 140
+13, data, 336, 663
+13, data, 952, 664
+13, data, 948, 131
+14, axis, 277, 129
+14, axis, 275, 676
+14, axis, 348, 669
+14, axis, 347, 143
+14, axis, 347, 125
+15, text (axis label), 280, 89
+15, text (axis label), 280, 118
+15, text (axis label), 612, 118
+15, text (axis label), 612, 95
+16, axis, 972, 694
+16, axis, 974, 651
+16, axis, 323, 651
+16, axis, 318, 696
+17, text (axis label), 433, 703
+17, text (axis label), 435, 725
+17, text (axis label), 819, 722
+17, text (axis label), 825, 701
+18, text (source), 18, 733
+18, text (source), 18, 752
+18, text (source), 283, 749
+18, text (source), 289, 731
+19, text (paragraph), 18, 97
+19, text (paragraph), 12, 701
+19, text (paragraph), 231, 701
+19, text (paragraph), 247, 97
+20, text, 19, 31
+20, text, 21, 82
+20, text, 101, 73
+20, text, 106, 34
+21, text (title), 115, 39
+21, text (title), 115, 67
+21, text (title), 968, 67
+21, text (title), 971, 42
+22, text, 752, 731
+22, text, 749, 748
+22, text, 959, 746
+22, text, 960, 734
+22, text, 959, 730
+23, object (pictogram - u.s. department of treasury), 981, 746
+23, object (pictogram - u.s. department of treasury), 979, 725
+23, object (pictogram - u.s. department of treasury), 957, 723
+23, object (pictogram - u.s. department of treasury), 958, 750
+24, graphical element, 0, 24
+24, graphical element, 1, 0
+24, graphical element, 998, 0
+24, graphical element, 999, 23
+25, text, 592, 24
+25, text, 594, 0
+25, text, 655, 1
+25, text, 655, 23
+26, graphical element, 44, 122
+26, graphical element, 21, 122
+26, graphical element, 23, 99
+26, graphical element, 49, 95
+27, graphical element, 35, 270
+27, graphical element, 36, 285
+27, graphical element, 22, 287
+27, graphical element, 20, 274
+28, graphical element, 38, 380
+28, graphical element, 36, 395
+28, graphical element, 20, 395
+28, graphical element, 24, 380
+29, graphical element, 28, 472
+29, graphical element, 46, 490
+29, graphical element, 24, 505

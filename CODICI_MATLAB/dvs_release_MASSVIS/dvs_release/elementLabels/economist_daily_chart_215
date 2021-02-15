@@ -1,0 +1,180 @@
+1, text (label), 143, 249
+1, text (label), 150, 284
+1, text (label), 218, 286
+1, text (label), 218, 252
+2, text (label), 297, 440
+2, text (label), 294, 469
+2, text (label), 358, 460
+2, text (label), 361, 442
+3, text (label), 452, 292
+3, text (label), 454, 313
+3, text (label), 509, 314
+3, text (label), 506, 286
+4, text (label), 534, 348
+4, text (label), 536, 368
+4, text (label), 582, 368
+4, text (label), 587, 345
+5, text (label), 548, 183
+5, text (label), 546, 254
+5, text (label), 624, 244
+5, text (label), 630, 183
+5, text (label), 630, 178
+6, text (label), 613, 282
+6, text (label), 613, 304
+6, text (label), 657, 297
+6, text (label), 661, 276
+7, text (label), 640, 244
+7, text (label), 640, 264
+7, text (label), 692, 262
+7, text (label), 692, 239
+8, text (label), 703, 161
+8, text (label), 703, 181
+8, text (label), 770, 180
+8, text (label), 770, 160
+9, text (label), 734, 279
+9, text (label), 736, 296
+9, text (label), 798, 294
+9, text (label), 798, 277
+10, text (label), 686, 321
+10, text (label), 684, 341
+10, text (label), 731, 341
+10, text (label), 731, 321
+11, text (label), 622, 385
+11, text (label), 622, 407
+11, text (label), 697, 405
+11, text (label), 697, 383
+12, text (label), 607, 324
+12, text (label), 607, 343
+12, text (label), 662, 341
+12, text (label), 662, 324
+13, text (label), 666, 422
+13, text (label), 666, 437
+13, text (label), 751, 437
+13, text (label), 751, 417
+14, text (label), 886, 249
+14, text (label), 886, 264
+14, text (label), 997, 262
+14, text (label), 993, 247
+15, text (label), 896, 292
+15, text (label), 896, 311
+15, text (label), 995, 309
+15, text (label), 997, 292
+16, data (map), 504, 143
+16, data (map), 415, 234
+16, data (map), 427, 276
+16, data (map), 427, 294
+16, data (map), 422, 331
+16, data (map), 413, 392
+16, data (map), 430, 422
+16, data (map), 462, 442
+16, data (map), 486, 469
+16, data (map), 494, 508
+16, data (map), 516, 551
+16, data (map), 548, 581
+16, data (map), 592, 568
+16, data (map), 650, 560
+16, data (map), 723, 578
+16, data (map), 760, 581
+16, data (map), 812, 590
+16, data (map), 854, 593
+16, data (map), 903, 598
+16, data (map), 939, 603
+16, data (map), 987, 600
+16, data (map), 998, 598
+16, data (map), 998, 563
+16, data (map), 997, 519
+16, data (map), 997, 87
+16, data (map), 519, 27
+17, data (map), 7, 264
+17, data (map), 108, 286
+17, data (map), 257, 639
+17, data (map), 308, 637
+17, data (map), 338, 575
+17, data (map), 385, 509
+17, data (map), 388, 462
+17, data (map), 383, 408
+17, data (map), 345, 375
+17, data (map), 329, 318
+17, data (map), 350, 267
+17, data (map), 387, 215
+17, data (map), 427, 183
+17, data (map), 461, 161
+17, data (map), 461, 101
+17, data (map), 461, 67
+17, data (map), 461, 40
+17, data (map), 427, 32
+17, data (map), 2, 108
+18, legend, 13, 529
+18, legend, 12, 634
+18, legend, 178, 630
+18, legend, 178, 533
+19, text (source), 640, 615
+19, text (source), 644, 645
+19, text (source), 992, 637
+19, text (source), 988, 617
+20, text, 37, 60
+20, text, 37, 82
+20, text, 74, 79
+20, text, 81, 55
+21, text (title), 35, 22
+21, text (title), 35, 55
+21, text (title), 338, 54
+21, text (title), 336, 22
+22, graphical element (economist red square), 3, 2
+22, graphical element (economist red square), 0, 42
+22, graphical element (economist red square), 18, 42
+22, graphical element (economist red square), 18, 3
+23, data, 3, 99
+23, data, 314, 49
+23, data, 427, 27
+23, data, 523, 17
+23, data, 998, 79
+23, data, 998, 605
+23, data, 593, 593
+23, data, 422, 575
+23, data, 324, 632
+23, data, 292, 642
+23, data, 227, 642
+23, data, 193, 581
+23, data, 178, 534
+23, data, 124, 427
+23, data, 0, 408
+24, text (label), 52, 622
+24, text (label), 50, 541
+24, text (label), 173, 544
+24, text (label), 170, 556
+24, text (label), 148, 588
+24, text (label), 92, 622
+25, annotation, 523, 217
+25, annotation, 543, 190
+25, annotation, 548, 192
+25, annotation, 555, 212
+25, annotation, 555, 225
+25, annotation, 538, 235
+25, annotation, 528, 235
+26, annotation, 548, 271
+26, annotation, 513, 311
+26, annotation, 503, 287
+27, annotation, 565, 316
+27, annotation, 571, 348
+27, annotation, 556, 348
+28, annotation, 578, 299
+28, annotation, 608, 324
+28, annotation, 607, 345
+29, annotation, 573, 271
+29, annotation, 635, 240
+29, annotation, 637, 266
+30, annotation, 679, 306
+30, annotation, 669, 388
+30, annotation, 644, 387
+31, annotation, 844, 267
+31, annotation, 886, 245
+31, annotation, 886, 271
+32, annotation, 849, 277
+32, annotation, 899, 289
+32, annotation, 897, 316
+32, annotation, 844, 284
+33, annotation, 783, 420
+33, annotation, 750, 440
+33, annotation, 750, 417
+33, annotation, 780, 403

@@ -1,0 +1,100 @@
+1, text (title), 4, 14
+1, text (title), 253, 8
+1, text (title), 231, 92
+1, text (title), 175, 92
+1, text (title), 101, 109
+1, text (title), 96, 98
+1, text (title), 89, 59
+1, text (title), 86, 39
+1, text (title), 78, 35
+1, text (title), 58, 40
+1, text (title), 56, 52
+1, text (title), 6, 58
+2, object (pictogram - truck), 6, 144
+2, object (pictogram - truck), 6, 94
+2, object (pictogram - truck), 29, 62
+2, object (pictogram - truck), 52, 53
+2, object (pictogram - truck), 56, 40
+2, object (pictogram - truck), 77, 33
+2, object (pictogram - truck), 85, 36
+2, object (pictogram - truck), 87, 58
+2, object (pictogram - truck), 96, 103
+2, object (pictogram - truck), 89, 120
+2, object (pictogram - truck), 79, 143
+2, object (pictogram - truck), 43, 138
+3, text (label), 24, 304
+3, text (label), 84, 291
+3, text (label), 94, 325
+3, text (label), 77, 329
+3, text (label), 34, 337
+4, text (label), 79, 354
+4, text (label), 142, 366
+4, text (label), 141, 393
+4, text (label), 79, 403
+5, text (label), 782, 523
+5, text (label), 788, 501
+5, text (label), 863, 504
+5, text (label), 861, 528
+6, text (label), 343, 211
+6, text (label), 343, 193
+6, text (label), 366, 193
+6, text (label), 366, 211
+7, text (label), 663, 50
+7, text (label), 663, 35
+7, text (label), 739, 29
+7, text (label), 737, 44
+8, text (label), 804, 21
+8, text (label), 857, 14
+8, text (label), 853, 46
+8, text (label), 803, 48
+9, text (label), 876, 64
+9, text (label), 874, 34
+9, text (label), 978, 34
+9, text (label), 974, 62
+10, text (source), 874, 614
+10, text (source), 999, 613
+10, text (source), 999, 644
+10, text (source), 878, 644
+11, object (pictogram - diagram), 276, 15
+11, object (pictogram - diagram), 266, 104
+11, object (pictogram - diagram), 236, 108
+11, object (pictogram - diagram), 244, 15
+12, data (diagram), 279, 58
+12, data (diagram), 285, 2
+12, data (diagram), 999, 1
+12, data (diagram), 999, 645
+12, data (diagram), 1, 645
+12, data (diagram), 2, 148
+12, data (diagram), 81, 142
+12, data (diagram), 97, 121
+12, data (diagram), 121, 108
+12, data (diagram), 156, 98
+12, data (diagram), 214, 94
+12, data (diagram), 234, 94
+12, data (diagram), 239, 104
+12, data (diagram), 266, 104
+13, data, 287, 1
+13, data, 999, 0
+13, data, 999, 644
+13, data, 1, 643
+13, data, 2, 148
+13, data, 83, 144
+13, data, 94, 124
+13, data, 126, 109
+13, data, 158, 101
+13, data, 229, 94
+13, data, 238, 103
+13, data, 270, 104
+14, object (pictogram - city), 288, 1
+14, object (pictogram - city), 999, 2
+14, object (pictogram - city), 999, 644
+14, object (pictogram - city), 1, 644
+14, object (pictogram - city), 0, 146
+14, object (pictogram - city), 85, 143
+14, object (pictogram - city), 92, 126
+14, object (pictogram - city), 125, 104
+14, object (pictogram - city), 146, 103
+14, object (pictogram - city), 193, 94
+14, object (pictogram - city), 231, 94
+14, object (pictogram - city), 238, 103
+14, object (pictogram - city), 266, 102

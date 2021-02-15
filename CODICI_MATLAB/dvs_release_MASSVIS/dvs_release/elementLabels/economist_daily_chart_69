@@ -1,0 +1,67 @@
+1, graphical element (economist red square), 3, 45
+1, graphical element (economist red square), 18, 45
+1, graphical element (economist red square), 17, 25
+1, graphical element (economist red square), 15, 2
+1, graphical element (economist red square), 3, 2
+2, text (title), 32, 20
+2, text (title), 34, 52
+2, text (title), 165, 52
+2, text (title), 165, 22
+3, text (paragraph), 29, 55
+3, text (paragraph), 34, 87
+3, text (paragraph), 274, 87
+3, text (paragraph), 269, 49
+4, text (source), 30, 529
+4, text (source), 136, 531
+4, text (source), 133, 558
+4, text (source), 25, 555
+5, axis (time), 24, 481
+5, axis (time), 951, 481
+5, axis (time), 950, 528
+5, axis (time), 27, 524
+6, text, 857, 533
+6, text, 973, 533
+6, text, 973, 558
+6, text, 857, 558
+7, legend, 366, 54
+7, legend, 366, 87
+7, legend, 751, 91
+7, legend, 751, 54
+8, axis, 980, 502
+8, axis, 946, 502
+8, axis, 941, 101
+8, axis, 976, 103
+9, data, 27, 96
+9, data, 938, 94
+9, data, 946, 482
+9, data, 22, 477
+10, data (line), 42, 254
+10, data (line), 183, 153
+10, data (line), 323, 193
+10, data (line), 494, 118
+10, data (line), 667, 113
+10, data (line), 692, 160
+10, data (line), 766, 109
+10, data (line), 931, 197
+10, data (line), 931, 250
+10, data (line), 782, 254
+10, data (line), 728, 469
+10, data (line), 657, 472
+10, data (line), 580, 202
+10, data (line), 442, 242
+10, data (line), 296, 301
+10, data (line), 176, 291
+10, data (line), 57, 329
+10, data (line), 34, 281
+11, annotation, 857, 212
+11, annotation, 877, 210
+11, annotation, 877, 230
+11, annotation, 857, 229
+12, text (label), 427, 81
+12, text (label), 427, 55
+12, text (label), 491, 57
+12, text (label), 491, 81
+13, text (label), 602, 82
+13, text (label), 602, 52
+13, text (label), 733, 54
+13, text (label), 731, 84

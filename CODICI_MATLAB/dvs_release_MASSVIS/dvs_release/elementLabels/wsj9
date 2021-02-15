@@ -1,0 +1,63 @@
+1, text (title), 43, 88
+1, text (title), 43, 32
+1, text (title), 395, 31
+1, text (title), 395, 86
+2, text (paragraph), 47, 97
+2, text (paragraph), 829, 90
+2, text (paragraph), 827, 205
+2, text (paragraph), 43, 205
+3, text (label), 40, 225
+3, text (label), 575, 222
+3, text (label), 575, 258
+3, text (label), 41, 259
+4, legend, 40, 268
+4, legend, 778, 267
+4, legend, 780, 301
+4, legend, 40, 303
+5, data, 38, 312
+5, data, 40, 650
+5, data, 973, 647
+5, data, 973, 317
+6, axis (time), 36, 656
+6, axis (time), 975, 650
+6, axis (time), 973, 676
+6, axis (time), 32, 683
+7, text (source), 16, 703
+7, text (source), 297, 701
+7, text (source), 295, 735
+7, text (source), 14, 733
+8, text (source), 728, 703
+8, text (source), 969, 699
+8, text (source), 971, 730
+8, text (source), 730, 731
+9, text (label), 85, 297
+9, text (label), 86, 272
+9, text (label), 400, 274
+9, text (label), 395, 299
+10, text (label), 463, 270
+10, text (label), 775, 272
+10, text (label), 777, 299
+10, text (label), 459, 297
+11, text (label), 50, 340
+11, text (label), 50, 315
+11, text (label), 337, 319
+11, text (label), 333, 340
+12, text (label), 54, 429
+12, text (label), 276, 431
+12, text (label), 272, 458
+12, text (label), 50, 454
+13, text (label), 52, 533
+13, text (label), 317, 531
+13, text (label), 315, 562
+13, text (label), 50, 557
+14, data (bars), 49, 349
+14, data (bars), 769, 348
+14, data (bars), 764, 402
+14, data (bars), 578, 431
+14, data (bars), 267, 465
+14, data (bars), 261, 503
+14, data (bars), 213, 524
+14, data (bars), 144, 576
+14, data (bars), 117, 600
+14, data (bars), 99, 640
+14, data (bars), 47, 641

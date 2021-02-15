@@ -1,0 +1,32 @@
+1, graphical element (economist red square), 3, 47
+1, graphical element (economist red square), 18, 47
+1, graphical element (economist red square), 17, 0
+1, graphical element (economist red square), 0, 2
+2, text (title), 34, 15
+2, text (title), 35, 54
+2, text (title), 255, 54
+2, text (title), 255, 22
+3, text (paragraph), 29, 54
+3, text (paragraph), 29, 86
+3, text (paragraph), 382, 84
+3, text (paragraph), 382, 50
+4, text (source), 29, 539
+4, text (source), 29, 570
+4, text (source), 269, 566
+4, text (source), 266, 539
+5, text, 854, 538
+5, text, 854, 566
+5, text, 975, 568
+5, text, 970, 536
+6, text (header row), 32, 104
+6, text (header row), 32, 139
+6, text (header row), 975, 139
+6, text (header row), 971, 104
+7, data, 30, 97
+7, data, 32, 529
+7, data, 968, 533
+7, data, 971, 101
+8, data (table), 30, 94
+8, data (table), 30, 531
+8, data (table), 971, 529
+8, data (table), 971, 101

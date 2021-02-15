@@ -1,0 +1,129 @@
+1, data (tree/network), 68, 376
+1, data (tree/network), 0, 377
+1, data (tree/network), 2, 3
+1, data (tree/network), 79, 6
+2, data (grid/matrix), 236, 424
+2, data (grid/matrix), 240, 277
+2, data (grid/matrix), 928, 274
+2, data (grid/matrix), 918, 428
+3, data (grid/matrix), 239, 272
+3, data (grid/matrix), 236, 230
+3, data (grid/matrix), 997, 228
+3, data (grid/matrix), 997, 267
+4, data (grid/matrix), 239, 186
+4, data (grid/matrix), 245, 138
+4, data (grid/matrix), 885, 145
+4, data (grid/matrix), 881, 186
+5, data (grid/matrix), 240, 70
+5, data (grid/matrix), 912, 71
+5, data (grid/matrix), 905, 122
+5, data (grid/matrix), 239, 127
+5, data (grid/matrix), 243, 77
+6, data (grid/matrix), 242, 0
+6, data (grid/matrix), 899, 1
+6, data (grid/matrix), 892, 62
+6, data (grid/matrix), 236, 57
+7, text (label), 114, 390
+7, text (label), 115, 341
+7, text (label), 234, 343
+7, text (label), 230, 389
+8, text (label), 81, 266
+8, text (label), 86, 227
+8, text (label), 216, 229
+8, text (label), 214, 269
+9, text (label), 119, 191
+9, text (label), 122, 146
+9, text (label), 236, 147
+9, text (label), 234, 193
+10, text (label), 153, 124
+10, text (label), 151, 79
+10, text (label), 230, 81
+10, text (label), 224, 122
+11, text (label), 134, 49
+11, text (label), 142, 1
+11, text (label), 239, 3
+11, text (label), 233, 50
+12, object (pictogram - woman), 64, 427
+12, object (pictogram - woman), 72, 314
+12, object (pictogram - woman), 109, 317
+12, object (pictogram - woman), 106, 428
+13, object (pictogram - fish), 76, 303
+13, object (pictogram - fish), 77, 273
+13, object (pictogram - fish), 221, 273
+13, object (pictogram - fish), 219, 302
+14, object (pictogram - fly), 117, 203
+14, object (pictogram - fly), 60, 204
+14, object (pictogram - fly), 60, 162
+14, object (pictogram - fly), 81, 132
+14, object (pictogram - fly), 126, 137
+15, object (pictogram - worm), 146, 81
+15, object (pictogram - worm), 149, 112
+15, object (pictogram - worm), 103, 125
+15, object (pictogram - worm), 63, 89
+15, object (pictogram - worm), 68, 72
+16, object (pictogram - oyster), 129, 52
+16, object (pictogram - oyster), 87, 53
+16, object (pictogram - oyster), 82, 14
+16, object (pictogram - oyster), 84, 0
+16, object (pictogram - oyster), 134, 3
+17, data, 0, 427
+17, data, 0, 1
+17, data, 999, 0
+17, data, 999, 426
+18, text (label), 243, 23
+18, text (label), 246, 2
+18, text (label), 545, 4
+18, text (label), 541, 20
+19, text (label), 319, 38
+19, text (label), 425, 38
+19, text (label), 427, 56
+19, text (label), 319, 58
+20, text (label), 515, 40
+20, text (label), 871, 38
+20, text (label), 871, 58
+20, text (label), 512, 57
+21, text (label), 596, 22
+21, text (label), 599, 2
+21, text (label), 702, 2
+21, text (label), 698, 23
+22, text (label), 752, 20
+22, text (label), 752, 3
+22, text (label), 883, 1
+22, text (label), 882, 21
+23, text (label), 245, 93
+23, text (label), 246, 74
+23, text (label), 698, 74
+23, text (label), 697, 94
+23, text (label), 253, 95
+24, text (label), 352, 114
+24, text (label), 393, 114
+24, text (label), 394, 131
+24, text (label), 353, 130
+25, text (label), 754, 93
+25, text (label), 751, 75
+25, text (label), 876, 72
+25, text (label), 872, 94
+26, text (label), 248, 162
+26, text (label), 249, 144
+26, text (label), 351, 147
+26, text (label), 355, 131
+26, text (label), 383, 131
+26, text (label), 387, 145
+26, text (label), 706, 143
+26, text (label), 706, 164
+27, text (label), 791, 162
+27, text (label), 791, 144
+27, text (label), 851, 144
+27, text (label), 846, 163
+28, text (label), 244, 252
+28, text (label), 246, 230
+28, text (label), 998, 232
+28, text (label), 999, 253
+29, text (label), 259, 330
+29, text (label), 256, 313
+29, text (label), 291, 284
+29, text (label), 727, 286
+29, text (label), 746, 275
+29, text (label), 905, 278
+29, text (label), 915, 294
+29, text (label), 871, 328

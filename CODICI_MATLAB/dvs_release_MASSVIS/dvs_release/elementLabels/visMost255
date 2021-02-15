@@ -1,0 +1,313 @@
+1, text (title), 12, 40
+1, text (title), 11, 12
+1, text (title), 717, 11
+1, text (title), 717, 40
+2, text, 218, 55
+2, text, 218, 43
+2, text, 507, 44
+2, text, 508, 57
+3, graphical element, 10, 57
+3, graphical element, 12, 42
+3, graphical element, 716, 42
+3, graphical element, 713, 58
+4, text, 18, 68
+4, text, 19, 59
+4, text, 59, 59
+4, text, 56, 68
+5, text, 344, 59
+5, text, 396, 60
+5, text, 396, 68
+5, text, 343, 68
+6, text, 653, 68
+6, text, 653, 59
+6, text, 714, 59
+6, text, 713, 67
+7, object (pictogram - arrow), 698, 88
+7, object (pictogram - arrow), 697, 74
+7, object (pictogram - arrow), 716, 74
+7, object (pictogram - arrow), 715, 88
+8, axis (time), 717, 70
+8, axis (time), 715, 968
+8, axis (time), 696, 969
+8, axis (time), 694, 71
+9, object (pictogram - arrow), 695, 970
+9, object (pictogram - arrow), 697, 953
+9, object (pictogram - arrow), 713, 953
+9, object (pictogram - arrow), 714, 969
+10, graphical element, 559, 972
+10, graphical element, 715, 970
+10, graphical element, 715, 985
+10, graphical element, 560, 985
+11, object (pictogram - computer accessories), 213, 76
+11, object (pictogram - computer accessories), 211, 151
+11, object (pictogram - computer accessories), 192, 202
+11, object (pictogram - computer accessories), 147, 216
+11, object (pictogram - computer accessories), 141, 170
+11, object (pictogram - computer accessories), 87, 170
+11, object (pictogram - computer accessories), 92, 226
+11, object (pictogram - computer accessories), 147, 231
+11, object (pictogram - computer accessories), 149, 318
+11, object (pictogram - computer accessories), 112, 328
+11, object (pictogram - computer accessories), 114, 365
+11, object (pictogram - computer accessories), 78, 368
+11, object (pictogram - computer accessories), 80, 433
+11, object (pictogram - computer accessories), 15, 435
+11, object (pictogram - computer accessories), 22, 313
+11, object (pictogram - computer accessories), 47, 305
+11, object (pictogram - computer accessories), 44, 245
+11, object (pictogram - computer accessories), 30, 231
+11, object (pictogram - computer accessories), 28, 79
+11, object (pictogram - computer accessories), 94, 80
+11, object (pictogram - computer accessories), 99, 110
+11, object (pictogram - computer accessories), 152, 112
+11, object (pictogram - computer accessories), 167, 74
+12, object (pictogram - computer accessories), 22, 543
+12, object (pictogram - computer accessories), 60, 543
+12, object (pictogram - computer accessories), 59, 636
+12, object (pictogram - computer accessories), 22, 635
+13, object (pictogram - computer accessories), 57, 797
+13, object (pictogram - computer accessories), 59, 950
+13, object (pictogram - computer accessories), 25, 951
+13, object (pictogram - computer accessories), 24, 903
+13, object (pictogram - computer accessories), 25, 795
+14, object (pictogram - computers), 83, 922
+14, object (pictogram - computers), 85, 814
+14, object (pictogram - computers), 120, 804
+14, object (pictogram - computers), 194, 804
+14, object (pictogram - computers), 194, 922
+15, object (pictogram - computers), 179, 782
+15, object (pictogram - computers), 100, 784
+15, object (pictogram - computers), 93, 732
+15, object (pictogram - computers), 111, 722
+15, object (pictogram - computers), 114, 696
+15, object (pictogram - computers), 77, 691
+15, object (pictogram - computers), 76, 504
+15, object (pictogram - computers), 98, 498
+15, object (pictogram - computers), 97, 426
+15, object (pictogram - computers), 87, 420
+15, object (pictogram - computers), 88, 378
+15, object (pictogram - computers), 153, 378
+15, object (pictogram - computers), 156, 351
+15, object (pictogram - computers), 171, 336
+15, object (pictogram - computers), 187, 321
+15, object (pictogram - computers), 231, 317
+15, object (pictogram - computers), 236, 289
+15, object (pictogram - computers), 272, 284
+15, object (pictogram - computers), 279, 256
+15, object (pictogram - computers), 326, 253
+15, object (pictogram - computers), 340, 236
+15, object (pictogram - computers), 340, 179
+15, object (pictogram - computers), 302, 179
+15, object (pictogram - computers), 297, 106
+15, object (pictogram - computers), 311, 100
+15, object (pictogram - computers), 339, 79
+15, object (pictogram - computers), 357, 77
+15, object (pictogram - computers), 393, 77
+15, object (pictogram - computers), 394, 103
+15, object (pictogram - computers), 425, 106
+15, object (pictogram - computers), 422, 171
+15, object (pictogram - computers), 391, 179
+15, object (pictogram - computers), 385, 298
+15, object (pictogram - computers), 320, 298
+15, object (pictogram - computers), 289, 297
+15, object (pictogram - computers), 288, 317
+15, object (pictogram - computers), 262, 324
+15, object (pictogram - computers), 244, 335
+15, object (pictogram - computers), 234, 348
+15, object (pictogram - computers), 205, 364
+15, object (pictogram - computers), 207, 546
+15, object (pictogram - computers), 194, 586
+15, object (pictogram - computers), 177, 604
+15, object (pictogram - computers), 179, 638
+15, object (pictogram - computers), 192, 652
+15, object (pictogram - computers), 190, 706
+15, object (pictogram - computers), 167, 722
+15, object (pictogram - computers), 187, 730
+16, object (pictogram - computer), 228, 927
+16, object (pictogram - computer), 227, 909
+16, object (pictogram - computer), 252, 910
+16, object (pictogram - computer), 251, 929
+17, object (pictogram - computer), 227, 762
+17, object (pictogram - computer), 226, 740
+17, object (pictogram - computer), 251, 741
+17, object (pictogram - computer), 250, 763
+18, object (pictogram - computer), 230, 632
+18, object (pictogram - computer), 226, 593
+18, object (pictogram - computer), 255, 595
+18, object (pictogram - computer), 251, 634
+19, object (pictogram - computers), 260, 546
+19, object (pictogram - computers), 262, 513
+19, object (pictogram - computers), 211, 508
+19, object (pictogram - computers), 215, 368
+19, object (pictogram - computers), 268, 365
+19, object (pictogram - computers), 271, 332
+19, object (pictogram - computers), 344, 330
+19, object (pictogram - computers), 364, 358
+19, object (pictogram - computers), 368, 363
+19, object (pictogram - computers), 368, 378
+19, object (pictogram - computers), 358, 402
+19, object (pictogram - computers), 344, 420
+19, object (pictogram - computers), 344, 462
+19, object (pictogram - computers), 341, 504
+19, object (pictogram - computers), 319, 521
+19, object (pictogram - computers), 308, 539
+19, object (pictogram - computers), 306, 546
+20, object (pictogram - computers), 612, 82
+20, object (pictogram - computers), 624, 106
+20, object (pictogram - computers), 660, 106
+20, object (pictogram - computers), 667, 137
+20, object (pictogram - computers), 625, 152
+20, object (pictogram - computers), 618, 204
+20, object (pictogram - computers), 641, 225
+20, object (pictogram - computers), 665, 230
+20, object (pictogram - computers), 664, 251
+20, object (pictogram - computers), 626, 253
+20, object (pictogram - computers), 625, 226
+20, object (pictogram - computers), 611, 214
+20, object (pictogram - computers), 567, 220
+20, object (pictogram - computers), 570, 245
+20, object (pictogram - computers), 608, 256
+20, object (pictogram - computers), 626, 288
+20, object (pictogram - computers), 624, 307
+20, object (pictogram - computers), 513, 307
+20, object (pictogram - computers), 508, 204
+20, object (pictogram - computers), 524, 158
+20, object (pictogram - computers), 572, 126
+20, object (pictogram - computers), 560, 97
+20, object (pictogram - computers), 571, 81
+21, object (pictogram - computers), 396, 319
+21, object (pictogram - computers), 488, 318
+21, object (pictogram - computers), 508, 339
+21, object (pictogram - computers), 491, 362
+21, object (pictogram - computers), 460, 366
+21, object (pictogram - computers), 452, 388
+21, object (pictogram - computers), 438, 417
+21, object (pictogram - computers), 440, 433
+21, object (pictogram - computers), 448, 438
+21, object (pictogram - computers), 451, 501
+21, object (pictogram - computers), 456, 509
+21, object (pictogram - computers), 453, 556
+21, object (pictogram - computers), 378, 562
+21, object (pictogram - computers), 357, 564
+21, object (pictogram - computers), 347, 553
+21, object (pictogram - computers), 355, 465
+21, object (pictogram - computers), 360, 433
+21, object (pictogram - computers), 374, 387
+21, object (pictogram - computers), 395, 374
+22, object (pictogram - computers), 286, 561
+22, object (pictogram - computers), 351, 563
+22, object (pictogram - computers), 369, 579
+22, object (pictogram - computers), 371, 645
+22, object (pictogram - computers), 352, 716
+22, object (pictogram - computers), 322, 742
+22, object (pictogram - computers), 322, 835
+22, object (pictogram - computers), 289, 834
+22, object (pictogram - computers), 288, 683
+22, object (pictogram - computers), 317, 666
+22, object (pictogram - computers), 318, 622
+22, object (pictogram - computers), 277, 618
+23, object (pictogram - computers), 692, 323
+23, object (pictogram - computers), 693, 387
+23, object (pictogram - computers), 620, 389
+23, object (pictogram - computers), 620, 408
+23, object (pictogram - computers), 619, 481
+23, object (pictogram - computers), 550, 486
+23, object (pictogram - computers), 550, 508
+23, object (pictogram - computers), 603, 511
+23, object (pictogram - computers), 609, 535
+23, object (pictogram - computers), 609, 544
+23, object (pictogram - computers), 570, 546
+23, object (pictogram - computers), 568, 565
+23, object (pictogram - computers), 540, 571
+23, object (pictogram - computers), 543, 614
+23, object (pictogram - computers), 539, 628
+23, object (pictogram - computers), 513, 635
+23, object (pictogram - computers), 515, 653
+23, object (pictogram - computers), 540, 663
+23, object (pictogram - computers), 545, 669
+23, object (pictogram - computers), 546, 694
+23, object (pictogram - computers), 543, 758
+23, object (pictogram - computers), 510, 763
+23, object (pictogram - computers), 510, 796
+23, object (pictogram - computers), 462, 821
+23, object (pictogram - computers), 471, 842
+23, object (pictogram - computers), 542, 841
+23, object (pictogram - computers), 542, 938
+23, object (pictogram - computers), 465, 941
+23, object (pictogram - computers), 462, 866
+23, object (pictogram - computers), 386, 860
+23, object (pictogram - computers), 383, 841
+23, object (pictogram - computers), 390, 823
+23, object (pictogram - computers), 392, 788
+23, object (pictogram - computers), 401, 760
+23, object (pictogram - computers), 468, 753
+23, object (pictogram - computers), 470, 732
+23, object (pictogram - computers), 377, 734
+23, object (pictogram - computers), 370, 702
+23, object (pictogram - computers), 375, 693
+23, object (pictogram - computers), 412, 662
+23, object (pictogram - computers), 420, 565
+23, object (pictogram - computers), 472, 562
+23, object (pictogram - computers), 471, 531
+23, object (pictogram - computers), 477, 506
+23, object (pictogram - computers), 502, 503
+23, object (pictogram - computers), 504, 485
+23, object (pictogram - computers), 471, 484
+23, object (pictogram - computers), 462, 443
+23, object (pictogram - computers), 465, 421
+23, object (pictogram - computers), 482, 385
+23, object (pictogram - computers), 525, 378
+23, object (pictogram - computers), 532, 353
+23, object (pictogram - computers), 553, 324
+24, object (pictogram - tablet computers), 626, 589
+24, object (pictogram - tablet computers), 629, 550
+24, object (pictogram - tablet computers), 640, 532
+24, object (pictogram - tablet computers), 638, 472
+24, object (pictogram - tablet computers), 626, 462
+24, object (pictogram - tablet computers), 630, 430
+24, object (pictogram - tablet computers), 655, 397
+24, object (pictogram - tablet computers), 681, 401
+24, object (pictogram - tablet computers), 690, 437
+24, object (pictogram - tablet computers), 693, 458
+24, object (pictogram - tablet computers), 687, 489
+24, object (pictogram - tablet computers), 679, 495
+24, object (pictogram - tablet computers), 680, 544
+24, object (pictogram - tablet computers), 691, 554
+24, object (pictogram - tablet computers), 692, 580
+24, object (pictogram - tablet computers), 691, 594
+25, object (pictogram - ipod), 622, 666
+25, object (pictogram - ipod), 622, 626
+25, object (pictogram - ipod), 647, 625
+25, object (pictogram - ipod), 643, 671
+26, object (pictogram - ipods and ipads), 649, 716
+26, object (pictogram - ipods and ipads), 650, 786
+26, object (pictogram - ipods and ipads), 616, 789
+26, object (pictogram - ipods and ipads), 615, 806
+26, object (pictogram - ipods and ipads), 685, 815
+26, object (pictogram - ipods and ipads), 694, 859
+26, object (pictogram - ipods and ipads), 691, 895
+26, object (pictogram - ipods and ipads), 689, 968
+26, object (pictogram - ipods and ipads), 605, 969
+26, object (pictogram - ipods and ipads), 597, 944
+26, object (pictogram - ipods and ipads), 556, 940
+26, object (pictogram - ipods and ipads), 566, 876
+26, object (pictogram - ipods and ipads), 588, 874
+26, object (pictogram - ipods and ipads), 605, 877
+26, object (pictogram - ipods and ipads), 614, 896
+26, object (pictogram - ipods and ipads), 641, 896
+26, object (pictogram - ipods and ipads), 638, 879
+26, object (pictogram - ipods and ipads), 621, 876
+26, object (pictogram - ipods and ipads), 619, 848
+26, object (pictogram - ipods and ipads), 557, 846
+26, object (pictogram - ipods and ipads), 560, 748
+26, object (pictogram - ipods and ipads), 601, 747
+26, object (pictogram - ipods and ipads), 618, 742
+26, object (pictogram - ipods and ipads), 624, 716
+27, data (diagram), 11, 69
+27, data (diagram), 696, 72
+27, data (diagram), 691, 970
+27, data (diagram), 9, 970
+28, data, 7, 67
+28, data, 701, 73
+28, data, 689, 971
+28, data, 9, 968

@@ -1,0 +1,36 @@
+1, data (grid/matrix), 80, 92
+1, data (grid/matrix), 79, 895
+1, data (grid/matrix), 680, 898
+1, data (grid/matrix), 685, 98
+2, data, 87, 94
+2, data, 81, 892
+2, data, 679, 897
+2, data, 686, 102
+3, axis (time), 81, 64
+3, axis (time), 81, 96
+3, axis (time), 699, 94
+3, axis (time), 694, 68
+4, axis (time), 31, 76
+4, axis (time), 36, 904
+4, axis (time), 76, 901
+4, axis (time), 79, 76
+5, legend, 107, 912
+5, legend, 107, 980
+5, legend, 639, 983
+5, legend, 641, 919
+6, text (title), 26, 25
+6, text (title), 26, 59
+6, text (title), 690, 59
+6, text (title), 694, 20
+7, text (label), 280, 948
+7, text (label), 281, 920
+7, text (label), 446, 924
+7, text (label), 447, 947
+8, text (label), 116, 954
+8, text (label), 237, 956
+8, text (label), 237, 980
+8, text (label), 113, 982
+9, text (label), 494, 951
+9, text (label), 624, 953
+9, text (label), 624, 980
+9, text (label), 493, 980
