@@ -51,6 +51,8 @@ Qui sotto elencherò le caratteristiche di quello che si trova all’interno del
 
 		1.2.11) TextSaliency_graph: è quello che viene generato solo dall’analisi del testo;
 
+		1.2.12) Descrizione_graph: è un file di testo che contiene elencate le caratteristiche presenti nell'immagine ed usate per generarla tramite python;
+
 	1.3) ORIGINALI: questa cartella contiene tutte e 30 le immagini usate per l’esperimento così come sono state create originariamente, da “graph0” a “graph29”.
 
 2) MASSVIS: questa cartella contiene tutte le informazioni riguardanti al dataset di MASSVIS. Al suo interno contiene quattro sottocartelle:
